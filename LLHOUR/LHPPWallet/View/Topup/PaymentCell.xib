@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.XIB" version="3.0" toolsVersion="14113" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" useSafeAreas="YES" colorMatched="YES">
+    <device id="retina4_7" orientation="portrait">
+        <adaptation id="fullscreen"/>
+    </device>
+    <dependencies>
+        <deployment identifier="iOS"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="14088"/>
+        <capability name="Safe area layout guides" minToolsVersion="9.0"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
+    </dependencies>
+    <objects>
+        <placeholder placeholderIdentifier="IBFilesOwner" id="-1" userLabel="File's Owner"/>
+        <placeholder placeholderIdentifier="IBFirstResponder" id="-2" customClass="UIResponder"/>
+        <tableViewCell contentMode="scaleToFill" selectionStyle="default" indentationWidth="10" reuseIdentifier="PaymentCell" rowHeight="64" id="aIv-tz-pk4" customClass="PaymentCell" customModule="LHPP_Wallet" customModuleProvider="target">
+            <rect key="frame" x="0.0" y="0.0" width="320" height="64"/>
+            <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+            <tableViewCellContentView key="contentView" opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center" tableViewCell="aIv-tz-pk4" id="l1S-GF-ZXv">
+                <rect key="frame" x="0.0" y="0.0" width="320" height="63.5"/>
+                <autoresizingMask key="autoresizingMask"/>
+                <subviews>
+                    <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="sBr-DH-8OI">
+                        <rect key="frame" x="0.0" y="0.0" width="320" height="64"/>
+                        <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                    </view>
+                    <imageView userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="expand-arrow-50" translatesAutoresizingMaskIntoConstraints="NO" id="S3P-x3-fLF">
+                        <rect key="frame" x="293" y="22" width="16" height="16"/>
+                        <constraints>
+                            <constraint firstAttribute="height" constant="16" id="NTy-hU-qNv"/>
+                            <constraint firstAttribute="width" constant="16" id="rkQ-ip-5Rq"/>
+                        </constraints>
+                    </imageView>
+                    <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="$ 840.46" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="fXG-K7-5LM">
+                        <rect key="frame" x="57" y="33" width="60" height="17"/>
+                        <fontDescription key="fontDescription" type="system" pointSize="14"/>
+                        <nil key="textColor"/>
+                        <nil key="highlightedColor"/>
+                    </label>
+                    <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="USD Wallet" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" minimumScaleFactor="0.5" translatesAutoresizingMaskIntoConstraints="NO" id="Dhq-PG-T4h">
+                        <rect key="frame" x="57" y="17" width="73" height="17"/>
+                        <fontDescription key="fontDescription" type="system" pointSize="14"/>
+                        <nil key="textColor"/>
+                        <nil key="highlightedColor"/>
+                    </label>
+                    <imageView userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="flag_kh" translatesAutoresizingMaskIntoConstraints="NO" id="zyg-Lp-ZFz">
+                        <rect key="frame" x="9" y="16" width="40" height="40"/>
+                        <constraints>
+                            <constraint firstAttribute="width" constant="40" id="OgU-3E-rN3"/>
+                            <constraint firstAttribute="height" constant="40" id="h9j-68-NiB"/>
+                        </constraints>
+                    </imageView>
+                </subviews>
+                <color key="backgroundColor" red="0.92931067940000001" green="0.92946994299999997" blue="0.92930072549999998" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                <constraints>
+                    <constraint firstItem="zyg-Lp-ZFz" firstAttribute="top" secondItem="l1S-GF-ZXv" secondAttribute="top" constant="16" id="0qg-8n-vtn"/>
+                    <constraint firstItem="Dhq-PG-T4h" firstAttribute="leading" secondItem="zyg-Lp-ZFz" secondAttribute="trailing" constant="8" id="4Of-D3-eMZ"/>
+                    <constraint firstAttribute="trailing" secondItem="S3P-x3-fLF" secondAttribute="trailing" constant="11" id="4RY-d2-waX"/>
+                    <constraint firstItem="sBr-DH-8OI" firstAttribute="top" secondItem="l1S-GF-ZXv" secondAttribute="top" id="7uv-S2-6Wd"/>
+                    <constraint firstItem="zyg-Lp-ZFz" firstAttribute="leading" secondItem="l1S-GF-ZXv" secondAttribute="leading" constant="9" id="8C9-WD-L6f"/>
+                    <constraint firstItem="fXG-K7-5LM" firstAttribute="leading" secondItem="zyg-Lp-ZFz" secondAttribute="trailing" constant="8" id="F4z-L7-8Ea"/>
+                    <constraint firstItem="S3P-x3-fLF" firstAttribute="top" secondItem="l1S-GF-ZXv" secondAttribute="top" constant="22" id="Gyb-Vo-Xk2"/>
+                    <constraint firstAttribute="bottom" secondItem="zyg-Lp-ZFz" secondAttribute="bottom" constant="19.5" id="IzI-dX-gAU"/>
+                    <constraint firstAttribute="bottom" secondItem="sBr-DH-8OI" secondAttribute="bottom" constant="11.5" id="LmV-Rj-OWi"/>
+                    <constraint firstAttribute="trailing" secondItem="sBr-DH-8OI" secondAttribute="trailing" id="Mqh-IZ-btp"/>
+                    <constraint firstAttribute="bottom" secondItem="S3P-x3-fLF" secondAttribute="bottom" constant="37.5" id="ZVr-Ue-ZhZ"/>
+                    <constraint firstItem="fXG-K7-5LM" firstAttribute="top" secondItem="Dhq-PG-T4h" secondAttribute="bottom" constant="-1" id="l49-lI-7bY"/>
+                    <constraint firstAttribute="bottom" relation="lessThanOrEqual" secondItem="fXG-K7-5LM" secondAttribute="bottom" constant="25.5" id="lL6-49-IeC"/>
+                    <constraint firstItem="sBr-DH-8OI" firstAttribute="leading" secondItem="l1S-GF-ZXv" secondAttribute="leading" id="mYg-8s-DFO"/>
+                    <constraint firstItem="S3P-x3-fLF" firstAttribute="leading" relation="lessThanOrEqual" secondItem="Dhq-PG-T4h" secondAttribute="trailing" constant="163" id="tGo-s2-4GT"/>
+                    <constraint firstItem="S3P-x3-fLF" firstAttribute="leading" relation="lessThanOrEqual" secondItem="fXG-K7-5LM" secondAttribute="trailing" constant="176" id="tvT-RA-46M"/>
+                    <constraint firstItem="Dhq-PG-T4h" firstAttribute="top" secondItem="l1S-GF-ZXv" secondAttribute="top" constant="17" id="vwe-1a-K0i"/>
+                </constraints>
+            </tableViewCellContentView>
+            <viewLayoutGuide key="safeArea" id="wHJ-5D-uF8"/>
+            <connections>
+                <outlet property="bgInstantImageView" destination="sBr-DH-8OI" id="00K-tK-WDe"/>
+                <outlet property="currencyLabel" destination="fXG-K7-5LM" id="AVK-zB-qMC"/>
+                <outlet property="flatImageView" destination="zyg-Lp-ZFz" id="AYY-V7-MYc"/>
+                <outlet property="typeWalletLabel" destination="Dhq-PG-T4h" id="hRs-aA-gCj"/>
+            </connections>
+            <point key="canvasLocation" x="-203" y="-468"/>
+        </tableViewCell>
+    </objects>
+    <resources>
+        <image name="expand-arrow-50" width="16" height="16"/>
+        <image name="flag_kh" width="20" height="21"/>
+    </resources>
+</document>

@@ -1,0 +1,332 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+- "MotionCoreAnimator"
+provides-nominal:
+- "6Motion0A12CoreAnimatorC"
+provides-member:
+- ["6Motion0A12CoreAnimatorC", ""]
+provides-dynamic-lookup:
+depends-top-level:
+- !private "!="
+- !private "+"
+- !private "=="
+- "AssignmentPrecedence"
+- "Bool"
+- !private "BooleanLiteralType"
+- !private "FloatLiteralType"
+- !private "IntegerLiteralType"
+- "MotionAnimator"
+- "MotionAnimatorViewContext"
+- "MotionContext"
+- "MotionCoreAnimator"
+- "MotionTargetState"
+- "MotionTransition"
+- "TimeInterval"
+- "UIView"
+- !private "max"
+depends-member:
+- !private ["SB", "infinity"]
+- !private ["Sb", "_getBuiltinLogicValue"]
+- !private ["So15CALayerDelegateP", "optimizedDuration"]
+- !private ["s7CVarArgP", "_getBuiltinLogicValue"]
+- !private ["s7CVarArgP", "context"]
+- !private ["s7CVarArgP", "infinity"]
+- ["s7CVarArgP", "init"]
+- !private ["s7CVarArgP", "optimizedDuration"]
+- !private ["s7CVarArgP", "removeAll"]
+- !private ["s7CVarArgP", "subscript"]
+- !private ["s7CVarArgP", "values"]
+- ["Sl", "init"]
+- !private ["Sl", "removeAll"]
+- !private ["Sl", "subscript"]
+- !private ["Sl", "values"]
+- !private ["SL", "infinity"]
+- !private ["s28CustomDebugStringConvertibleP", "context"]
+- !private ["s28CustomDebugStringConvertibleP", "infinity"]
+- ["s28CustomDebugStringConvertibleP", "init"]
+- !private ["s28CustomDebugStringConvertibleP", "optimizedDuration"]
+- !private ["s28CustomDebugStringConvertibleP", "removeAll"]
+- !private ["s28CustomDebugStringConvertibleP", "snapshotView"]
+- !private ["s28CustomDebugStringConvertibleP", "subscript"]
+- !private ["s28CustomDebugStringConvertibleP", "values"]
+- !private ["s29CustomPlaygroundQuickLookableP", "_getBuiltinLogicValue"]
+- !private ["s29CustomPlaygroundQuickLookableP", "infinity"]
+- !private ["s17CustomReflectableP", "_getBuiltinLogicValue"]
+- !private ["s17CustomReflectableP", "context"]
+- !private ["s17CustomReflectableP", "infinity"]
+- ["s17CustomReflectableP", "init"]
+- !private ["s17CustomReflectableP", "removeAll"]
+- !private ["s17CustomReflectableP", "snapshotView"]
+- !private ["s17CustomReflectableP", "subscript"]
+- !private ["s17CustomReflectableP", "values"]
+- !private ["s23CustomStringConvertibleP", "_getBuiltinLogicValue"]
+- !private ["s23CustomStringConvertibleP", "context"]
+- !private ["s23CustomStringConvertibleP", "infinity"]
+- ["s23CustomStringConvertibleP", "init"]
+- !private ["s23CustomStringConvertibleP", "optimizedDuration"]
+- !private ["s23CustomStringConvertibleP", "removeAll"]
+- !private ["s23CustomStringConvertibleP", "subscript"]
+- !private ["s23CustomStringConvertibleP", "values"]
+- !private ["Se", "_getBuiltinLogicValue"]
+- !private ["Se", "context"]
+- !private ["Se", "infinity"]
+- ["Se", "init"]
+- !private ["Se", "removeAll"]
+- !private ["Se", "snapshotView"]
+- !private ["Se", "subscript"]
+- !private ["Se", "values"]
+- ["SD", "init"]
+- !private ["SD", "removeAll"]
+- !private ["SD", "subscript"]
+- !private ["SD", "values"]
+- !private ["Sd", "infinity"]
+- !private ["SE", "_getBuiltinLogicValue"]
+- !private ["SE", "context"]
+- !private ["SE", "infinity"]
+- ["SE", "init"]
+- !private ["SE", "removeAll"]
+- !private ["SE", "snapshotView"]
+- !private ["SE", "subscript"]
+- !private ["SE", "values"]
+- !private ["SQ", "_getBuiltinLogicValue"]
+- !private ["SQ", "context"]
+- !private ["SQ", "infinity"]
+- ["SQ", "init"]
+- !private ["SQ", "optimizedDuration"]
+- !private ["SQ", "removeAll"]
+- !private ["SQ", "snapshotView"]
+- !private ["SQ", "subscript"]
+- !private ["SQ", "values"]
+- !private ["s25ExpressibleByArrayLiteralP", "duration"]
+- !private ["s27ExpressibleByBooleanLiteralP", "_getBuiltinLogicValue"]
+- ["s30ExpressibleByDictionaryLiteralP", "init"]
+- !private ["s30ExpressibleByDictionaryLiteralP", "removeAll"]
+- !private ["s30ExpressibleByDictionaryLiteralP", "subscript"]
+- !private ["s30ExpressibleByDictionaryLiteralP", "values"]
+- !private ["s25ExpressibleByFloatLiteralP", "infinity"]
+- !private ["s27ExpressibleByIntegerLiteralP", "infinity"]
+- !private ["s23ExpressibleByNilLiteralP", "context"]
+- !private ["s23ExpressibleByNilLiteralP", "infinity"]
+- !private ["s23ExpressibleByNilLiteralP", "snapshotView"]
+- !private ["s23ExpressibleByNilLiteralP", "subscript"]
+- !private ["SF", "infinity"]
+- !private ["SH", "_getBuiltinLogicValue"]
+- !private ["SH", "context"]
+- !private ["SH", "infinity"]
+- ["SH", "init"]
+- !private ["SH", "optimizedDuration"]
+- !private ["SH", "removeAll"]
+- !private ["SH", "snapshotView"]
+- !private ["SH", "subscript"]
+- !private ["SH", "values"]
+- !private ["s25LosslessStringConvertibleP", "_getBuiltinLogicValue"]
+- !private ["s25LosslessStringConvertibleP", "infinity"]
+- ["6Motion0A8AnimatorP", "T"]
+- ["6Motion0A8AnimatorP", "UIView"]
+- ["6Motion0A8AnimatorP", ""]
+- ["6Motion0A8AnimatorP", "animate"]
+- ["6Motion0A8AnimatorP", "apply"]
+- ["6Motion0A8AnimatorP", "canAnimate"]
+- ["6Motion0A8AnimatorP", "clean"]
+- !private ["6Motion0A8AnimatorP", "context"]
+- !private ["6Motion0A8AnimatorP", "createViewContext"]
+- !private ["6Motion0A8AnimatorP", "max"]
+- ["6Motion0A8AnimatorP", "motion"]
+- ["6Motion0A8AnimatorP", "resume"]
+- ["6Motion0A8AnimatorP", "seek"]
+- !private ["6Motion0A8AnimatorP", "viewToContexts"]
+- !private ["6Motion0A19AnimatorViewContextC", "apply"]
+- !private ["6Motion0A19AnimatorViewContextC", "canAnimate"]
+- !private ["6Motion0A19AnimatorViewContextC", "clean"]
+- !private ["6Motion0A19AnimatorViewContextC", "duration"]
+- !private ["6Motion0A19AnimatorViewContextC", "init"]
+- !private ["6Motion0A19AnimatorViewContextC", "resume"]
+- !private ["6Motion0A19AnimatorViewContextC", "seek"]
+- !private ["6Motion0A19AnimatorViewContextC", "snapshot"]
+- !private ["6Motion0A19AnimatorViewContextC", "startAnimations"]
+- !private ["6Motion0A19AnimatorViewContextC", "targetState"]
+- !private ["6Motion0A7ContextC", "snapshotView"]
+- !private ["6Motion0A7ContextC", "subscript"]
+- ["6Motion0A12CoreAnimatorC", "Bool"]
+- ["6Motion0A12CoreAnimatorC", "MotionContext"]
+- ["6Motion0A12CoreAnimatorC", "MotionTargetState"]
+- ["6Motion0A12CoreAnimatorC", "MotionTransition"]
+- ["6Motion0A12CoreAnimatorC", "T"]
+- ["6Motion0A12CoreAnimatorC", "TimeInterval"]
+- ["6Motion0A12CoreAnimatorC", "UIView"]
+- ["6Motion0A12CoreAnimatorC", "animate"]
+- ["6Motion0A12CoreAnimatorC", "apply"]
+- ["6Motion0A12CoreAnimatorC", "canAnimate"]
+- ["6Motion0A12CoreAnimatorC", "clean"]
+- ["6Motion0A12CoreAnimatorC", "context"]
+- !private ["6Motion0A12CoreAnimatorC", "createViewContext"]
+- ["6Motion0A12CoreAnimatorC", "deinit"]
+- ["6Motion0A12CoreAnimatorC", "init"]
+- !private ["6Motion0A12CoreAnimatorC", "max"]
+- ["6Motion0A12CoreAnimatorC", "motion"]
+- ["6Motion0A12CoreAnimatorC", "resume"]
+- ["6Motion0A12CoreAnimatorC", "seek"]
+- ["6Motion0A12CoreAnimatorC", "viewToContexts"]
+- !private ["6Motion0A22ProgressRunnerDelegateP", "context"]
+- !private ["6Motion0A11TargetStateV", "duration"]
+- !private ["6Motion0A10TransitionC", "context"]
+- !private ["So8NSCodingP", "optimizedDuration"]
+- !private ["So8NSObjectC", "context"]
+- !private ["So8NSObjectC", "optimizedDuration"]
+- !private ["So8NSObjectP", "context"]
+- !private ["So8NSObjectP", "optimizedDuration"]
+- !private ["Sj", "infinity"]
+- !private ["Sq", "context"]
+- !private ["Sq", "infinity"]
+- !private ["Sq", "snapshotView"]
+- !private ["Sq", "subscript"]
+- ["ST", "init"]
+- !private ["ST", "removeAll"]
+- !private ["ST", "subscript"]
+- !private ["ST", "values"]
+- !private ["s13SignedNumericP", "infinity"]
+- !private ["Sx", "infinity"]
+- !private ["So29UIAccessibilityIdentificationP", "optimizedDuration"]
+- !private ["So12UIAppearanceP", "optimizedDuration"]
+- !private ["So21UIAppearanceContainerP", "optimizedDuration"]
+- !private ["So17UICoordinateSpaceP", "optimizedDuration"]
+- !private ["So13UIDynamicItemP", "optimizedDuration"]
+- !private ["So18UIFocusEnvironmentP", "optimizedDuration"]
+- !private ["So11UIFocusItemP", "optimizedDuration"]
+- !private ["So20UIFocusItemContainerP", "optimizedDuration"]
+- !private ["So30UINavigationControllerDelegateP", "context"]
+- !private ["So30UIPasteConfigurationSupportingP", "optimizedDuration"]
+- !private ["So11UIResponderC", "optimizedDuration"]
+- !private ["So30UIResponderStandardEditActionsP", "optimizedDuration"]
+- !private ["So26UITabBarControllerDelegateP", "context"]
+- !private ["So18UITraitEnvironmentP", "optimizedDuration"]
+- !private ["So23UIUserActivityRestoringP", "optimizedDuration"]
+- !private ["So6UIViewC", "optimizedDuration"]
+- !private ["So37UIViewControllerAnimatedTransitioningP", "context"]
+- !private ["So40UIViewControllerInteractiveTransitioningP", "context"]
+- !private ["So37UIViewControllerTransitioningDelegateP", "context"]
+- !private ["s15_CVarArgAlignedP", "infinity"]
+- !private ["s22_CVarArgPassedAsDoubleP", "infinity"]
+- !private ["s37_DefaultCustomPlaygroundQuickLookableP", "optimizedDuration"]
+- !private ["s35_ExpressibleByBuiltinBooleanLiteralP", "_getBuiltinLogicValue"]
+- !private ["s33_ExpressibleByBuiltinFloatLiteralP", "infinity"]
+- !private ["s35_ExpressibleByBuiltinIntegerLiteralP", "infinity"]
+- !private ["s35_HasCustomAnyHashableRepresentationP", "infinity"]
+- ["s35_HasCustomAnyHashableRepresentationP", "init"]
+- !private ["s35_HasCustomAnyHashableRepresentationP", "removeAll"]
+- !private ["s35_HasCustomAnyHashableRepresentationP", "subscript"]
+- !private ["s35_HasCustomAnyHashableRepresentationP", "values"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "context"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "optimizedDuration"]
+- !private ["s21_ObjectiveCBridgeableP", "_getBuiltinLogicValue"]
+- !private ["s21_ObjectiveCBridgeableP", "context"]
+- !private ["s21_ObjectiveCBridgeableP", "infinity"]
+- ["s21_ObjectiveCBridgeableP", "init"]
+- !private ["s21_ObjectiveCBridgeableP", "removeAll"]
+- !private ["s21_ObjectiveCBridgeableP", "snapshotView"]
+- !private ["s21_ObjectiveCBridgeableP", "subscript"]
+- !private ["s21_ObjectiveCBridgeableP", "values"]
+- !private ["s26_OptionalNilComparisonTypeV", "infinity"]
+depends-nominal:
+- !private "SB"
+- !private "Sb"
+- !private "So15CALayerDelegateP"
+- "s7CVarArgP"
+- "Sl"
+- !private "SL"
+- "s28CustomDebugStringConvertibleP"
+- !private "s29CustomPlaygroundQuickLookableP"
+- "s17CustomReflectableP"
+- "s23CustomStringConvertibleP"
+- "Se"
+- "SD"
+- !private "Sd"
+- "SE"
+- "SQ"
+- !private "s25ExpressibleByArrayLiteralP"
+- !private "s27ExpressibleByBooleanLiteralP"
+- "s30ExpressibleByDictionaryLiteralP"
+- !private "s25ExpressibleByFloatLiteralP"
+- !private "s27ExpressibleByIntegerLiteralP"
+- !private "s23ExpressibleByNilLiteralP"
+- !private "SF"
+- "SH"
+- !private "s25LosslessStringConvertibleP"
+- "6Motion0A8AnimatorP"
+- !private "6Motion0A19AnimatorViewContextC"
+- !private "6Motion0A7ContextC"
+- "6Motion0A12CoreAnimatorC"
+- !private "6Motion0A22ProgressRunnerDelegateP"
+- !private "6Motion0A11TargetStateV"
+- !private "6Motion0A10TransitionC"
+- !private "So8NSCodingP"
+- !private "So8NSObjectC"
+- !private "So8NSObjectP"
+- !private "Sj"
+- !private "Sq"
+- "ST"
+- !private "s13SignedNumericP"
+- !private "Sx"
+- !private "So29UIAccessibilityIdentificationP"
+- !private "So12UIAppearanceP"
+- !private "So21UIAppearanceContainerP"
+- !private "So17UICoordinateSpaceP"
+- !private "So13UIDynamicItemP"
+- !private "So18UIFocusEnvironmentP"
+- !private "So11UIFocusItemP"
+- !private "So20UIFocusItemContainerP"
+- !private "So30UINavigationControllerDelegateP"
+- !private "So30UIPasteConfigurationSupportingP"
+- !private "So11UIResponderC"
+- !private "So30UIResponderStandardEditActionsP"
+- !private "So26UITabBarControllerDelegateP"
+- !private "So18UITraitEnvironmentP"
+- !private "So23UIUserActivityRestoringP"
+- !private "So6UIViewC"
+- !private "So37UIViewControllerAnimatedTransitioningP"
+- !private "So40UIViewControllerInteractiveTransitioningP"
+- !private "So37UIViewControllerTransitioningDelegateP"
+- !private "s15_CVarArgAlignedP"
+- !private "s22_CVarArgPassedAsDoubleP"
+- !private "s37_DefaultCustomPlaygroundQuickLookableP"
+- !private "s35_ExpressibleByBuiltinBooleanLiteralP"
+- !private "s33_ExpressibleByBuiltinFloatLiteralP"
+- !private "s35_ExpressibleByBuiltinIntegerLiteralP"
+- "s35_HasCustomAnyHashableRepresentationP"
+- !private "10Foundation27_KeyValueCodingAndObservingP"
+- "s21_ObjectiveCBridgeableP"
+- !private "s26_OptionalNilComparisonTypeV"
+depends-dynamic-lookup:
+depends-external:
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Dispatch.apinotesc"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/ObjectiveC.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/ModelIO.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/simd.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreImage.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/QuartzCore.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Dispatch.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Metal.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Darwin.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Foundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreFoundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreGraphics.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Swift.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/UIKit.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/MetalKit.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/SwiftOnoneSupport.swiftmodule"
+- "/Users/user/Desktop/Lyhour project/lyhour/Pods/Target Support Files/Motion/Motion-umbrella.h"
+- "/Users/user/Desktop/Lyhour project/lyhour/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/Motion.build/unextended-module.modulemap"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.0.sdk/usr/include/objc/ObjectiveC.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.0.sdk/System/Library/Frameworks/ModelIO.framework/Headers/ModelIO.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.0.sdk/System/Library/Frameworks/OpenGLES.framework/Headers/OpenGLES.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.0.sdk/System/Library/Frameworks/CoreImage.framework/Headers/CoreImage.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.0.sdk/System/Library/Frameworks/QuartzCore.framework/Headers/QuartzCore.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.0.sdk/System/Library/Frameworks/Metal.framework/Headers/Metal.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.0.sdk/usr/include/Darwin.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.0.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.0.sdk/System/Library/Frameworks/CoreGraphics.framework/Headers/CoreGraphics.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.0.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.0.sdk/System/Library/Frameworks/MetalKit.framework/Headers/MetalKit.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.0.sdk/System/Library/Frameworks/CoreText.framework/Headers/CoreText.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.0.sdk/System/Library/Frameworks/Security.framework/Headers/Security.apinotes"
+interface-hash: "6b3cf98808fdd06510de8af1216e9702"

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>application-identifier</key>
+	<string>KC4TE5J7J5.com.dev.vva.somedeveloperguy.LHPPWallet</string>
+	<key>keychain-access-groups</key>
+	<array>
+		<string>KC4TE5J7J5.com.dev.vva.somedeveloperguy.LHPPWallet</string>
+	</array>
+</dict>
+</plist>

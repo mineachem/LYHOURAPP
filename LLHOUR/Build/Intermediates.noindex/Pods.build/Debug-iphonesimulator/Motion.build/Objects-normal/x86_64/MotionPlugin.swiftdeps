@@ -1,0 +1,206 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+- "MotionPlugin"
+provides-nominal:
+- "6Motion0A6PluginC"
+provides-member:
+- ["6Motion0A6PluginC", ""]
+- ["6Motion0A6PluginC", "isEnabled"]
+- ["6Motion0A6PluginC", "enable"]
+- ["6Motion0A6PluginC", "disable"]
+provides-dynamic-lookup:
+depends-top-level:
+- "Bool"
+- "BooleanLiteralType"
+- !private "FloatLiteralType"
+- !private "IntegerLiteralType"
+- "MotionAnimator"
+- "MotionCorePreprocessor"
+- "MotionPlugin"
+- "MotionTargetState"
+- !private "MotionTransition"
+- "TimeInterval"
+- "UIView"
+depends-member:
+- !private ["Sb", "_getBuiltinLogicValue"]
+- !private ["s7CVarArgP", "_getBuiltinLogicValue"]
+- !private ["s7CVarArgP", "disable"]
+- !private ["s7CVarArgP", "enable"]
+- !private ["s7CVarArgP", "isEnabled"]
+- !private ["s28CustomDebugStringConvertibleP", "disable"]
+- !private ["s28CustomDebugStringConvertibleP", "enable"]
+- !private ["s28CustomDebugStringConvertibleP", "isEnabled"]
+- !private ["s29CustomPlaygroundQuickLookableP", "_getBuiltinLogicValue"]
+- !private ["s17CustomReflectableP", "_getBuiltinLogicValue"]
+- !private ["s23CustomStringConvertibleP", "_getBuiltinLogicValue"]
+- !private ["s23CustomStringConvertibleP", "disable"]
+- !private ["s23CustomStringConvertibleP", "enable"]
+- !private ["s23CustomStringConvertibleP", "isEnabled"]
+- !private ["Se", "_getBuiltinLogicValue"]
+- !private ["SE", "_getBuiltinLogicValue"]
+- !private ["SQ", "_getBuiltinLogicValue"]
+- !private ["SQ", "disable"]
+- !private ["SQ", "enable"]
+- !private ["SQ", "isEnabled"]
+- !private ["s27ExpressibleByBooleanLiteralP", "_getBuiltinLogicValue"]
+- !private ["SH", "_getBuiltinLogicValue"]
+- !private ["SH", "disable"]
+- !private ["SH", "enable"]
+- !private ["SH", "isEnabled"]
+- !private ["s25LosslessStringConvertibleP", "_getBuiltinLogicValue"]
+- !private ["6Motion0A8AnimatorP", "MotionTransition"]
+- ["6Motion0A8AnimatorP", ""]
+- ["6Motion0A8AnimatorP", "animate"]
+- ["6Motion0A8AnimatorP", "apply"]
+- ["6Motion0A8AnimatorP", "canAnimate"]
+- ["6Motion0A8AnimatorP", "clean"]
+- !private ["6Motion0A8AnimatorP", "disable"]
+- !private ["6Motion0A8AnimatorP", "enable"]
+- ["6Motion0A8AnimatorP", "motion"]
+- ["6Motion0A8AnimatorP", "resume"]
+- ["6Motion0A8AnimatorP", "seek"]
+- ["6Motion0A16CorePreprocessorC", "Bool"]
+- ["6Motion0A16CorePreprocessorC", "MotionTargetState"]
+- !private ["6Motion0A16CorePreprocessorC", "MotionTransition"]
+- ["6Motion0A16CorePreprocessorC", "TimeInterval"]
+- ["6Motion0A16CorePreprocessorC", "UIView"]
+- ["6Motion0A16CorePreprocessorC", ""]
+- ["6Motion0A16CorePreprocessorC", "animate"]
+- ["6Motion0A16CorePreprocessorC", "apply"]
+- ["6Motion0A16CorePreprocessorC", "canAnimate"]
+- ["6Motion0A16CorePreprocessorC", "clean"]
+- ["6Motion0A16CorePreprocessorC", "disable"]
+- ["6Motion0A16CorePreprocessorC", "enable"]
+- ["6Motion0A16CorePreprocessorC", "init"]
+- ["6Motion0A16CorePreprocessorC", "isEnabled"]
+- ["6Motion0A16CorePreprocessorC", "motion"]
+- ["6Motion0A16CorePreprocessorC", "process"]
+- ["6Motion0A16CorePreprocessorC", "requirePerFrameCallback"]
+- ["6Motion0A16CorePreprocessorC", "resume"]
+- ["6Motion0A16CorePreprocessorC", "seek"]
+- ["6Motion0A6PluginC", "Bool"]
+- ["6Motion0A6PluginC", "MotionTargetState"]
+- !private ["6Motion0A6PluginC", "MotionTransition"]
+- ["6Motion0A6PluginC", "TimeInterval"]
+- ["6Motion0A6PluginC", "UIView"]
+- ["6Motion0A6PluginC", "animate"]
+- ["6Motion0A6PluginC", "apply"]
+- ["6Motion0A6PluginC", "canAnimate"]
+- ["6Motion0A6PluginC", "clean"]
+- ["6Motion0A6PluginC", "deinit"]
+- ["6Motion0A6PluginC", "disable"]
+- ["6Motion0A6PluginC", "enable"]
+- ["6Motion0A6PluginC", "init"]
+- ["6Motion0A6PluginC", "isEnabled"]
+- ["6Motion0A6PluginC", "motion"]
+- ["6Motion0A6PluginC", "process"]
+- ["6Motion0A6PluginC", "requirePerFrameCallback"]
+- ["6Motion0A6PluginC", "resume"]
+- ["6Motion0A6PluginC", "seek"]
+- !private ["6Motion0A12PreprocessorP", "MotionTransition"]
+- ["6Motion0A12PreprocessorP", ""]
+- ["6Motion0A12PreprocessorP", "animate"]
+- ["6Motion0A12PreprocessorP", "apply"]
+- ["6Motion0A12PreprocessorP", "canAnimate"]
+- ["6Motion0A12PreprocessorP", "clean"]
+- !private ["6Motion0A12PreprocessorP", "disable"]
+- !private ["6Motion0A12PreprocessorP", "enable"]
+- !private ["6Motion0A12PreprocessorP", "init"]
+- ["6Motion0A12PreprocessorP", "motion"]
+- ["6Motion0A12PreprocessorP", "resume"]
+- ["6Motion0A12PreprocessorP", "seek"]
+- !private ["6Motion0A22ProgressRunnerDelegateP", "disable"]
+- !private ["6Motion0A22ProgressRunnerDelegateP", "enable"]
+- !private ["6Motion0A22ProgressRunnerDelegateP", "isEnabled"]
+- !private ["6Motion0A10TransitionC", "disable"]
+- !private ["6Motion0A10TransitionC", "enable"]
+- !private ["6Motion0A10TransitionC", "isEnabled"]
+- !private ["So8NSObjectC", "disable"]
+- !private ["So8NSObjectC", "enable"]
+- !private ["So8NSObjectC", "isEnabled"]
+- !private ["So8NSObjectP", "disable"]
+- !private ["So8NSObjectP", "enable"]
+- !private ["So8NSObjectP", "isEnabled"]
+- !private ["So30UINavigationControllerDelegateP", "disable"]
+- !private ["So30UINavigationControllerDelegateP", "enable"]
+- !private ["So30UINavigationControllerDelegateP", "isEnabled"]
+- !private ["So26UITabBarControllerDelegateP", "disable"]
+- !private ["So26UITabBarControllerDelegateP", "enable"]
+- !private ["So26UITabBarControllerDelegateP", "isEnabled"]
+- !private ["So37UIViewControllerAnimatedTransitioningP", "disable"]
+- !private ["So37UIViewControllerAnimatedTransitioningP", "enable"]
+- !private ["So37UIViewControllerAnimatedTransitioningP", "isEnabled"]
+- !private ["So40UIViewControllerInteractiveTransitioningP", "disable"]
+- !private ["So40UIViewControllerInteractiveTransitioningP", "enable"]
+- !private ["So40UIViewControllerInteractiveTransitioningP", "isEnabled"]
+- !private ["So37UIViewControllerTransitioningDelegateP", "disable"]
+- !private ["So37UIViewControllerTransitioningDelegateP", "enable"]
+- !private ["So37UIViewControllerTransitioningDelegateP", "isEnabled"]
+- !private ["s35_ExpressibleByBuiltinBooleanLiteralP", "_getBuiltinLogicValue"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "disable"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "enable"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "isEnabled"]
+- !private ["s21_ObjectiveCBridgeableP", "_getBuiltinLogicValue"]
+depends-nominal:
+- !private "Sb"
+- !private "s7CVarArgP"
+- !private "s28CustomDebugStringConvertibleP"
+- !private "s29CustomPlaygroundQuickLookableP"
+- !private "s17CustomReflectableP"
+- !private "s23CustomStringConvertibleP"
+- !private "Se"
+- !private "SE"
+- !private "SQ"
+- !private "s27ExpressibleByBooleanLiteralP"
+- !private "SH"
+- !private "s25LosslessStringConvertibleP"
+- "6Motion0A8AnimatorP"
+- "6Motion0A16CorePreprocessorC"
+- "6Motion0A6PluginC"
+- "6Motion0A12PreprocessorP"
+- !private "6Motion0A22ProgressRunnerDelegateP"
+- !private "6Motion0A10TransitionC"
+- !private "So8NSObjectC"
+- !private "So8NSObjectP"
+- !private "So30UINavigationControllerDelegateP"
+- !private "So26UITabBarControllerDelegateP"
+- !private "So37UIViewControllerAnimatedTransitioningP"
+- !private "So40UIViewControllerInteractiveTransitioningP"
+- !private "So37UIViewControllerTransitioningDelegateP"
+- !private "s35_ExpressibleByBuiltinBooleanLiteralP"
+- !private "10Foundation27_KeyValueCodingAndObservingP"
+- !private "s21_ObjectiveCBridgeableP"
+depends-dynamic-lookup:
+depends-external:
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Dispatch.apinotesc"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/ObjectiveC.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/ModelIO.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/simd.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreImage.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/QuartzCore.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Dispatch.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Metal.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Darwin.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Foundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreFoundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreGraphics.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Swift.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/UIKit.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/MetalKit.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/SwiftOnoneSupport.swiftmodule"
+- "/Users/user/Desktop/Lyhour project/lyhour/Pods/Target Support Files/Motion/Motion-umbrella.h"
+- "/Users/user/Desktop/Lyhour project/lyhour/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/Motion.build/unextended-module.modulemap"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.0.sdk/usr/include/objc/ObjectiveC.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.0.sdk/System/Library/Frameworks/ModelIO.framework/Headers/ModelIO.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.0.sdk/System/Library/Frameworks/OpenGLES.framework/Headers/OpenGLES.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.0.sdk/System/Library/Frameworks/CoreImage.framework/Headers/CoreImage.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.0.sdk/System/Library/Frameworks/QuartzCore.framework/Headers/QuartzCore.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.0.sdk/System/Library/Frameworks/Metal.framework/Headers/Metal.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.0.sdk/usr/include/Darwin.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.0.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.0.sdk/System/Library/Frameworks/CoreGraphics.framework/Headers/CoreGraphics.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.0.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.0.sdk/System/Library/Frameworks/MetalKit.framework/Headers/MetalKit.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.0.sdk/System/Library/Frameworks/CoreText.framework/Headers/CoreText.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.0.sdk/System/Library/Frameworks/Security.framework/Headers/Security.apinotes"
+interface-hash: "5fd1b6450de0b8d60097a19bb2833840"

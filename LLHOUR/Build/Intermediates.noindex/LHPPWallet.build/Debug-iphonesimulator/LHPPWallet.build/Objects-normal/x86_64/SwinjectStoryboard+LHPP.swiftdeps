@@ -1,0 +1,1212 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+provides-nominal:
+provides-member:
+- ["18SwinjectStoryboardAAC", ""]
+- ["18SwinjectStoryboardAAC", "setup"]
+- ["18SwinjectStoryboardAAC", "initController"]
+provides-dynamic-lookup:
+- "initController"
+- "setup"
+- "storyboard"
+depends-top-level:
+- !private "AccountDetailViewController"
+- !private "AddNewWalletTableViewController"
+- !private "AgentViewController"
+- !private "AssignmentPrecedence"
+- !private "CardViewController"
+- !private "ContactsListController"
+- "Container"
+- !private "ContentAddMoneyPagerViewController"
+- !private "ContentAddPagerNewViewController"
+- !private "ContentTopupPagerViewController"
+- !private "ContentVerifyPagerViewController"
+- !private "DigitTableViewController"
+- !private "EnterPINController"
+- !private "HomeViewController"
+- !private "InstantTableViewController"
+- !private "LoginPasswordViewController"
+- !private "ManageRecipientsTableViewController"
+- !private "ManualTableViewController"
+- !private "NotificationTableViewController"
+- !private "PaymentSuccesfullViewController"
+- !private "ProfileViewController"
+- !private "QRCodeScanViewController"
+- !private "RegisterViewController"
+- !private "SendSMSViewController"
+- !private "SentToCardViewController"
+- !private "SettingTableViewController"
+- !private "SlidebarMenuViewController"
+- "String"
+- "SwinjectStoryboard"
+- !private "TransactionAPI"
+- !private "TransactionClientAPI"
+- !private "TransactionPINController"
+- !private "TransferController"
+- !private "TransferWalletController"
+- !private "UINavigationController"
+- !private "UISideMenuNavigationController"
+- "UIViewController"
+- !private "UploadingDocAPI"
+- !private "UploadingDocumentClientAPI"
+- !private "UserAuthAPI"
+- !private "UserClientAPI"
+- !private "UtilityAPI"
+- !private "UtilityClientAPI"
+- !private "VerificationViewController"
+- !private "VoucherTableViewController"
+depends-member:
+- !private ["So38AVCaptureMetadataOutputObjectsDelegateP", "transactionAPI"]
+- !private ["10LHPPWallet31AddNewWalletTableViewControllerC", "transactionAPI"]
+- !private ["10LHPPWallet19AgentViewControllerC", "transactionAPI"]
+- !private ["10LHPPWallet18BaseViewControllerC", "transactionAPI"]
+- !private ["10LHPPWallet18BaseViewControllerC", "userAuthAPI"]
+- !private ["10LHPPWallet18BaseViewControllerC", "utilityAPI"]
+- !private ["s7CVarArgP", "AccountDetailViewController"]
+- !private ["s7CVarArgP", "AddNewWalletTableViewController"]
+- !private ["s7CVarArgP", "AgentViewController"]
+- !private ["s7CVarArgP", "CardViewController"]
+- !private ["s7CVarArgP", "ContactsListController"]
+- !private ["s7CVarArgP", "ContentAddMoneyPagerViewController"]
+- !private ["s7CVarArgP", "ContentAddPagerNewViewController"]
+- !private ["s7CVarArgP", "ContentTopupPagerViewController"]
+- !private ["s7CVarArgP", "ContentVerifyPagerViewController"]
+- !private ["s7CVarArgP", "DigitTableViewController"]
+- !private ["s7CVarArgP", "EnterPINController"]
+- !private ["s7CVarArgP", "HomeViewController"]
+- !private ["s7CVarArgP", "InstantTableViewController"]
+- !private ["s7CVarArgP", "LoginPasswordViewController"]
+- !private ["s7CVarArgP", "ManageRecipientsTableViewController"]
+- !private ["s7CVarArgP", "ManualTableViewController"]
+- !private ["s7CVarArgP", "NotificationTableViewController"]
+- !private ["s7CVarArgP", "PaymentSuccesfullViewController"]
+- !private ["s7CVarArgP", "ProfileViewController"]
+- !private ["s7CVarArgP", "QRCodeScanViewController"]
+- !private ["s7CVarArgP", "RegisterViewController"]
+- !private ["s7CVarArgP", "SendSMSViewController"]
+- !private ["s7CVarArgP", "SentToCardViewController"]
+- !private ["s7CVarArgP", "SettingTableViewController"]
+- !private ["s7CVarArgP", "SlidebarMenuViewController"]
+- !private ["s7CVarArgP", "SwinjectStoryboard"]
+- !private ["s7CVarArgP", "TransactionAPI"]
+- !private ["s7CVarArgP", "TransactionClientAPI"]
+- !private ["s7CVarArgP", "TransactionPINController"]
+- !private ["s7CVarArgP", "TransferController"]
+- !private ["s7CVarArgP", "TransferWalletController"]
+- !private ["s7CVarArgP", "UINavigationController"]
+- !private ["s7CVarArgP", "UISideMenuNavigationController"]
+- !private ["s7CVarArgP", "UIViewController"]
+- !private ["s7CVarArgP", "UploadingDocAPI"]
+- !private ["s7CVarArgP", "UploadingDocumentClientAPI"]
+- !private ["s7CVarArgP", "UserAuthAPI"]
+- !private ["s7CVarArgP", "UserClientAPI"]
+- !private ["s7CVarArgP", "UtilityAPI"]
+- !private ["s7CVarArgP", "UtilityClientAPI"]
+- !private ["s7CVarArgP", "VerificationViewController"]
+- !private ["s7CVarArgP", "VoucherTableViewController"]
+- !private ["s7CVarArgP", "apiUpload"]
+- !private ["s7CVarArgP", "controllersFromAddMoneyStoryboard"]
+- !private ["s7CVarArgP", "controllersFromAddNewStoryboard"]
+- !private ["s7CVarArgP", "controllersFromHomeStorybaord"]
+- !private ["s7CVarArgP", "controllersFromNotificationStoryboard"]
+- !private ["s7CVarArgP", "controllersFromProfileStoryboard"]
+- !private ["s7CVarArgP", "controllersFromQuickPayStoryboard"]
+- !private ["s7CVarArgP", "controllersFromRegisterStorybaord"]
+- !private ["s7CVarArgP", "controllersFromSettingStoryboard"]
+- !private ["s7CVarArgP", "controllersFromTopUpStoryboard"]
+- !private ["s7CVarArgP", "controllersFromTransferStoryboard"]
+- !private ["s7CVarArgP", "controllersFromVerifyStoryboard"]
+- !private ["s7CVarArgP", "create"]
+- !private ["s7CVarArgP", "defaultContainer"]
+- !private ["s7CVarArgP", "instantiateViewController"]
+- !private ["s7CVarArgP", "registerController"]
+- !private ["s7CVarArgP", "registerService"]
+- !private ["s7CVarArgP", "storyboard"]
+- !private ["s7CVarArgP", "transactionAPI"]
+- !private ["s7CVarArgP", "userAuthAPI"]
+- !private ["s7CVarArgP", "utilityAPI"]
+- !private ["8Swinject9ContainerC", "register"]
+- !private ["8Swinject9ContainerC", "storyboardInitCompleted"]
+- !private ["10LHPPWallet34ContentAddMoneyPagerViewControllerC", "transactionAPI"]
+- !private ["10LHPPWallet32ContentAddPagerNewViewControllerC", "transactionAPI"]
+- !private ["10LHPPWallet31ContentTopupPagerViewControllerC", "transactionAPI"]
+- !private ["s28CustomDebugStringConvertibleP", "AccountDetailViewController"]
+- !private ["s28CustomDebugStringConvertibleP", "AddNewWalletTableViewController"]
+- !private ["s28CustomDebugStringConvertibleP", "AgentViewController"]
+- !private ["s28CustomDebugStringConvertibleP", "CardViewController"]
+- !private ["s28CustomDebugStringConvertibleP", "ContactsListController"]
+- !private ["s28CustomDebugStringConvertibleP", "ContentAddMoneyPagerViewController"]
+- !private ["s28CustomDebugStringConvertibleP", "ContentAddPagerNewViewController"]
+- !private ["s28CustomDebugStringConvertibleP", "ContentTopupPagerViewController"]
+- !private ["s28CustomDebugStringConvertibleP", "ContentVerifyPagerViewController"]
+- !private ["s28CustomDebugStringConvertibleP", "DigitTableViewController"]
+- !private ["s28CustomDebugStringConvertibleP", "EnterPINController"]
+- !private ["s28CustomDebugStringConvertibleP", "HomeViewController"]
+- !private ["s28CustomDebugStringConvertibleP", "InstantTableViewController"]
+- !private ["s28CustomDebugStringConvertibleP", "LoginPasswordViewController"]
+- !private ["s28CustomDebugStringConvertibleP", "ManageRecipientsTableViewController"]
+- !private ["s28CustomDebugStringConvertibleP", "ManualTableViewController"]
+- !private ["s28CustomDebugStringConvertibleP", "NotificationTableViewController"]
+- !private ["s28CustomDebugStringConvertibleP", "PaymentSuccesfullViewController"]
+- !private ["s28CustomDebugStringConvertibleP", "ProfileViewController"]
+- !private ["s28CustomDebugStringConvertibleP", "QRCodeScanViewController"]
+- !private ["s28CustomDebugStringConvertibleP", "RegisterViewController"]
+- !private ["s28CustomDebugStringConvertibleP", "SendSMSViewController"]
+- !private ["s28CustomDebugStringConvertibleP", "SentToCardViewController"]
+- !private ["s28CustomDebugStringConvertibleP", "SettingTableViewController"]
+- !private ["s28CustomDebugStringConvertibleP", "SlidebarMenuViewController"]
+- !private ["s28CustomDebugStringConvertibleP", "SwinjectStoryboard"]
+- !private ["s28CustomDebugStringConvertibleP", "TransactionAPI"]
+- !private ["s28CustomDebugStringConvertibleP", "TransactionClientAPI"]
+- !private ["s28CustomDebugStringConvertibleP", "TransactionPINController"]
+- !private ["s28CustomDebugStringConvertibleP", "TransferController"]
+- !private ["s28CustomDebugStringConvertibleP", "TransferWalletController"]
+- !private ["s28CustomDebugStringConvertibleP", "UINavigationController"]
+- !private ["s28CustomDebugStringConvertibleP", "UISideMenuNavigationController"]
+- !private ["s28CustomDebugStringConvertibleP", "UIViewController"]
+- !private ["s28CustomDebugStringConvertibleP", "UploadingDocAPI"]
+- !private ["s28CustomDebugStringConvertibleP", "UploadingDocumentClientAPI"]
+- !private ["s28CustomDebugStringConvertibleP", "UserAuthAPI"]
+- !private ["s28CustomDebugStringConvertibleP", "UserClientAPI"]
+- !private ["s28CustomDebugStringConvertibleP", "UtilityAPI"]
+- !private ["s28CustomDebugStringConvertibleP", "UtilityClientAPI"]
+- !private ["s28CustomDebugStringConvertibleP", "VerificationViewController"]
+- !private ["s28CustomDebugStringConvertibleP", "VoucherTableViewController"]
+- !private ["s28CustomDebugStringConvertibleP", "apiUpload"]
+- !private ["s28CustomDebugStringConvertibleP", "controllersFromAddMoneyStoryboard"]
+- !private ["s28CustomDebugStringConvertibleP", "controllersFromAddNewStoryboard"]
+- !private ["s28CustomDebugStringConvertibleP", "controllersFromHomeStorybaord"]
+- !private ["s28CustomDebugStringConvertibleP", "controllersFromNotificationStoryboard"]
+- !private ["s28CustomDebugStringConvertibleP", "controllersFromProfileStoryboard"]
+- !private ["s28CustomDebugStringConvertibleP", "controllersFromQuickPayStoryboard"]
+- !private ["s28CustomDebugStringConvertibleP", "controllersFromRegisterStorybaord"]
+- !private ["s28CustomDebugStringConvertibleP", "controllersFromSettingStoryboard"]
+- !private ["s28CustomDebugStringConvertibleP", "controllersFromTopUpStoryboard"]
+- !private ["s28CustomDebugStringConvertibleP", "controllersFromTransferStoryboard"]
+- !private ["s28CustomDebugStringConvertibleP", "controllersFromVerifyStoryboard"]
+- !private ["s28CustomDebugStringConvertibleP", "create"]
+- !private ["s28CustomDebugStringConvertibleP", "defaultContainer"]
+- !private ["s28CustomDebugStringConvertibleP", "instantiateViewController"]
+- !private ["s28CustomDebugStringConvertibleP", "registerController"]
+- !private ["s28CustomDebugStringConvertibleP", "registerService"]
+- !private ["s28CustomDebugStringConvertibleP", "storyboard"]
+- !private ["s28CustomDebugStringConvertibleP", "transactionAPI"]
+- !private ["s28CustomDebugStringConvertibleP", "userAuthAPI"]
+- !private ["s28CustomDebugStringConvertibleP", "utilityAPI"]
+- !private ["s23CustomStringConvertibleP", "AccountDetailViewController"]
+- !private ["s23CustomStringConvertibleP", "AddNewWalletTableViewController"]
+- !private ["s23CustomStringConvertibleP", "AgentViewController"]
+- !private ["s23CustomStringConvertibleP", "CardViewController"]
+- !private ["s23CustomStringConvertibleP", "ContactsListController"]
+- !private ["s23CustomStringConvertibleP", "ContentAddMoneyPagerViewController"]
+- !private ["s23CustomStringConvertibleP", "ContentAddPagerNewViewController"]
+- !private ["s23CustomStringConvertibleP", "ContentTopupPagerViewController"]
+- !private ["s23CustomStringConvertibleP", "ContentVerifyPagerViewController"]
+- !private ["s23CustomStringConvertibleP", "DigitTableViewController"]
+- !private ["s23CustomStringConvertibleP", "EnterPINController"]
+- !private ["s23CustomStringConvertibleP", "HomeViewController"]
+- !private ["s23CustomStringConvertibleP", "InstantTableViewController"]
+- !private ["s23CustomStringConvertibleP", "LoginPasswordViewController"]
+- !private ["s23CustomStringConvertibleP", "ManageRecipientsTableViewController"]
+- !private ["s23CustomStringConvertibleP", "ManualTableViewController"]
+- !private ["s23CustomStringConvertibleP", "NotificationTableViewController"]
+- !private ["s23CustomStringConvertibleP", "PaymentSuccesfullViewController"]
+- !private ["s23CustomStringConvertibleP", "ProfileViewController"]
+- !private ["s23CustomStringConvertibleP", "QRCodeScanViewController"]
+- !private ["s23CustomStringConvertibleP", "RegisterViewController"]
+- !private ["s23CustomStringConvertibleP", "SendSMSViewController"]
+- !private ["s23CustomStringConvertibleP", "SentToCardViewController"]
+- !private ["s23CustomStringConvertibleP", "SettingTableViewController"]
+- !private ["s23CustomStringConvertibleP", "SlidebarMenuViewController"]
+- !private ["s23CustomStringConvertibleP", "SwinjectStoryboard"]
+- !private ["s23CustomStringConvertibleP", "TransactionAPI"]
+- !private ["s23CustomStringConvertibleP", "TransactionClientAPI"]
+- !private ["s23CustomStringConvertibleP", "TransactionPINController"]
+- !private ["s23CustomStringConvertibleP", "TransferController"]
+- !private ["s23CustomStringConvertibleP", "TransferWalletController"]
+- !private ["s23CustomStringConvertibleP", "UINavigationController"]
+- !private ["s23CustomStringConvertibleP", "UISideMenuNavigationController"]
+- !private ["s23CustomStringConvertibleP", "UIViewController"]
+- !private ["s23CustomStringConvertibleP", "UploadingDocAPI"]
+- !private ["s23CustomStringConvertibleP", "UploadingDocumentClientAPI"]
+- !private ["s23CustomStringConvertibleP", "UserAuthAPI"]
+- !private ["s23CustomStringConvertibleP", "UserClientAPI"]
+- !private ["s23CustomStringConvertibleP", "UtilityAPI"]
+- !private ["s23CustomStringConvertibleP", "UtilityClientAPI"]
+- !private ["s23CustomStringConvertibleP", "VerificationViewController"]
+- !private ["s23CustomStringConvertibleP", "VoucherTableViewController"]
+- !private ["s23CustomStringConvertibleP", "apiUpload"]
+- !private ["s23CustomStringConvertibleP", "container"]
+- !private ["s23CustomStringConvertibleP", "controllersFromAddMoneyStoryboard"]
+- !private ["s23CustomStringConvertibleP", "controllersFromAddNewStoryboard"]
+- !private ["s23CustomStringConvertibleP", "controllersFromHomeStorybaord"]
+- !private ["s23CustomStringConvertibleP", "controllersFromNotificationStoryboard"]
+- !private ["s23CustomStringConvertibleP", "controllersFromProfileStoryboard"]
+- !private ["s23CustomStringConvertibleP", "controllersFromQuickPayStoryboard"]
+- !private ["s23CustomStringConvertibleP", "controllersFromRegisterStorybaord"]
+- !private ["s23CustomStringConvertibleP", "controllersFromSettingStoryboard"]
+- !private ["s23CustomStringConvertibleP", "controllersFromTopUpStoryboard"]
+- !private ["s23CustomStringConvertibleP", "controllersFromTransferStoryboard"]
+- !private ["s23CustomStringConvertibleP", "controllersFromVerifyStoryboard"]
+- !private ["s23CustomStringConvertibleP", "create"]
+- !private ["s23CustomStringConvertibleP", "defaultContainer"]
+- !private ["s23CustomStringConvertibleP", "instantiateViewController"]
+- !private ["s23CustomStringConvertibleP", "register"]
+- !private ["s23CustomStringConvertibleP", "registerController"]
+- !private ["s23CustomStringConvertibleP", "registerService"]
+- !private ["s23CustomStringConvertibleP", "storyboard"]
+- !private ["s23CustomStringConvertibleP", "storyboardInitCompleted"]
+- !private ["s23CustomStringConvertibleP", "transactionAPI"]
+- !private ["s23CustomStringConvertibleP", "userAuthAPI"]
+- !private ["s23CustomStringConvertibleP", "utilityAPI"]
+- !private ["10LHPPWallet24DigitTableViewControllerC", "transactionAPI"]
+- !private ["10LHPPWallet18EnterPINControllerC", "userAuthAPI"]
+- !private ["SQ", "AccountDetailViewController"]
+- !private ["SQ", "AddNewWalletTableViewController"]
+- !private ["SQ", "AgentViewController"]
+- !private ["SQ", "CardViewController"]
+- !private ["SQ", "ContactsListController"]
+- !private ["SQ", "ContentAddMoneyPagerViewController"]
+- !private ["SQ", "ContentAddPagerNewViewController"]
+- !private ["SQ", "ContentTopupPagerViewController"]
+- !private ["SQ", "ContentVerifyPagerViewController"]
+- !private ["SQ", "DigitTableViewController"]
+- !private ["SQ", "EnterPINController"]
+- !private ["SQ", "HomeViewController"]
+- !private ["SQ", "InstantTableViewController"]
+- !private ["SQ", "LoginPasswordViewController"]
+- !private ["SQ", "ManageRecipientsTableViewController"]
+- !private ["SQ", "ManualTableViewController"]
+- !private ["SQ", "NotificationTableViewController"]
+- !private ["SQ", "PaymentSuccesfullViewController"]
+- !private ["SQ", "ProfileViewController"]
+- !private ["SQ", "QRCodeScanViewController"]
+- !private ["SQ", "RegisterViewController"]
+- !private ["SQ", "SendSMSViewController"]
+- !private ["SQ", "SentToCardViewController"]
+- !private ["SQ", "SettingTableViewController"]
+- !private ["SQ", "SlidebarMenuViewController"]
+- !private ["SQ", "SwinjectStoryboard"]
+- !private ["SQ", "TransactionAPI"]
+- !private ["SQ", "TransactionClientAPI"]
+- !private ["SQ", "TransactionPINController"]
+- !private ["SQ", "TransferController"]
+- !private ["SQ", "TransferWalletController"]
+- !private ["SQ", "UINavigationController"]
+- !private ["SQ", "UISideMenuNavigationController"]
+- !private ["SQ", "UIViewController"]
+- !private ["SQ", "UploadingDocAPI"]
+- !private ["SQ", "UploadingDocumentClientAPI"]
+- !private ["SQ", "UserAuthAPI"]
+- !private ["SQ", "UserClientAPI"]
+- !private ["SQ", "UtilityAPI"]
+- !private ["SQ", "UtilityClientAPI"]
+- !private ["SQ", "VerificationViewController"]
+- !private ["SQ", "VoucherTableViewController"]
+- !private ["SQ", "apiUpload"]
+- !private ["SQ", "controllersFromAddMoneyStoryboard"]
+- !private ["SQ", "controllersFromAddNewStoryboard"]
+- !private ["SQ", "controllersFromHomeStorybaord"]
+- !private ["SQ", "controllersFromNotificationStoryboard"]
+- !private ["SQ", "controllersFromProfileStoryboard"]
+- !private ["SQ", "controllersFromQuickPayStoryboard"]
+- !private ["SQ", "controllersFromRegisterStorybaord"]
+- !private ["SQ", "controllersFromSettingStoryboard"]
+- !private ["SQ", "controllersFromTopUpStoryboard"]
+- !private ["SQ", "controllersFromTransferStoryboard"]
+- !private ["SQ", "controllersFromVerifyStoryboard"]
+- !private ["SQ", "create"]
+- !private ["SQ", "defaultContainer"]
+- !private ["SQ", "instantiateViewController"]
+- !private ["SQ", "registerController"]
+- !private ["SQ", "registerService"]
+- !private ["SQ", "storyboard"]
+- !private ["SQ", "transactionAPI"]
+- !private ["SQ", "userAuthAPI"]
+- !private ["SQ", "utilityAPI"]
+- !private ["SH", "AccountDetailViewController"]
+- !private ["SH", "AddNewWalletTableViewController"]
+- !private ["SH", "AgentViewController"]
+- !private ["SH", "CardViewController"]
+- !private ["SH", "ContactsListController"]
+- !private ["SH", "ContentAddMoneyPagerViewController"]
+- !private ["SH", "ContentAddPagerNewViewController"]
+- !private ["SH", "ContentTopupPagerViewController"]
+- !private ["SH", "ContentVerifyPagerViewController"]
+- !private ["SH", "DigitTableViewController"]
+- !private ["SH", "EnterPINController"]
+- !private ["SH", "HomeViewController"]
+- !private ["SH", "InstantTableViewController"]
+- !private ["SH", "LoginPasswordViewController"]
+- !private ["SH", "ManageRecipientsTableViewController"]
+- !private ["SH", "ManualTableViewController"]
+- !private ["SH", "NotificationTableViewController"]
+- !private ["SH", "PaymentSuccesfullViewController"]
+- !private ["SH", "ProfileViewController"]
+- !private ["SH", "QRCodeScanViewController"]
+- !private ["SH", "RegisterViewController"]
+- !private ["SH", "SendSMSViewController"]
+- !private ["SH", "SentToCardViewController"]
+- !private ["SH", "SettingTableViewController"]
+- !private ["SH", "SlidebarMenuViewController"]
+- !private ["SH", "SwinjectStoryboard"]
+- !private ["SH", "TransactionAPI"]
+- !private ["SH", "TransactionClientAPI"]
+- !private ["SH", "TransactionPINController"]
+- !private ["SH", "TransferController"]
+- !private ["SH", "TransferWalletController"]
+- !private ["SH", "UINavigationController"]
+- !private ["SH", "UISideMenuNavigationController"]
+- !private ["SH", "UIViewController"]
+- !private ["SH", "UploadingDocAPI"]
+- !private ["SH", "UploadingDocumentClientAPI"]
+- !private ["SH", "UserAuthAPI"]
+- !private ["SH", "UserClientAPI"]
+- !private ["SH", "UtilityAPI"]
+- !private ["SH", "UtilityClientAPI"]
+- !private ["SH", "VerificationViewController"]
+- !private ["SH", "VoucherTableViewController"]
+- !private ["SH", "apiUpload"]
+- !private ["SH", "controllersFromAddMoneyStoryboard"]
+- !private ["SH", "controllersFromAddNewStoryboard"]
+- !private ["SH", "controllersFromHomeStorybaord"]
+- !private ["SH", "controllersFromNotificationStoryboard"]
+- !private ["SH", "controllersFromProfileStoryboard"]
+- !private ["SH", "controllersFromQuickPayStoryboard"]
+- !private ["SH", "controllersFromRegisterStorybaord"]
+- !private ["SH", "controllersFromSettingStoryboard"]
+- !private ["SH", "controllersFromTopUpStoryboard"]
+- !private ["SH", "controllersFromTransferStoryboard"]
+- !private ["SH", "controllersFromVerifyStoryboard"]
+- !private ["SH", "create"]
+- !private ["SH", "defaultContainer"]
+- !private ["SH", "instantiateViewController"]
+- !private ["SH", "registerController"]
+- !private ["SH", "registerService"]
+- !private ["SH", "storyboard"]
+- !private ["SH", "transactionAPI"]
+- !private ["SH", "userAuthAPI"]
+- !private ["SH", "utilityAPI"]
+- !private ["10LHPPWallet18HomeViewControllerC", "transactionAPI"]
+- !private ["10LHPPWallet18HomeViewControllerC", "utilityAPI"]
+- !private ["18SwinjectStoryboard19InjectionVerifiableP", "apiUpload"]
+- !private ["18SwinjectStoryboard19InjectionVerifiableP", "transactionAPI"]
+- !private ["18SwinjectStoryboard19InjectionVerifiableP", "userAuthAPI"]
+- !private ["18SwinjectStoryboard19InjectionVerifiableP", "utilityAPI"]
+- !private ["10LHPPWallet27LoginPasswordViewControllerC", "userAuthAPI"]
+- !private ["So26MXSegmentedPagerControllerC", "transactionAPI"]
+- !private ["So36MXSegmentedPagerControllerDataSourceP", "transactionAPI"]
+- !private ["So26MXSegmentedPagerDataSourceP", "transactionAPI"]
+- !private ["So24MXSegmentedPagerDelegateP", "transactionAPI"]
+- !private ["So8NSCodingP", "apiUpload"]
+- !private ["So8NSCodingP", "transactionAPI"]
+- !private ["So8NSCodingP", "userAuthAPI"]
+- !private ["So8NSCodingP", "utilityAPI"]
+- !private ["So26NSExtensionRequestHandlingP", "apiUpload"]
+- !private ["So26NSExtensionRequestHandlingP", "transactionAPI"]
+- !private ["So26NSExtensionRequestHandlingP", "userAuthAPI"]
+- !private ["So26NSExtensionRequestHandlingP", "utilityAPI"]
+- !private ["So8NSObjectC", "AccountDetailViewController"]
+- !private ["So8NSObjectC", "AddNewWalletTableViewController"]
+- !private ["So8NSObjectC", "AgentViewController"]
+- !private ["So8NSObjectC", "CardViewController"]
+- !private ["So8NSObjectC", "ContactsListController"]
+- ["So8NSObjectC", "Container"]
+- !private ["So8NSObjectC", "ContentAddMoneyPagerViewController"]
+- !private ["So8NSObjectC", "ContentAddPagerNewViewController"]
+- !private ["So8NSObjectC", "ContentTopupPagerViewController"]
+- !private ["So8NSObjectC", "ContentVerifyPagerViewController"]
+- !private ["So8NSObjectC", "DigitTableViewController"]
+- !private ["So8NSObjectC", "EnterPINController"]
+- !private ["So8NSObjectC", "HomeViewController"]
+- !private ["So8NSObjectC", "InstantTableViewController"]
+- !private ["So8NSObjectC", "LoginPasswordViewController"]
+- !private ["So8NSObjectC", "ManageRecipientsTableViewController"]
+- !private ["So8NSObjectC", "ManualTableViewController"]
+- !private ["So8NSObjectC", "NotificationTableViewController"]
+- !private ["So8NSObjectC", "PaymentSuccesfullViewController"]
+- !private ["So8NSObjectC", "ProfileViewController"]
+- !private ["So8NSObjectC", "QRCodeScanViewController"]
+- !private ["So8NSObjectC", "RegisterViewController"]
+- !private ["So8NSObjectC", "SendSMSViewController"]
+- !private ["So8NSObjectC", "SentToCardViewController"]
+- !private ["So8NSObjectC", "SettingTableViewController"]
+- !private ["So8NSObjectC", "SlidebarMenuViewController"]
+- ["So8NSObjectC", "String"]
+- ["So8NSObjectC", "SwinjectStoryboard"]
+- !private ["So8NSObjectC", "TransactionAPI"]
+- !private ["So8NSObjectC", "TransactionClientAPI"]
+- !private ["So8NSObjectC", "TransactionPINController"]
+- !private ["So8NSObjectC", "TransferController"]
+- !private ["So8NSObjectC", "TransferWalletController"]
+- !private ["So8NSObjectC", "UINavigationController"]
+- !private ["So8NSObjectC", "UISideMenuNavigationController"]
+- ["So8NSObjectC", "UIViewController"]
+- !private ["So8NSObjectC", "UploadingDocAPI"]
+- !private ["So8NSObjectC", "UploadingDocumentClientAPI"]
+- !private ["So8NSObjectC", "UserAuthAPI"]
+- !private ["So8NSObjectC", "UserClientAPI"]
+- !private ["So8NSObjectC", "UtilityAPI"]
+- !private ["So8NSObjectC", "UtilityClientAPI"]
+- !private ["So8NSObjectC", "VerificationViewController"]
+- !private ["So8NSObjectC", "VoucherTableViewController"]
+- !private ["So8NSObjectC", "apiUpload"]
+- ["So8NSObjectC", "controllersFromAddMoneyStoryboard"]
+- ["So8NSObjectC", "controllersFromAddNewStoryboard"]
+- ["So8NSObjectC", "controllersFromHomeStorybaord"]
+- ["So8NSObjectC", "controllersFromNotificationStoryboard"]
+- ["So8NSObjectC", "controllersFromProfileStoryboard"]
+- ["So8NSObjectC", "controllersFromQuickPayStoryboard"]
+- ["So8NSObjectC", "controllersFromRegisterStorybaord"]
+- ["So8NSObjectC", "controllersFromSettingStoryboard"]
+- ["So8NSObjectC", "controllersFromTopUpStoryboard"]
+- ["So8NSObjectC", "controllersFromTransferStoryboard"]
+- ["So8NSObjectC", "controllersFromVerifyStoryboard"]
+- !private ["So8NSObjectC", "create"]
+- !private ["So8NSObjectC", "defaultContainer"]
+- ["So8NSObjectC", "initController"]
+- !private ["So8NSObjectC", "instantiateViewController"]
+- ["So8NSObjectC", "registerController"]
+- ["So8NSObjectC", "registerService"]
+- ["So8NSObjectC", "setup"]
+- ["So8NSObjectC", "storyboard"]
+- !private ["So8NSObjectC", "transactionAPI"]
+- !private ["So8NSObjectC", "userAuthAPI"]
+- !private ["So8NSObjectC", "utilityAPI"]
+- !private ["So8NSObjectP", "AccountDetailViewController"]
+- !private ["So8NSObjectP", "AddNewWalletTableViewController"]
+- !private ["So8NSObjectP", "AgentViewController"]
+- !private ["So8NSObjectP", "CardViewController"]
+- !private ["So8NSObjectP", "ContactsListController"]
+- !private ["So8NSObjectP", "ContentAddMoneyPagerViewController"]
+- !private ["So8NSObjectP", "ContentAddPagerNewViewController"]
+- !private ["So8NSObjectP", "ContentTopupPagerViewController"]
+- !private ["So8NSObjectP", "ContentVerifyPagerViewController"]
+- !private ["So8NSObjectP", "DigitTableViewController"]
+- !private ["So8NSObjectP", "EnterPINController"]
+- !private ["So8NSObjectP", "HomeViewController"]
+- !private ["So8NSObjectP", "InstantTableViewController"]
+- !private ["So8NSObjectP", "LoginPasswordViewController"]
+- !private ["So8NSObjectP", "ManageRecipientsTableViewController"]
+- !private ["So8NSObjectP", "ManualTableViewController"]
+- !private ["So8NSObjectP", "NotificationTableViewController"]
+- !private ["So8NSObjectP", "PaymentSuccesfullViewController"]
+- !private ["So8NSObjectP", "ProfileViewController"]
+- !private ["So8NSObjectP", "QRCodeScanViewController"]
+- !private ["So8NSObjectP", "RegisterViewController"]
+- !private ["So8NSObjectP", "SendSMSViewController"]
+- !private ["So8NSObjectP", "SentToCardViewController"]
+- !private ["So8NSObjectP", "SettingTableViewController"]
+- !private ["So8NSObjectP", "SlidebarMenuViewController"]
+- !private ["So8NSObjectP", "SwinjectStoryboard"]
+- !private ["So8NSObjectP", "TransactionAPI"]
+- !private ["So8NSObjectP", "TransactionClientAPI"]
+- !private ["So8NSObjectP", "TransactionPINController"]
+- !private ["So8NSObjectP", "TransferController"]
+- !private ["So8NSObjectP", "TransferWalletController"]
+- !private ["So8NSObjectP", "UINavigationController"]
+- !private ["So8NSObjectP", "UISideMenuNavigationController"]
+- !private ["So8NSObjectP", "UIViewController"]
+- !private ["So8NSObjectP", "UploadingDocAPI"]
+- !private ["So8NSObjectP", "UploadingDocumentClientAPI"]
+- !private ["So8NSObjectP", "UserAuthAPI"]
+- !private ["So8NSObjectP", "UserClientAPI"]
+- !private ["So8NSObjectP", "UtilityAPI"]
+- !private ["So8NSObjectP", "UtilityClientAPI"]
+- !private ["So8NSObjectP", "VerificationViewController"]
+- !private ["So8NSObjectP", "VoucherTableViewController"]
+- !private ["So8NSObjectP", "apiUpload"]
+- !private ["So8NSObjectP", "controllersFromAddMoneyStoryboard"]
+- !private ["So8NSObjectP", "controllersFromAddNewStoryboard"]
+- !private ["So8NSObjectP", "controllersFromHomeStorybaord"]
+- !private ["So8NSObjectP", "controllersFromNotificationStoryboard"]
+- !private ["So8NSObjectP", "controllersFromProfileStoryboard"]
+- !private ["So8NSObjectP", "controllersFromQuickPayStoryboard"]
+- !private ["So8NSObjectP", "controllersFromRegisterStorybaord"]
+- !private ["So8NSObjectP", "controllersFromSettingStoryboard"]
+- !private ["So8NSObjectP", "controllersFromTopUpStoryboard"]
+- !private ["So8NSObjectP", "controllersFromTransferStoryboard"]
+- !private ["So8NSObjectP", "controllersFromVerifyStoryboard"]
+- !private ["So8NSObjectP", "create"]
+- !private ["So8NSObjectP", "defaultContainer"]
+- !private ["So8NSObjectP", "instantiateViewController"]
+- !private ["So8NSObjectP", "registerController"]
+- !private ["So8NSObjectP", "registerService"]
+- !private ["So8NSObjectP", "storyboard"]
+- !private ["So8NSObjectP", "transactionAPI"]
+- !private ["So8NSObjectP", "userAuthAPI"]
+- !private ["So8NSObjectP", "utilityAPI"]
+- !private ["23NVActivityIndicatorView0aB8ViewableP", "transactionAPI"]
+- !private ["23NVActivityIndicatorView0aB8ViewableP", "userAuthAPI"]
+- !private ["23NVActivityIndicatorView0aB8ViewableP", "utilityAPI"]
+- !private ["8Swinject11ObjectScopeC", "container"]
+- !private ["8Swinject19ObjectScopeProtocolP", "container"]
+- !private ["10LHPPWallet21ProfileViewControllerC", "apiUpload"]
+- !private ["10LHPPWallet24QRCodeScanViewControllerC", "transactionAPI"]
+- !private ["10LHPPWallet22RegisterViewControllerC", "userAuthAPI"]
+- !private ["18SwinjectStoryboard28RegistrationNameAssociatableP", "apiUpload"]
+- !private ["18SwinjectStoryboard28RegistrationNameAssociatableP", "transactionAPI"]
+- !private ["18SwinjectStoryboard28RegistrationNameAssociatableP", "userAuthAPI"]
+- !private ["18SwinjectStoryboard28RegistrationNameAssociatableP", "utilityAPI"]
+- !private ["8Swinject8ResolverP", "register"]
+- !private ["8Swinject8ResolverP", "resolve"]
+- !private ["8Swinject8ResolverP", "storyboardInitCompleted"]
+- !private ["10LHPPWallet21SendSMSViewControllerC", "userAuthAPI"]
+- !private ["8Swinject12ServiceEntryC", "inObjectScope"]
+- !private ["8Swinject20ServiceEntryProtocolP", "inObjectScope"]
+- !private ["18SwinjectStoryboardAAC", "AccountDetailViewController"]
+- !private ["18SwinjectStoryboardAAC", "AddNewWalletTableViewController"]
+- !private ["18SwinjectStoryboardAAC", "AgentViewController"]
+- !private ["18SwinjectStoryboardAAC", "CardViewController"]
+- !private ["18SwinjectStoryboardAAC", "ContactsListController"]
+- ["18SwinjectStoryboardAAC", "Container"]
+- !private ["18SwinjectStoryboardAAC", "ContentAddMoneyPagerViewController"]
+- !private ["18SwinjectStoryboardAAC", "ContentAddPagerNewViewController"]
+- !private ["18SwinjectStoryboardAAC", "ContentTopupPagerViewController"]
+- !private ["18SwinjectStoryboardAAC", "ContentVerifyPagerViewController"]
+- !private ["18SwinjectStoryboardAAC", "DigitTableViewController"]
+- !private ["18SwinjectStoryboardAAC", "EnterPINController"]
+- !private ["18SwinjectStoryboardAAC", "HomeViewController"]
+- !private ["18SwinjectStoryboardAAC", "InstantTableViewController"]
+- !private ["18SwinjectStoryboardAAC", "LoginPasswordViewController"]
+- !private ["18SwinjectStoryboardAAC", "ManageRecipientsTableViewController"]
+- !private ["18SwinjectStoryboardAAC", "ManualTableViewController"]
+- !private ["18SwinjectStoryboardAAC", "NotificationTableViewController"]
+- !private ["18SwinjectStoryboardAAC", "PaymentSuccesfullViewController"]
+- !private ["18SwinjectStoryboardAAC", "ProfileViewController"]
+- !private ["18SwinjectStoryboardAAC", "QRCodeScanViewController"]
+- !private ["18SwinjectStoryboardAAC", "RegisterViewController"]
+- !private ["18SwinjectStoryboardAAC", "SendSMSViewController"]
+- !private ["18SwinjectStoryboardAAC", "SentToCardViewController"]
+- !private ["18SwinjectStoryboardAAC", "SettingTableViewController"]
+- !private ["18SwinjectStoryboardAAC", "SlidebarMenuViewController"]
+- ["18SwinjectStoryboardAAC", "String"]
+- ["18SwinjectStoryboardAAC", "SwinjectStoryboard"]
+- !private ["18SwinjectStoryboardAAC", "TransactionAPI"]
+- !private ["18SwinjectStoryboardAAC", "TransactionClientAPI"]
+- !private ["18SwinjectStoryboardAAC", "TransactionPINController"]
+- !private ["18SwinjectStoryboardAAC", "TransferController"]
+- !private ["18SwinjectStoryboardAAC", "TransferWalletController"]
+- !private ["18SwinjectStoryboardAAC", "UINavigationController"]
+- !private ["18SwinjectStoryboardAAC", "UISideMenuNavigationController"]
+- ["18SwinjectStoryboardAAC", "UIViewController"]
+- !private ["18SwinjectStoryboardAAC", "UploadingDocAPI"]
+- !private ["18SwinjectStoryboardAAC", "UploadingDocumentClientAPI"]
+- !private ["18SwinjectStoryboardAAC", "UserAuthAPI"]
+- !private ["18SwinjectStoryboardAAC", "UserClientAPI"]
+- !private ["18SwinjectStoryboardAAC", "UtilityAPI"]
+- !private ["18SwinjectStoryboardAAC", "UtilityClientAPI"]
+- !private ["18SwinjectStoryboardAAC", "VerificationViewController"]
+- !private ["18SwinjectStoryboardAAC", "VoucherTableViewController"]
+- !private ["18SwinjectStoryboardAAC", "controllersFromAddMoneyStoryboard"]
+- !private ["18SwinjectStoryboardAAC", "controllersFromAddNewStoryboard"]
+- !private ["18SwinjectStoryboardAAC", "controllersFromHomeStorybaord"]
+- !private ["18SwinjectStoryboardAAC", "controllersFromNotificationStoryboard"]
+- !private ["18SwinjectStoryboardAAC", "controllersFromProfileStoryboard"]
+- !private ["18SwinjectStoryboardAAC", "controllersFromQuickPayStoryboard"]
+- !private ["18SwinjectStoryboardAAC", "controllersFromRegisterStorybaord"]
+- !private ["18SwinjectStoryboardAAC", "controllersFromSettingStoryboard"]
+- !private ["18SwinjectStoryboardAAC", "controllersFromTopUpStoryboard"]
+- !private ["18SwinjectStoryboardAAC", "controllersFromTransferStoryboard"]
+- !private ["18SwinjectStoryboardAAC", "controllersFromVerifyStoryboard"]
+- !private ["18SwinjectStoryboardAAC", "create"]
+- !private ["18SwinjectStoryboardAAC", "defaultContainer"]
+- ["18SwinjectStoryboardAAC", "initController"]
+- !private ["18SwinjectStoryboardAAC", "instantiateViewController"]
+- !private ["18SwinjectStoryboardAAC", "registerController"]
+- !private ["18SwinjectStoryboardAAC", "registerService"]
+- ["18SwinjectStoryboardAAC", "setup"]
+- !private ["18SwinjectStoryboardAAC", "storyboard"]
+- !private ["So26SwinjectStoryboardProtocolP", "AccountDetailViewController"]
+- !private ["So26SwinjectStoryboardProtocolP", "AddNewWalletTableViewController"]
+- !private ["So26SwinjectStoryboardProtocolP", "AgentViewController"]
+- !private ["So26SwinjectStoryboardProtocolP", "CardViewController"]
+- !private ["So26SwinjectStoryboardProtocolP", "ContactsListController"]
+- !private ["So26SwinjectStoryboardProtocolP", "ContentAddMoneyPagerViewController"]
+- !private ["So26SwinjectStoryboardProtocolP", "ContentAddPagerNewViewController"]
+- !private ["So26SwinjectStoryboardProtocolP", "ContentTopupPagerViewController"]
+- !private ["So26SwinjectStoryboardProtocolP", "ContentVerifyPagerViewController"]
+- !private ["So26SwinjectStoryboardProtocolP", "DigitTableViewController"]
+- !private ["So26SwinjectStoryboardProtocolP", "EnterPINController"]
+- !private ["So26SwinjectStoryboardProtocolP", "HomeViewController"]
+- !private ["So26SwinjectStoryboardProtocolP", "InstantTableViewController"]
+- !private ["So26SwinjectStoryboardProtocolP", "LoginPasswordViewController"]
+- !private ["So26SwinjectStoryboardProtocolP", "ManageRecipientsTableViewController"]
+- !private ["So26SwinjectStoryboardProtocolP", "ManualTableViewController"]
+- !private ["So26SwinjectStoryboardProtocolP", "NotificationTableViewController"]
+- !private ["So26SwinjectStoryboardProtocolP", "PaymentSuccesfullViewController"]
+- !private ["So26SwinjectStoryboardProtocolP", "ProfileViewController"]
+- !private ["So26SwinjectStoryboardProtocolP", "QRCodeScanViewController"]
+- !private ["So26SwinjectStoryboardProtocolP", "RegisterViewController"]
+- !private ["So26SwinjectStoryboardProtocolP", "SendSMSViewController"]
+- !private ["So26SwinjectStoryboardProtocolP", "SentToCardViewController"]
+- !private ["So26SwinjectStoryboardProtocolP", "SettingTableViewController"]
+- !private ["So26SwinjectStoryboardProtocolP", "SlidebarMenuViewController"]
+- !private ["So26SwinjectStoryboardProtocolP", "SwinjectStoryboard"]
+- !private ["So26SwinjectStoryboardProtocolP", "TransactionAPI"]
+- !private ["So26SwinjectStoryboardProtocolP", "TransactionClientAPI"]
+- !private ["So26SwinjectStoryboardProtocolP", "TransactionPINController"]
+- !private ["So26SwinjectStoryboardProtocolP", "TransferController"]
+- !private ["So26SwinjectStoryboardProtocolP", "TransferWalletController"]
+- !private ["So26SwinjectStoryboardProtocolP", "UINavigationController"]
+- !private ["So26SwinjectStoryboardProtocolP", "UISideMenuNavigationController"]
+- !private ["So26SwinjectStoryboardProtocolP", "UIViewController"]
+- !private ["So26SwinjectStoryboardProtocolP", "UploadingDocAPI"]
+- !private ["So26SwinjectStoryboardProtocolP", "UploadingDocumentClientAPI"]
+- !private ["So26SwinjectStoryboardProtocolP", "UserAuthAPI"]
+- !private ["So26SwinjectStoryboardProtocolP", "UserClientAPI"]
+- !private ["So26SwinjectStoryboardProtocolP", "UtilityAPI"]
+- !private ["So26SwinjectStoryboardProtocolP", "UtilityClientAPI"]
+- !private ["So26SwinjectStoryboardProtocolP", "VerificationViewController"]
+- !private ["So26SwinjectStoryboardProtocolP", "VoucherTableViewController"]
+- !private ["So26SwinjectStoryboardProtocolP", "controllersFromAddMoneyStoryboard"]
+- !private ["So26SwinjectStoryboardProtocolP", "controllersFromAddNewStoryboard"]
+- !private ["So26SwinjectStoryboardProtocolP", "controllersFromHomeStorybaord"]
+- !private ["So26SwinjectStoryboardProtocolP", "controllersFromNotificationStoryboard"]
+- !private ["So26SwinjectStoryboardProtocolP", "controllersFromProfileStoryboard"]
+- !private ["So26SwinjectStoryboardProtocolP", "controllersFromQuickPayStoryboard"]
+- !private ["So26SwinjectStoryboardProtocolP", "controllersFromRegisterStorybaord"]
+- !private ["So26SwinjectStoryboardProtocolP", "controllersFromSettingStoryboard"]
+- !private ["So26SwinjectStoryboardProtocolP", "controllersFromTopUpStoryboard"]
+- !private ["So26SwinjectStoryboardProtocolP", "controllersFromTransferStoryboard"]
+- !private ["So26SwinjectStoryboardProtocolP", "controllersFromVerifyStoryboard"]
+- !private ["So26SwinjectStoryboardProtocolP", "create"]
+- !private ["So26SwinjectStoryboardProtocolP", "defaultContainer"]
+- !private ["So26SwinjectStoryboardProtocolP", "instantiateViewController"]
+- !private ["So26SwinjectStoryboardProtocolP", "registerController"]
+- !private ["So26SwinjectStoryboardProtocolP", "registerService"]
+- !private ["So26SwinjectStoryboardProtocolP", "storyboard"]
+- !private ["10LHPPWallet14TransactionAPIV", "deinit"]
+- !private ["10LHPPWallet14TransactionAPIV", "init"]
+- !private ["10LHPPWallet26TransactionAPIBaseProtocolP", "init"]
+- !private ["10LHPPWallet22TransactionAPIProtocolP", "init"]
+- !private ["10LHPPWallet20TransactionClientAPIV", "init"]
+- !private ["10LHPPWallet24TransactionPINControllerC", "userAuthAPI"]
+- !private ["So21UIAppearanceContainerP", "apiUpload"]
+- !private ["So21UIAppearanceContainerP", "transactionAPI"]
+- !private ["So21UIAppearanceContainerP", "userAuthAPI"]
+- !private ["So21UIAppearanceContainerP", "utilityAPI"]
+- !private ["So26UICollectionViewDataSourceP", "transactionAPI"]
+- !private ["So26UICollectionViewDataSourceP", "utilityAPI"]
+- !private ["So24UICollectionViewDelegateP", "transactionAPI"]
+- !private ["So24UICollectionViewDelegateP", "utilityAPI"]
+- !private ["So18UIContentContainerP", "apiUpload"]
+- !private ["So18UIContentContainerP", "transactionAPI"]
+- !private ["So18UIContentContainerP", "userAuthAPI"]
+- !private ["So18UIContentContainerP", "utilityAPI"]
+- !private ["So18UIFocusEnvironmentP", "apiUpload"]
+- !private ["So18UIFocusEnvironmentP", "transactionAPI"]
+- !private ["So18UIFocusEnvironmentP", "userAuthAPI"]
+- !private ["So18UIFocusEnvironmentP", "utilityAPI"]
+- !private ["So31UIImagePickerControllerDelegateP", "apiUpload"]
+- !private ["So30UINavigationControllerDelegateP", "apiUpload"]
+- !private ["So30UIPasteConfigurationSupportingP", "apiUpload"]
+- !private ["So30UIPasteConfigurationSupportingP", "transactionAPI"]
+- !private ["So30UIPasteConfigurationSupportingP", "userAuthAPI"]
+- !private ["So30UIPasteConfigurationSupportingP", "utilityAPI"]
+- !private ["So22UIPickerViewDataSourceP", "userAuthAPI"]
+- !private ["So20UIPickerViewDelegateP", "userAuthAPI"]
+- !private ["So11UIResponderC", "apiUpload"]
+- !private ["So11UIResponderC", "transactionAPI"]
+- !private ["So11UIResponderC", "userAuthAPI"]
+- !private ["So11UIResponderC", "utilityAPI"]
+- !private ["So30UIResponderStandardEditActionsP", "apiUpload"]
+- !private ["So30UIResponderStandardEditActionsP", "transactionAPI"]
+- !private ["So30UIResponderStandardEditActionsP", "userAuthAPI"]
+- !private ["So30UIResponderStandardEditActionsP", "utilityAPI"]
+- !private ["So20UIScrollViewDelegateP", "apiUpload"]
+- !private ["So20UIScrollViewDelegateP", "transactionAPI"]
+- !private ["So20UIScrollViewDelegateP", "utilityAPI"]
+- !private ["So16UIStateRestoringP", "apiUpload"]
+- !private ["So16UIStateRestoringP", "transactionAPI"]
+- !private ["So16UIStateRestoringP", "userAuthAPI"]
+- !private ["So16UIStateRestoringP", "utilityAPI"]
+- !private ["So12UIStoryboardC", "AccountDetailViewController"]
+- !private ["So12UIStoryboardC", "AddNewWalletTableViewController"]
+- !private ["So12UIStoryboardC", "AgentViewController"]
+- !private ["So12UIStoryboardC", "CardViewController"]
+- !private ["So12UIStoryboardC", "ContactsListController"]
+- ["So12UIStoryboardC", "Container"]
+- !private ["So12UIStoryboardC", "ContentAddMoneyPagerViewController"]
+- !private ["So12UIStoryboardC", "ContentAddPagerNewViewController"]
+- !private ["So12UIStoryboardC", "ContentTopupPagerViewController"]
+- !private ["So12UIStoryboardC", "ContentVerifyPagerViewController"]
+- !private ["So12UIStoryboardC", "DigitTableViewController"]
+- !private ["So12UIStoryboardC", "EnterPINController"]
+- !private ["So12UIStoryboardC", "HomeViewController"]
+- !private ["So12UIStoryboardC", "InstantTableViewController"]
+- !private ["So12UIStoryboardC", "LoginPasswordViewController"]
+- !private ["So12UIStoryboardC", "ManageRecipientsTableViewController"]
+- !private ["So12UIStoryboardC", "ManualTableViewController"]
+- !private ["So12UIStoryboardC", "NotificationTableViewController"]
+- !private ["So12UIStoryboardC", "PaymentSuccesfullViewController"]
+- !private ["So12UIStoryboardC", "ProfileViewController"]
+- !private ["So12UIStoryboardC", "QRCodeScanViewController"]
+- !private ["So12UIStoryboardC", "RegisterViewController"]
+- !private ["So12UIStoryboardC", "SendSMSViewController"]
+- !private ["So12UIStoryboardC", "SentToCardViewController"]
+- !private ["So12UIStoryboardC", "SettingTableViewController"]
+- !private ["So12UIStoryboardC", "SlidebarMenuViewController"]
+- ["So12UIStoryboardC", "String"]
+- ["So12UIStoryboardC", "SwinjectStoryboard"]
+- !private ["So12UIStoryboardC", "TransactionAPI"]
+- !private ["So12UIStoryboardC", "TransactionClientAPI"]
+- !private ["So12UIStoryboardC", "TransactionPINController"]
+- !private ["So12UIStoryboardC", "TransferController"]
+- !private ["So12UIStoryboardC", "TransferWalletController"]
+- !private ["So12UIStoryboardC", "UINavigationController"]
+- !private ["So12UIStoryboardC", "UISideMenuNavigationController"]
+- ["So12UIStoryboardC", "UIViewController"]
+- !private ["So12UIStoryboardC", "UploadingDocAPI"]
+- !private ["So12UIStoryboardC", "UploadingDocumentClientAPI"]
+- !private ["So12UIStoryboardC", "UserAuthAPI"]
+- !private ["So12UIStoryboardC", "UserClientAPI"]
+- !private ["So12UIStoryboardC", "UtilityAPI"]
+- !private ["So12UIStoryboardC", "UtilityClientAPI"]
+- !private ["So12UIStoryboardC", "VerificationViewController"]
+- !private ["So12UIStoryboardC", "VoucherTableViewController"]
+- ["So12UIStoryboardC", "controllersFromAddMoneyStoryboard"]
+- ["So12UIStoryboardC", "controllersFromAddNewStoryboard"]
+- ["So12UIStoryboardC", "controllersFromHomeStorybaord"]
+- ["So12UIStoryboardC", "controllersFromNotificationStoryboard"]
+- ["So12UIStoryboardC", "controllersFromProfileStoryboard"]
+- ["So12UIStoryboardC", "controllersFromQuickPayStoryboard"]
+- ["So12UIStoryboardC", "controllersFromRegisterStorybaord"]
+- ["So12UIStoryboardC", "controllersFromSettingStoryboard"]
+- ["So12UIStoryboardC", "controllersFromTopUpStoryboard"]
+- ["So12UIStoryboardC", "controllersFromTransferStoryboard"]
+- ["So12UIStoryboardC", "controllersFromVerifyStoryboard"]
+- !private ["So12UIStoryboardC", "create"]
+- !private ["So12UIStoryboardC", "defaultContainer"]
+- ["So12UIStoryboardC", "initController"]
+- !private ["So12UIStoryboardC", "instantiateViewController"]
+- ["So12UIStoryboardC", "registerController"]
+- ["So12UIStoryboardC", "registerService"]
+- ["So12UIStoryboardC", "setup"]
+- ["So12UIStoryboardC", "storyboard"]
+- !private ["So21UITableViewControllerC", "transactionAPI"]
+- !private ["So21UITableViewDataSourceP", "apiUpload"]
+- !private ["So21UITableViewDataSourceP", "transactionAPI"]
+- !private ["So21UITableViewDataSourceP", "utilityAPI"]
+- !private ["So19UITableViewDelegateP", "apiUpload"]
+- !private ["So19UITableViewDelegateP", "transactionAPI"]
+- !private ["So19UITableViewDelegateP", "utilityAPI"]
+- !private ["So19UITextFieldDelegateP", "transactionAPI"]
+- !private ["So19UITextFieldDelegateP", "userAuthAPI"]
+- !private ["So18UITraitEnvironmentP", "apiUpload"]
+- !private ["So18UITraitEnvironmentP", "transactionAPI"]
+- !private ["So18UITraitEnvironmentP", "userAuthAPI"]
+- !private ["So18UITraitEnvironmentP", "utilityAPI"]
+- !private ["So23UIUserActivityRestoringP", "apiUpload"]
+- !private ["So23UIUserActivityRestoringP", "transactionAPI"]
+- !private ["So23UIUserActivityRestoringP", "userAuthAPI"]
+- !private ["So23UIUserActivityRestoringP", "utilityAPI"]
+- !private ["So16UIViewControllerC", "apiUpload"]
+- !private ["So16UIViewControllerC", "transactionAPI"]
+- !private ["So16UIViewControllerC", "userAuthAPI"]
+- !private ["So16UIViewControllerC", "utilityAPI"]
+- !private ["10LHPPWallet20UploadDocAPIProtocolP", "init"]
+- !private ["10LHPPWallet15UploadingDocAPIV", "deinit"]
+- !private ["10LHPPWallet15UploadingDocAPIV", "init"]
+- !private ["10LHPPWallet24UploadingDocBaseProtocolP", "init"]
+- !private ["10LHPPWallet26UploadingDocumentClientAPIV", "init"]
+- !private ["10LHPPWallet19UserAPIBaseProtocolP", "init"]
+- !private ["10LHPPWallet15UserAPIProtocolP", "init"]
+- !private ["10LHPPWallet11UserAuthAPIV", "deinit"]
+- !private ["10LHPPWallet11UserAuthAPIV", "init"]
+- !private ["10LHPPWallet13UserClientAPIV", "init"]
+- !private ["10LHPPWallet10UtilityAPIV", "deinit"]
+- !private ["10LHPPWallet10UtilityAPIV", "init"]
+- !private ["10LHPPWallet22UtilityAPIBaseProtocolP", "init"]
+- !private ["10LHPPWallet18UtilityAPIProtocolP", "init"]
+- !private ["10LHPPWallet16UtilityClientAPIV", "init"]
+- !private ["10LHPPWallet26VerificationViewControllerC", "userAuthAPI"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "AccountDetailViewController"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "AddNewWalletTableViewController"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "AgentViewController"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "CardViewController"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "ContactsListController"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "ContentAddMoneyPagerViewController"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "ContentAddPagerNewViewController"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "ContentTopupPagerViewController"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "ContentVerifyPagerViewController"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "DigitTableViewController"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "EnterPINController"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "HomeViewController"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "InstantTableViewController"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "LoginPasswordViewController"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "ManageRecipientsTableViewController"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "ManualTableViewController"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "NotificationTableViewController"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "PaymentSuccesfullViewController"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "ProfileViewController"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "QRCodeScanViewController"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "RegisterViewController"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "SendSMSViewController"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "SentToCardViewController"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "SettingTableViewController"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "SlidebarMenuViewController"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "SwinjectStoryboard"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "TransactionAPI"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "TransactionClientAPI"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "TransactionPINController"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "TransferController"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "TransferWalletController"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "UINavigationController"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "UISideMenuNavigationController"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "UIViewController"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "UploadingDocAPI"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "UploadingDocumentClientAPI"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "UserAuthAPI"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "UserClientAPI"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "UtilityAPI"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "UtilityClientAPI"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "VerificationViewController"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "VoucherTableViewController"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "apiUpload"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "controllersFromAddMoneyStoryboard"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "controllersFromAddNewStoryboard"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "controllersFromHomeStorybaord"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "controllersFromNotificationStoryboard"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "controllersFromProfileStoryboard"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "controllersFromQuickPayStoryboard"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "controllersFromRegisterStorybaord"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "controllersFromSettingStoryboard"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "controllersFromTopUpStoryboard"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "controllersFromTransferStoryboard"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "controllersFromVerifyStoryboard"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "create"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "defaultContainer"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "instantiateViewController"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "registerController"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "registerService"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "storyboard"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "transactionAPI"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "userAuthAPI"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "utilityAPI"]
+- !private ["8Swinject9_ResolverP", "register"]
+- !private ["8Swinject9_ResolverP", "storyboardInitCompleted"]
+- !private ["So23_SwinjectStoryboardBaseC", "AccountDetailViewController"]
+- !private ["So23_SwinjectStoryboardBaseC", "AddNewWalletTableViewController"]
+- !private ["So23_SwinjectStoryboardBaseC", "AgentViewController"]
+- !private ["So23_SwinjectStoryboardBaseC", "CardViewController"]
+- !private ["So23_SwinjectStoryboardBaseC", "ContactsListController"]
+- ["So23_SwinjectStoryboardBaseC", "Container"]
+- !private ["So23_SwinjectStoryboardBaseC", "ContentAddMoneyPagerViewController"]
+- !private ["So23_SwinjectStoryboardBaseC", "ContentAddPagerNewViewController"]
+- !private ["So23_SwinjectStoryboardBaseC", "ContentTopupPagerViewController"]
+- !private ["So23_SwinjectStoryboardBaseC", "ContentVerifyPagerViewController"]
+- !private ["So23_SwinjectStoryboardBaseC", "DigitTableViewController"]
+- !private ["So23_SwinjectStoryboardBaseC", "EnterPINController"]
+- !private ["So23_SwinjectStoryboardBaseC", "HomeViewController"]
+- !private ["So23_SwinjectStoryboardBaseC", "InstantTableViewController"]
+- !private ["So23_SwinjectStoryboardBaseC", "LoginPasswordViewController"]
+- !private ["So23_SwinjectStoryboardBaseC", "ManageRecipientsTableViewController"]
+- !private ["So23_SwinjectStoryboardBaseC", "ManualTableViewController"]
+- !private ["So23_SwinjectStoryboardBaseC", "NotificationTableViewController"]
+- !private ["So23_SwinjectStoryboardBaseC", "PaymentSuccesfullViewController"]
+- !private ["So23_SwinjectStoryboardBaseC", "ProfileViewController"]
+- !private ["So23_SwinjectStoryboardBaseC", "QRCodeScanViewController"]
+- !private ["So23_SwinjectStoryboardBaseC", "RegisterViewController"]
+- !private ["So23_SwinjectStoryboardBaseC", "SendSMSViewController"]
+- !private ["So23_SwinjectStoryboardBaseC", "SentToCardViewController"]
+- !private ["So23_SwinjectStoryboardBaseC", "SettingTableViewController"]
+- !private ["So23_SwinjectStoryboardBaseC", "SlidebarMenuViewController"]
+- ["So23_SwinjectStoryboardBaseC", "String"]
+- ["So23_SwinjectStoryboardBaseC", "SwinjectStoryboard"]
+- !private ["So23_SwinjectStoryboardBaseC", "TransactionAPI"]
+- !private ["So23_SwinjectStoryboardBaseC", "TransactionClientAPI"]
+- !private ["So23_SwinjectStoryboardBaseC", "TransactionPINController"]
+- !private ["So23_SwinjectStoryboardBaseC", "TransferController"]
+- !private ["So23_SwinjectStoryboardBaseC", "TransferWalletController"]
+- !private ["So23_SwinjectStoryboardBaseC", "UINavigationController"]
+- !private ["So23_SwinjectStoryboardBaseC", "UISideMenuNavigationController"]
+- ["So23_SwinjectStoryboardBaseC", "UIViewController"]
+- !private ["So23_SwinjectStoryboardBaseC", "UploadingDocAPI"]
+- !private ["So23_SwinjectStoryboardBaseC", "UploadingDocumentClientAPI"]
+- !private ["So23_SwinjectStoryboardBaseC", "UserAuthAPI"]
+- !private ["So23_SwinjectStoryboardBaseC", "UserClientAPI"]
+- !private ["So23_SwinjectStoryboardBaseC", "UtilityAPI"]
+- !private ["So23_SwinjectStoryboardBaseC", "UtilityClientAPI"]
+- !private ["So23_SwinjectStoryboardBaseC", "VerificationViewController"]
+- !private ["So23_SwinjectStoryboardBaseC", "VoucherTableViewController"]
+- ["So23_SwinjectStoryboardBaseC", "controllersFromAddMoneyStoryboard"]
+- ["So23_SwinjectStoryboardBaseC", "controllersFromAddNewStoryboard"]
+- ["So23_SwinjectStoryboardBaseC", "controllersFromHomeStorybaord"]
+- ["So23_SwinjectStoryboardBaseC", "controllersFromNotificationStoryboard"]
+- ["So23_SwinjectStoryboardBaseC", "controllersFromProfileStoryboard"]
+- ["So23_SwinjectStoryboardBaseC", "controllersFromQuickPayStoryboard"]
+- ["So23_SwinjectStoryboardBaseC", "controllersFromRegisterStorybaord"]
+- ["So23_SwinjectStoryboardBaseC", "controllersFromSettingStoryboard"]
+- ["So23_SwinjectStoryboardBaseC", "controllersFromTopUpStoryboard"]
+- ["So23_SwinjectStoryboardBaseC", "controllersFromTransferStoryboard"]
+- ["So23_SwinjectStoryboardBaseC", "controllersFromVerifyStoryboard"]
+- !private ["So23_SwinjectStoryboardBaseC", "create"]
+- !private ["So23_SwinjectStoryboardBaseC", "defaultContainer"]
+- ["So23_SwinjectStoryboardBaseC", "initController"]
+- !private ["So23_SwinjectStoryboardBaseC", "instantiateViewController"]
+- ["So23_SwinjectStoryboardBaseC", "registerController"]
+- ["So23_SwinjectStoryboardBaseC", "registerService"]
+- ["So23_SwinjectStoryboardBaseC", "setup"]
+- ["So23_SwinjectStoryboardBaseC", "storyboard"]
+depends-nominal:
+- !private "So38AVCaptureMetadataOutputObjectsDelegateP"
+- !private "10LHPPWallet31AddNewWalletTableViewControllerC"
+- !private "10LHPPWallet19AgentViewControllerC"
+- !private "10LHPPWallet18BaseViewControllerC"
+- !private "s7CVarArgP"
+- !private "8Swinject9ContainerC"
+- !private "10LHPPWallet34ContentAddMoneyPagerViewControllerC"
+- !private "10LHPPWallet32ContentAddPagerNewViewControllerC"
+- !private "10LHPPWallet31ContentTopupPagerViewControllerC"
+- !private "s28CustomDebugStringConvertibleP"
+- !private "s23CustomStringConvertibleP"
+- !private "10LHPPWallet24DigitTableViewControllerC"
+- !private "10LHPPWallet18EnterPINControllerC"
+- !private "SQ"
+- !private "SH"
+- !private "10LHPPWallet18HomeViewControllerC"
+- !private "18SwinjectStoryboard19InjectionVerifiableP"
+- !private "10LHPPWallet27LoginPasswordViewControllerC"
+- !private "So26MXSegmentedPagerControllerC"
+- !private "So36MXSegmentedPagerControllerDataSourceP"
+- !private "So26MXSegmentedPagerDataSourceP"
+- !private "So24MXSegmentedPagerDelegateP"
+- !private "So8NSCodingP"
+- !private "So26NSExtensionRequestHandlingP"
+- "So8NSObjectC"
+- !private "So8NSObjectP"
+- !private "23NVActivityIndicatorView0aB8ViewableP"
+- !private "8Swinject11ObjectScopeC"
+- !private "8Swinject19ObjectScopeProtocolP"
+- !private "10LHPPWallet21ProfileViewControllerC"
+- !private "10LHPPWallet24QRCodeScanViewControllerC"
+- !private "10LHPPWallet22RegisterViewControllerC"
+- !private "18SwinjectStoryboard28RegistrationNameAssociatableP"
+- !private "8Swinject8ResolverP"
+- !private "10LHPPWallet21SendSMSViewControllerC"
+- !private "8Swinject12ServiceEntryC"
+- !private "8Swinject20ServiceEntryProtocolP"
+- "18SwinjectStoryboardAAC"
+- !private "So26SwinjectStoryboardProtocolP"
+- !private "10LHPPWallet14TransactionAPIV"
+- !private "10LHPPWallet26TransactionAPIBaseProtocolP"
+- !private "10LHPPWallet22TransactionAPIProtocolP"
+- !private "10LHPPWallet20TransactionClientAPIV"
+- !private "10LHPPWallet24TransactionPINControllerC"
+- !private "So21UIAppearanceContainerP"
+- !private "So26UICollectionViewDataSourceP"
+- !private "So24UICollectionViewDelegateP"
+- !private "So18UIContentContainerP"
+- !private "So18UIFocusEnvironmentP"
+- !private "So31UIImagePickerControllerDelegateP"
+- !private "So30UINavigationControllerDelegateP"
+- !private "So30UIPasteConfigurationSupportingP"
+- !private "So22UIPickerViewDataSourceP"
+- !private "So20UIPickerViewDelegateP"
+- !private "So11UIResponderC"
+- !private "So30UIResponderStandardEditActionsP"
+- !private "So20UIScrollViewDelegateP"
+- !private "So16UIStateRestoringP"
+- "So12UIStoryboardC"
+- !private "So21UITableViewControllerC"
+- !private "So21UITableViewDataSourceP"
+- !private "So19UITableViewDelegateP"
+- !private "So19UITextFieldDelegateP"
+- !private "So18UITraitEnvironmentP"
+- !private "So23UIUserActivityRestoringP"
+- !private "So16UIViewControllerC"
+- !private "10LHPPWallet20UploadDocAPIProtocolP"
+- !private "10LHPPWallet15UploadingDocAPIV"
+- !private "10LHPPWallet24UploadingDocBaseProtocolP"
+- !private "10LHPPWallet26UploadingDocumentClientAPIV"
+- !private "10LHPPWallet19UserAPIBaseProtocolP"
+- !private "10LHPPWallet15UserAPIProtocolP"
+- !private "10LHPPWallet11UserAuthAPIV"
+- !private "10LHPPWallet13UserClientAPIV"
+- !private "10LHPPWallet10UtilityAPIV"
+- !private "10LHPPWallet22UtilityAPIBaseProtocolP"
+- !private "10LHPPWallet18UtilityAPIProtocolP"
+- !private "10LHPPWallet16UtilityClientAPIV"
+- !private "10LHPPWallet26VerificationViewControllerC"
+- !private "10Foundation27_KeyValueCodingAndObservingP"
+- !private "8Swinject9_ResolverP"
+- "So23_SwinjectStoryboardBaseC"
+depends-dynamic-lookup:
+depends-external:
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Dispatch.apinotesc"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/os.apinotesc"
+- "/Users/user/Desktop/Lyhour project/lyhour/Build/Products/Debug-iphonesimulator/SwiftyJSON/SwiftyJSON.framework/Modules/SwiftyJSON.swiftmodule/x86_64.swiftmodule"
+- "/Users/user/Desktop/Lyhour project/lyhour/Build/Products/Debug-iphonesimulator/SwinjectStoryboard/SwinjectStoryboard.framework/Modules/SwinjectStoryboard.swiftmodule/x86_64.swiftmodule"
+- "/Users/user/Desktop/Lyhour project/lyhour/Build/Products/Debug-iphonesimulator/Alamofire/Alamofire.framework/Modules/Alamofire.swiftmodule/x86_64.swiftmodule"
+- "/Users/user/Desktop/Lyhour project/lyhour/Build/Products/Debug-iphonesimulator/Material/Material.framework/Modules/Material.swiftmodule/x86_64.swiftmodule"
+- "/Users/user/Desktop/Lyhour project/lyhour/Build/Products/Debug-iphonesimulator/Motion/Motion.framework/Modules/Motion.swiftmodule/x86_64.swiftmodule"
+- "/Users/user/Desktop/Lyhour project/lyhour/Build/Products/Debug-iphonesimulator/Swinject/Swinject.framework/Modules/Swinject.swiftmodule/x86_64.swiftmodule"
+- "/Users/user/Desktop/Lyhour project/lyhour/Build/Products/Debug-iphonesimulator/CryptoSwift/CryptoSwift.framework/Modules/CryptoSwift.swiftmodule/x86_64.swiftmodule"
+- "/Users/user/Desktop/Lyhour project/lyhour/Build/Products/Debug-iphonesimulator/DeviceKit/DeviceKit.framework/Modules/DeviceKit.swiftmodule/x86_64.swiftmodule"
+- "/Users/user/Desktop/Lyhour project/lyhour/Build/Products/Debug-iphonesimulator/PhoneNumberKit/PhoneNumberKit.framework/Modules/PhoneNumberKit.swiftmodule/x86_64.swiftmodule"
+- "/Users/user/Desktop/Lyhour project/lyhour/Build/Products/Debug-iphonesimulator/SideMenu/SideMenu.framework/Modules/SideMenu.swiftmodule/x86_64.swiftmodule"
+- "/Users/user/Desktop/Lyhour project/lyhour/Build/Products/Debug-iphonesimulator/NVActivityIndicatorView/NVActivityIndicatorView.framework/Modules/NVActivityIndicatorView.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/ObjectiveC.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/ModelIO.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreMedia.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/simd.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreImage.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/QuartzCore.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Accelerate.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Dispatch.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Metal.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Darwin.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreLocation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Foundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/AVFoundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreFoundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreAudio.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreGraphics.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/os.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Contacts.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Swift.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/UIKit.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/MetalKit.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/SwiftOnoneSupport.swiftmodule"
+- "/Users/user/Desktop/Lyhour project/lyhour/Build/Products/Debug-iphonesimulator/SwiftyJSON/SwiftyJSON.framework/Headers/SwiftyJSON-umbrella.h"
+- "/Users/user/Desktop/Lyhour project/lyhour/Build/Products/Debug-iphonesimulator/SwinjectStoryboard/SwinjectStoryboard.framework/Headers/SwinjectStoryboard-umbrella.h"
+- "/Users/user/Desktop/Lyhour project/lyhour/Build/Products/Debug-iphonesimulator/Alamofire/Alamofire.framework/Headers/Alamofire-umbrella.h"
+- "/Users/user/Desktop/Lyhour project/lyhour/Build/Products/Debug-iphonesimulator/Material/Material.framework/Headers/Material-umbrella.h"
+- "/Users/user/Desktop/Lyhour project/lyhour/Build/Products/Debug-iphonesimulator/HMSegmentedControl/HMSegmentedControl.framework/Headers/HMSegmentedControl-umbrella.h"
+- "/Users/user/Desktop/Lyhour project/lyhour/Build/Products/Debug-iphonesimulator/Motion/Motion.framework/Headers/Motion-umbrella.h"
+- "/Users/user/Desktop/Lyhour project/lyhour/Build/Products/Debug-iphonesimulator/MXParallaxHeader/MXParallaxHeader.framework/Headers/MXParallaxHeader-umbrella.h"
+- "/Users/user/Desktop/Lyhour project/lyhour/Build/Products/Debug-iphonesimulator/MXSegmentedPager/MXSegmentedPager.framework/Headers/MXSegmentedPager-umbrella.h"
+- "/Users/user/Desktop/Lyhour project/lyhour/Build/Products/Debug-iphonesimulator/Swinject/Swinject.framework/Headers/Swinject-umbrella.h"
+- "/Users/user/Desktop/Lyhour project/lyhour/Build/Products/Debug-iphonesimulator/CryptoSwift/CryptoSwift.framework/Headers/CryptoSwift-umbrella.h"
+- "/Users/user/Desktop/Lyhour project/lyhour/Build/Products/Debug-iphonesimulator/DeviceKit/DeviceKit.framework/Headers/DeviceKit-umbrella.h"
+- "/Users/user/Desktop/Lyhour project/lyhour/Build/Products/Debug-iphonesimulator/PhoneNumberKit/PhoneNumberKit.framework/Headers/PhoneNumberKit-umbrella.h"
+- "/Users/user/Desktop/Lyhour project/lyhour/Build/Products/Debug-iphonesimulator/SideMenu/SideMenu.framework/Headers/SideMenu-umbrella.h"
+- "/Users/user/Desktop/Lyhour project/lyhour/Build/Products/Debug-iphonesimulator/MXPagerView/MXPagerView.framework/Headers/MXPagerView-umbrella.h"
+- "/Users/user/Desktop/Lyhour project/lyhour/Build/Products/Debug-iphonesimulator/NVActivityIndicatorView/NVActivityIndicatorView.framework/Headers/NVActivityIndicatorView-umbrella.h"
+- "/Users/user/Desktop/Lyhour project/lyhour/Pods/GoogleMaps/Maps/Frameworks/GoogleMaps.framework/Headers/GMSPanorama.h"
+- "/Users/user/Desktop/Lyhour project/lyhour/Pods/GoogleMaps/Maps/Frameworks/GoogleMaps.framework/Headers/GMSPanoramaCamera.h"
+- "/Users/user/Desktop/Lyhour project/lyhour/Pods/GooglePlaces/Frameworks/GooglePlaces.framework/Headers/GMSPlacePhotoMetadata.h"
+- "/Users/user/Desktop/Lyhour project/lyhour/Pods/GooglePlaces/Frameworks/GooglePlaces.framework/Headers/GMSPlaceLikelihood.h"
+- "/Users/user/Desktop/Lyhour project/lyhour/Build/Products/Debug-iphonesimulator/SwinjectStoryboard/SwinjectStoryboard.framework/Headers/SwinjectStoryboard.h"
+- "/Users/user/Desktop/Lyhour project/lyhour/Pods/GooglePlaces/Frameworks/GooglePlaces.framework/Headers/GMSPlace.h"
+- "/Users/user/Desktop/Lyhour project/lyhour/Pods/GooglePlaces/Frameworks/GooglePlaces.framework/Headers/GMSUserAddedPlace.h"
+- "/Users/user/Desktop/Lyhour project/lyhour/Pods/GoogleMaps/Maps/Frameworks/GoogleMaps.framework/Headers/GMSPanoramaService.h"
+- "/Users/user/Desktop/Lyhour project/lyhour/Pods/GoogleMaps/Maps/Frameworks/GoogleMaps.framework/Headers/GMSPanoramaSource.h"
+- "/Users/user/Desktop/Lyhour project/lyhour/Pods/GooglePlaces/Frameworks/GooglePlaces.framework/Headers/GMSAutocompleteTableDataSource.h"
+- "/Users/user/Desktop/Lyhour project/lyhour/Pods/GooglePlaces/Frameworks/GooglePlaces.framework/Headers/GMSAutocompleteBoundsMode.h"
+- "/Users/user/Desktop/Lyhour project/lyhour/Pods/GoogleMaps/Maps/Frameworks/GoogleMaps.framework/Headers/GMSCircle.h"
+- "/Users/user/Desktop/Lyhour project/lyhour/Pods/GoogleMaps/Maps/Frameworks/GoogleMaps.framework/Headers/GMSMapStyle.h"
+- "/Users/user/Desktop/Lyhour project/lyhour/Pods/GoogleMaps/Maps/Frameworks/GoogleMaps.framework/Headers/GMSPolyline.h"
+- "/Users/user/Desktop/Lyhour project/lyhour/Build/Products/Debug-iphonesimulator/SwinjectStoryboard/SwinjectStoryboard.framework/Headers/_SwinjectStoryboardBase.h"
+- "/Users/user/Desktop/Lyhour project/lyhour/Pods/GoogleMaps/Base/Frameworks/GoogleMapsBase.framework/Headers/GoogleMapsBase.h"
+- "/Users/user/Desktop/Lyhour project/lyhour/Pods/GoogleMaps/Maps/Frameworks/GoogleMaps.framework/Headers/GMSCameraUpdate.h"
+- "/Users/user/Desktop/Lyhour project/lyhour/Pods/GoogleMaps/Maps/Frameworks/GoogleMaps.framework/Headers/GMSPanoramaCameraUpdate.h"
+- "/Users/user/Desktop/Lyhour project/lyhour/Pods/GoogleMaps/Maps/Frameworks/GoogleMaps.framework/Headers/GMSIndoorBuilding.h"
+- "/Users/user/Desktop/Lyhour project/lyhour/Build/Products/Debug-iphonesimulator/SwinjectStoryboard/SwinjectStoryboard.framework/Headers/UIStoryboard+Swizzling.h"
+- "/Users/user/Desktop/Lyhour project/lyhour/Pods/GoogleMaps/Maps/Frameworks/GoogleMaps.framework/Headers/GMSPath.h"
+- "/Users/user/Desktop/Lyhour project/lyhour/Pods/GoogleMaps/Maps/Frameworks/GoogleMaps.framework/Headers/GMSMutablePath.h"
+- "/Users/user/Desktop/Lyhour project/lyhour/Pods/GoogleMaps/Maps/Frameworks/GoogleMaps.framework/Headers/GMSPanoramaLink.h"
+- "/Users/user/Desktop/Lyhour project/lyhour/Pods/GoogleMaps/Maps/Frameworks/GoogleMaps.framework/Headers/GMSIndoorLevel.h"
+- "/Users/user/Desktop/Lyhour project/lyhour/Build/Products/Debug-iphonesimulator/SwinjectStoryboard/SwinjectStoryboard.framework/Headers/SwinjectStoryboardProtocol.h"
+- "/Users/user/Desktop/Lyhour project/lyhour/Build/Products/Debug-iphonesimulator/HMSegmentedControl/HMSegmentedControl.framework/Headers/HMSegmentedControl.h"
+- "/Users/user/Desktop/Lyhour project/lyhour/Pods/GoogleMaps/Maps/Frameworks/GoogleMaps.framework/Headers/GMSPolygon.h"
+- "/Users/user/Desktop/Lyhour project/lyhour/Pods/GoogleMaps/Maps/Frameworks/GoogleMaps.framework/Headers/GMSMapView+Animation.h"
+- "/Users/user/Desktop/Lyhour project/lyhour/Pods/GoogleMaps/Maps/Frameworks/GoogleMaps.framework/Headers/GMSOrientation.h"
+- "/Users/user/Desktop/Lyhour project/lyhour/Pods/GoogleMaps/Maps/Frameworks/GoogleMaps.framework/Headers/GMSProjection.h"
+- "/Users/user/Desktop/Lyhour project/lyhour/Pods/GooglePlaces/Frameworks/GooglePlaces.framework/Headers/GMSAutocompletePrediction.h"
+- "/Users/user/Desktop/Lyhour project/lyhour/Pods/GoogleMaps/Maps/Frameworks/GoogleMaps.framework/Headers/GMSCameraPosition.h"
+- "/Users/user/Desktop/Lyhour project/lyhour/Build/Products/Debug-iphonesimulator/MXParallaxHeader/MXParallaxHeader.framework/Headers/MXParallaxHeader.h"
+- "/Users/user/Desktop/Lyhour project/lyhour/Pods/GoogleMaps/Maps/Frameworks/GoogleMaps.framework/Headers/GMSGeocoder.h"
+- "/Users/user/Desktop/Lyhour project/lyhour/Build/Products/Debug-iphonesimulator/MXSegmentedPager/MXSegmentedPager.framework/Headers/MXSegmentedPager.h"
+- "/Users/user/Desktop/Lyhour project/lyhour/Pods/GooglePlaces/Frameworks/GooglePlaces.framework/Headers/GMSAutocompleteFetcher.h"
+- "/Users/user/Desktop/Lyhour project/lyhour/Pods/GoogleMaps/Maps/Frameworks/GoogleMaps.framework/Headers/GMSMarker.h"
+- "/Users/user/Desktop/Lyhour project/lyhour/Build/Products/Debug-iphonesimulator/MXSegmentedPager/MXSegmentedPager.framework/Headers/MXSegmentedPagerController.h"
+- "/Users/user/Desktop/Lyhour project/lyhour/Pods/GooglePlaces/Frameworks/GooglePlaces.framework/Headers/GMSAutocompleteViewController.h"
+- "/Users/user/Desktop/Lyhour project/lyhour/Build/Products/Debug-iphonesimulator/MXParallaxHeader/MXParallaxHeader.framework/Headers/MXScrollViewController.h"
+- "/Users/user/Desktop/Lyhour project/lyhour/Build/Products/Debug-iphonesimulator/MXPagerView/MXPagerView.framework/Headers/MXPagerViewController.h"
+- "/Users/user/Desktop/Lyhour project/lyhour/Pods/GooglePlaces/Frameworks/GooglePlaces.framework/Headers/GMSAutocompleteResultsViewController.h"
+- "/Users/user/Desktop/Lyhour project/lyhour/Pods/GooglePlaces/Frameworks/GooglePlaces.framework/Headers/GMSAutocompleteFilter.h"
+- "/Users/user/Desktop/Lyhour project/lyhour/Pods/GoogleMaps/Maps/Frameworks/GoogleMaps.framework/Headers/GMSCALayer.h"
+- "/Users/user/Desktop/Lyhour project/lyhour/Pods/GoogleMaps/Maps/Frameworks/GoogleMaps.framework/Headers/GMSPanoramaLayer.h"
+- "/Users/user/Desktop/Lyhour project/lyhour/Pods/GoogleMaps/Maps/Frameworks/GoogleMaps.framework/Headers/GMSURLTileLayer.h"
+- "/Users/user/Desktop/Lyhour project/lyhour/Pods/GoogleMaps/Maps/Frameworks/GoogleMaps.framework/Headers/GMSTileLayer.h"
+- "/Users/user/Desktop/Lyhour project/lyhour/Pods/GoogleMaps/Maps/Frameworks/GoogleMaps.framework/Headers/GMSSyncTileLayer.h"
+- "/Users/user/Desktop/Lyhour project/lyhour/Pods/GoogleMaps/Maps/Frameworks/GoogleMaps.framework/Headers/GMSMapLayer.h"
+- "/Users/user/Desktop/Lyhour project/lyhour/Pods/GoogleMaps/Maps/Frameworks/GoogleMaps.framework/Headers/GMSMarkerLayer.h"
+- "/Users/user/Desktop/Lyhour project/lyhour/Pods/GoogleMaps/Maps/Frameworks/GoogleMaps.framework/Headers/GMSOverlayLayer.h"
+- "/Users/user/Desktop/Lyhour project/lyhour/Pods/GoogleMaps/Base/Frameworks/GoogleMapsBase.framework/Headers/GMSCoordinateBounds.h"
+- "/Users/user/Desktop/Lyhour project/lyhour/Pods/GooglePlaces/Frameworks/GooglePlaces.framework/Headers/GooglePlaces.h"
+- "/Users/user/Desktop/Lyhour project/lyhour/Pods/GoogleMaps/Maps/Frameworks/GoogleMaps.framework/Headers/GMSServices.h"
+- "/Users/user/Desktop/Lyhour project/lyhour/Pods/GooglePlaces/Frameworks/GooglePlaces.framework/Headers/GMSPlaceTypes.h"
+- "/Users/user/Desktop/Lyhour project/lyhour/Pods/GoogleMaps/Maps/Frameworks/GoogleMaps.framework/Headers/GMSUISettings.h"
+- "/Users/user/Desktop/Lyhour project/lyhour/Pods/GoogleMaps/Maps/Frameworks/GoogleMaps.framework/Headers/GMSGeometryUtils.h"
+- "/Users/user/Desktop/Lyhour project/lyhour/Pods/GoogleMaps/Base/Frameworks/GoogleMapsBase.framework/Headers/GMSDeprecationMacros.h"
+- "/Users/user/Desktop/Lyhour project/lyhour/Pods/GoogleMaps/Base/Frameworks/GoogleMapsBase.framework/Headers/GMSCompatabilityMacros.h"
+- "/Users/user/Desktop/Lyhour project/lyhour/Pods/GoogleMaps/Maps/Frameworks/GoogleMaps.framework/Headers/GMSCoordinateBounds+GoogleMaps.h"
+- "/Users/user/Desktop/Lyhour project/lyhour/Pods/GoogleMaps/Maps/Frameworks/GoogleMaps.framework/Headers/GoogleMaps.h"
+- "/Users/user/Desktop/Lyhour project/lyhour/Pods/GooglePlaces/Frameworks/GooglePlaces.framework/Headers/GMSPlacesErrors.h"
+- "/Users/user/Desktop/Lyhour project/lyhour/Pods/GoogleMaps/Maps/Frameworks/GoogleMaps.framework/Headers/GMSAddress.h"
+- "/Users/user/Desktop/Lyhour project/lyhour/Build/Products/Debug-iphonesimulator/Swinject/Swinject.framework/Headers/Swinject.h"
+- "/Users/user/Desktop/Lyhour project/lyhour/Build/Products/Debug-iphonesimulator/SwiftyJSON/SwiftyJSON.framework/Headers/SwiftyJSON-Swift.h"
+- "/Users/user/Desktop/Lyhour project/lyhour/Build/Products/Debug-iphonesimulator/SwinjectStoryboard/SwinjectStoryboard.framework/Headers/SwinjectStoryboard-Swift.h"
+- "/Users/user/Desktop/Lyhour project/lyhour/Build/Products/Debug-iphonesimulator/Alamofire/Alamofire.framework/Headers/Alamofire-Swift.h"
+- "/Users/user/Desktop/Lyhour project/lyhour/Build/Products/Debug-iphonesimulator/Material/Material.framework/Headers/Material-Swift.h"
+- "/Users/user/Desktop/Lyhour project/lyhour/Build/Products/Debug-iphonesimulator/Motion/Motion.framework/Headers/Motion-Swift.h"
+- "/Users/user/Desktop/Lyhour project/lyhour/Build/Products/Debug-iphonesimulator/Swinject/Swinject.framework/Headers/Swinject-Swift.h"
+- "/Users/user/Desktop/Lyhour project/lyhour/Build/Products/Debug-iphonesimulator/CryptoSwift/CryptoSwift.framework/Headers/CryptoSwift-Swift.h"
+- "/Users/user/Desktop/Lyhour project/lyhour/Build/Products/Debug-iphonesimulator/DeviceKit/DeviceKit.framework/Headers/DeviceKit-Swift.h"
+- "/Users/user/Desktop/Lyhour project/lyhour/Build/Products/Debug-iphonesimulator/PhoneNumberKit/PhoneNumberKit.framework/Headers/PhoneNumberKit-Swift.h"
+- "/Users/user/Desktop/Lyhour project/lyhour/Build/Products/Debug-iphonesimulator/SideMenu/SideMenu.framework/Headers/SideMenu-Swift.h"
+- "/Users/user/Desktop/Lyhour project/lyhour/Build/Products/Debug-iphonesimulator/NVActivityIndicatorView/NVActivityIndicatorView.framework/Headers/NVActivityIndicatorView-Swift.h"
+- "/Users/user/Desktop/Lyhour project/lyhour/Pods/GooglePlaces/Frameworks/GooglePlaces.framework/Headers/GMSPlacesClient.h"
+- "/Users/user/Desktop/Lyhour project/lyhour/Pods/GooglePlaces/Frameworks/GooglePlaces.framework/Headers/GMSAutocompleteMatchFragment.h"
+- "/Users/user/Desktop/Lyhour project/lyhour/Pods/GooglePlaces/Frameworks/GooglePlaces.framework/Headers/GMSAddressComponent.h"
+- "/Users/user/Desktop/Lyhour project/lyhour/Pods/GooglePlaces/Frameworks/GooglePlaces.framework/Headers/GMSPlacePhotoMetadataList.h"
+- "/Users/user/Desktop/Lyhour project/lyhour/Pods/GooglePlaces/Frameworks/GooglePlaces.framework/Headers/GMSPlaceLikelihoodList.h"
+- "/Users/user/Desktop/Lyhour project/lyhour/Pods/GoogleMaps/Maps/Frameworks/GoogleMaps.framework/Headers/GMSPanoramaView.h"
+- "/Users/user/Desktop/Lyhour project/lyhour/Build/Products/Debug-iphonesimulator/MXParallaxHeader/MXParallaxHeader.framework/Headers/MXScrollView.h"
+- "/Users/user/Desktop/Lyhour project/lyhour/Pods/GoogleMaps/Maps/Frameworks/GoogleMaps.framework/Headers/GMSMapView.h"
+- "/Users/user/Desktop/Lyhour project/lyhour/Build/Products/Debug-iphonesimulator/MXPagerView/MXPagerView.framework/Headers/MXPagerView.h"
+- "/Users/user/Desktop/Lyhour project/lyhour/Pods/GoogleMaps/Maps/Frameworks/GoogleMaps.framework/Headers/GMSIndoorDisplay.h"
+- "/Users/user/Desktop/Lyhour project/lyhour/Pods/GoogleMaps/Maps/Frameworks/GoogleMaps.framework/Headers/GMSOverlay.h"
+- "/Users/user/Desktop/Lyhour project/lyhour/Pods/GoogleMaps/Maps/Frameworks/GoogleMaps.framework/Headers/GMSGroundOverlay.h"
+- "/Users/user/Desktop/Lyhour project/lyhour/Build/Products/Debug-iphonesimulator/SwiftyJSON/SwiftyJSON.framework/Modules/module.modulemap"
+- "/Users/user/Desktop/Lyhour project/lyhour/Build/Products/Debug-iphonesimulator/SwinjectStoryboard/SwinjectStoryboard.framework/Modules/module.modulemap"
+- "/Users/user/Desktop/Lyhour project/lyhour/Build/Products/Debug-iphonesimulator/Alamofire/Alamofire.framework/Modules/module.modulemap"
+- "/Users/user/Desktop/Lyhour project/lyhour/Pods/GoogleMaps/Base/Frameworks/GoogleMapsBase.framework/Modules/module.modulemap"
+- "/Users/user/Desktop/Lyhour project/lyhour/Build/Products/Debug-iphonesimulator/Material/Material.framework/Modules/module.modulemap"
+- "/Users/user/Desktop/Lyhour project/lyhour/Build/Products/Debug-iphonesimulator/HMSegmentedControl/HMSegmentedControl.framework/Modules/module.modulemap"
+- "/Users/user/Desktop/Lyhour project/lyhour/Build/Products/Debug-iphonesimulator/Motion/Motion.framework/Modules/module.modulemap"
+- "/Users/user/Desktop/Lyhour project/lyhour/Build/Products/Debug-iphonesimulator/MXParallaxHeader/MXParallaxHeader.framework/Modules/module.modulemap"
+- "/Users/user/Desktop/Lyhour project/lyhour/Build/Products/Debug-iphonesimulator/MXSegmentedPager/MXSegmentedPager.framework/Modules/module.modulemap"
+- "/Users/user/Desktop/Lyhour project/lyhour/Pods/GooglePlaces/Frameworks/GooglePlaces.framework/Modules/module.modulemap"
+- "/Users/user/Desktop/Lyhour project/lyhour/Pods/GoogleMaps/Maps/Frameworks/GoogleMaps.framework/Modules/module.modulemap"
+- "/Users/user/Desktop/Lyhour project/lyhour/Build/Products/Debug-iphonesimulator/Swinject/Swinject.framework/Modules/module.modulemap"
+- "/Users/user/Desktop/Lyhour project/lyhour/Build/Products/Debug-iphonesimulator/CryptoSwift/CryptoSwift.framework/Modules/module.modulemap"
+- "/Users/user/Desktop/Lyhour project/lyhour/Build/Products/Debug-iphonesimulator/DeviceKit/DeviceKit.framework/Modules/module.modulemap"
+- "/Users/user/Desktop/Lyhour project/lyhour/Build/Products/Debug-iphonesimulator/PhoneNumberKit/PhoneNumberKit.framework/Modules/module.modulemap"
+- "/Users/user/Desktop/Lyhour project/lyhour/Build/Products/Debug-iphonesimulator/SideMenu/SideMenu.framework/Modules/module.modulemap"
+- "/Users/user/Desktop/Lyhour project/lyhour/Build/Products/Debug-iphonesimulator/MXPagerView/MXPagerView.framework/Modules/module.modulemap"
+- "/Users/user/Desktop/Lyhour project/lyhour/Build/Products/Debug-iphonesimulator/NVActivityIndicatorView/NVActivityIndicatorView.framework/Modules/module.modulemap"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.0.sdk/usr/include/objc/ObjectiveC.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.0.sdk/System/Library/Frameworks/ModelIO.framework/Headers/ModelIO.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.0.sdk/System/Library/Frameworks/OpenGLES.framework/Headers/OpenGLES.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.0.sdk/System/Library/Frameworks/CoreMedia.framework/Headers/CoreMedia.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.0.sdk/System/Library/Frameworks/CoreImage.framework/Headers/CoreImage.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.0.sdk/System/Library/Frameworks/QuartzCore.framework/Headers/QuartzCore.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.0.sdk/System/Library/Frameworks/Accelerate.framework/Headers/Accelerate.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.0.sdk/System/Library/Frameworks/Metal.framework/Headers/Metal.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.0.sdk/usr/include/Darwin.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.0.sdk/System/Library/Frameworks/CoreLocation.framework/Headers/CoreLocation.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.0.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.0.sdk/System/Library/Frameworks/AVFoundation.framework/Headers/AVFoundation.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.0.sdk/System/Library/Frameworks/CoreGraphics.framework/Headers/CoreGraphics.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.0.sdk/System/Library/Frameworks/Contacts.framework/Headers/Contacts.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.0.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.0.sdk/System/Library/Frameworks/MetalKit.framework/Headers/MetalKit.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.0.sdk/System/Library/Frameworks/CoreText.framework/Headers/CoreText.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.0.sdk/System/Library/Frameworks/MediaToolbox.framework/Headers/MediaToolbox.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.0.sdk/System/Library/Frameworks/AudioToolbox.framework/Headers/AudioToolbox.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.0.sdk/System/Library/Frameworks/Security.framework/Headers/Security.apinotes"
+interface-hash: "a9a7d5cfd8a74cb1e3634ebb44813fa0"

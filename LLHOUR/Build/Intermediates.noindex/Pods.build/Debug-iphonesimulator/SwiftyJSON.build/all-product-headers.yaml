@@ -1,0 +1,530 @@
+{
+  'version': 0,
+  'case-sensitive': 'false',
+  'roots': [
+    {
+      'type': 'directory',
+      'name': "/Users/user/Desktop/Lyhour project/lyhour/Build/Products/Debug-iphonesimulator/Alamofire/Alamofire.framework/Headers",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "Alamofire-Swift.h",
+          'external-contents': "/Users/user/Desktop/Lyhour project/lyhour/Build/Products/Debug-iphonesimulator/Alamofire/Alamofire.framework/Headers/Alamofire-Swift.h"
+        },
+        {
+          'type': 'file',
+          'name': "Alamofire-umbrella.h",
+          'external-contents': "/Users/user/Desktop/Lyhour project/lyhour/Pods/Target Support Files/Alamofire/Alamofire-umbrella.h"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/user/Desktop/Lyhour project/lyhour/Build/Products/Debug-iphonesimulator/Alamofire/Alamofire.framework/Modules",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "module.modulemap",
+          'external-contents': "/Users/user/Desktop/Lyhour project/lyhour/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/Alamofire.build/module.modulemap"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/user/Desktop/Lyhour project/lyhour/Build/Products/Debug-iphonesimulator/CryptoSwift/CryptoSwift.framework/Headers",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "CryptoSwift-Swift.h",
+          'external-contents': "/Users/user/Desktop/Lyhour project/lyhour/Build/Products/Debug-iphonesimulator/CryptoSwift/CryptoSwift.framework/Headers/CryptoSwift-Swift.h"
+        },
+        {
+          'type': 'file',
+          'name': "CryptoSwift-umbrella.h",
+          'external-contents': "/Users/user/Desktop/Lyhour project/lyhour/Pods/Target Support Files/CryptoSwift/CryptoSwift-umbrella.h"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/user/Desktop/Lyhour project/lyhour/Build/Products/Debug-iphonesimulator/CryptoSwift/CryptoSwift.framework/Modules",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "module.modulemap",
+          'external-contents': "/Users/user/Desktop/Lyhour project/lyhour/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/CryptoSwift.build/module.modulemap"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/user/Desktop/Lyhour project/lyhour/Build/Products/Debug-iphonesimulator/DeviceKit/DeviceKit.framework/Headers",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "DeviceKit-Swift.h",
+          'external-contents': "/Users/user/Desktop/Lyhour project/lyhour/Build/Products/Debug-iphonesimulator/DeviceKit/DeviceKit.framework/Headers/DeviceKit-Swift.h"
+        },
+        {
+          'type': 'file',
+          'name': "DeviceKit-umbrella.h",
+          'external-contents': "/Users/user/Desktop/Lyhour project/lyhour/Pods/Target Support Files/DeviceKit/DeviceKit-umbrella.h"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/user/Desktop/Lyhour project/lyhour/Build/Products/Debug-iphonesimulator/DeviceKit/DeviceKit.framework/Modules",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "module.modulemap",
+          'external-contents': "/Users/user/Desktop/Lyhour project/lyhour/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/DeviceKit.build/module.modulemap"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/user/Desktop/Lyhour project/lyhour/Build/Products/Debug-iphonesimulator/HMSegmentedControl/HMSegmentedControl.framework/Headers",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "HMSegmentedControl-Swift.h",
+          'external-contents': "/Users/user/Desktop/Lyhour project/lyhour/Build/Products/Debug-iphonesimulator/HMSegmentedControl/HMSegmentedControl.framework/Headers/HMSegmentedControl-Swift.h"
+        },
+        {
+          'type': 'file',
+          'name': "HMSegmentedControl-umbrella.h",
+          'external-contents': "/Users/user/Desktop/Lyhour project/lyhour/Pods/Target Support Files/HMSegmentedControl/HMSegmentedControl-umbrella.h"
+        },
+        {
+          'type': 'file',
+          'name': "HMSegmentedControl.h",
+          'external-contents': "/Users/user/Desktop/Lyhour project/lyhour/Pods/HMSegmentedControl/HMSegmentedControl/HMSegmentedControl.h"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/user/Desktop/Lyhour project/lyhour/Build/Products/Debug-iphonesimulator/HMSegmentedControl/HMSegmentedControl.framework/Modules",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "module.modulemap",
+          'external-contents': "/Users/user/Desktop/Lyhour project/lyhour/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/HMSegmentedControl.build/module.modulemap"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/user/Desktop/Lyhour project/lyhour/Build/Products/Debug-iphonesimulator/MXPagerView/MXPagerView.framework/Headers",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "MXPagerView-Swift.h",
+          'external-contents': "/Users/user/Desktop/Lyhour project/lyhour/Build/Products/Debug-iphonesimulator/MXPagerView/MXPagerView.framework/Headers/MXPagerView-Swift.h"
+        },
+        {
+          'type': 'file',
+          'name': "MXPagerView-umbrella.h",
+          'external-contents': "/Users/user/Desktop/Lyhour project/lyhour/Pods/Target Support Files/MXPagerView/MXPagerView-umbrella.h"
+        },
+        {
+          'type': 'file',
+          'name': "MXPagerView.h",
+          'external-contents': "/Users/user/Desktop/Lyhour project/lyhour/Pods/MXPagerView/MXPagerView/MXPagerView.h"
+        },
+        {
+          'type': 'file',
+          'name': "MXPagerViewController.h",
+          'external-contents': "/Users/user/Desktop/Lyhour project/lyhour/Pods/MXPagerView/MXPagerView/MXPagerViewController.h"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/user/Desktop/Lyhour project/lyhour/Build/Products/Debug-iphonesimulator/MXPagerView/MXPagerView.framework/Modules",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "module.modulemap",
+          'external-contents': "/Users/user/Desktop/Lyhour project/lyhour/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/MXPagerView.build/module.modulemap"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/user/Desktop/Lyhour project/lyhour/Build/Products/Debug-iphonesimulator/MXParallaxHeader/MXParallaxHeader.framework/Headers",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "MXParallaxHeader-Swift.h",
+          'external-contents': "/Users/user/Desktop/Lyhour project/lyhour/Build/Products/Debug-iphonesimulator/MXParallaxHeader/MXParallaxHeader.framework/Headers/MXParallaxHeader-Swift.h"
+        },
+        {
+          'type': 'file',
+          'name': "MXParallaxHeader-umbrella.h",
+          'external-contents': "/Users/user/Desktop/Lyhour project/lyhour/Pods/Target Support Files/MXParallaxHeader/MXParallaxHeader-umbrella.h"
+        },
+        {
+          'type': 'file',
+          'name': "MXParallaxHeader.h",
+          'external-contents': "/Users/user/Desktop/Lyhour project/lyhour/Pods/MXParallaxHeader/MXParallaxHeader/MXParallaxHeader.h"
+        },
+        {
+          'type': 'file',
+          'name': "MXScrollView.h",
+          'external-contents': "/Users/user/Desktop/Lyhour project/lyhour/Pods/MXParallaxHeader/MXParallaxHeader/MXScrollView.h"
+        },
+        {
+          'type': 'file',
+          'name': "MXScrollViewController.h",
+          'external-contents': "/Users/user/Desktop/Lyhour project/lyhour/Pods/MXParallaxHeader/MXParallaxHeader/MXScrollViewController.h"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/user/Desktop/Lyhour project/lyhour/Build/Products/Debug-iphonesimulator/MXParallaxHeader/MXParallaxHeader.framework/Modules",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "module.modulemap",
+          'external-contents': "/Users/user/Desktop/Lyhour project/lyhour/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/MXParallaxHeader.build/module.modulemap"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/user/Desktop/Lyhour project/lyhour/Build/Products/Debug-iphonesimulator/MXSegmentedPager/MXSegmentedPager.framework/Headers",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "MXSegmentedPager-Swift.h",
+          'external-contents': "/Users/user/Desktop/Lyhour project/lyhour/Build/Products/Debug-iphonesimulator/MXSegmentedPager/MXSegmentedPager.framework/Headers/MXSegmentedPager-Swift.h"
+        },
+        {
+          'type': 'file',
+          'name': "MXSegmentedPager-umbrella.h",
+          'external-contents': "/Users/user/Desktop/Lyhour project/lyhour/Pods/Target Support Files/MXSegmentedPager/MXSegmentedPager-umbrella.h"
+        },
+        {
+          'type': 'file',
+          'name': "MXSegmentedPager.h",
+          'external-contents': "/Users/user/Desktop/Lyhour project/lyhour/Pods/MXSegmentedPager/MXSegmentedPager/MXSegmentedPager.h"
+        },
+        {
+          'type': 'file',
+          'name': "MXSegmentedPagerController.h",
+          'external-contents': "/Users/user/Desktop/Lyhour project/lyhour/Pods/MXSegmentedPager/MXSegmentedPager/MXSegmentedPagerController.h"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/user/Desktop/Lyhour project/lyhour/Build/Products/Debug-iphonesimulator/MXSegmentedPager/MXSegmentedPager.framework/Modules",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "module.modulemap",
+          'external-contents': "/Users/user/Desktop/Lyhour project/lyhour/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/MXSegmentedPager.build/module.modulemap"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/user/Desktop/Lyhour project/lyhour/Build/Products/Debug-iphonesimulator/Material/Material.framework/Headers",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "Material-Swift.h",
+          'external-contents': "/Users/user/Desktop/Lyhour project/lyhour/Build/Products/Debug-iphonesimulator/Material/Material.framework/Headers/Material-Swift.h"
+        },
+        {
+          'type': 'file',
+          'name': "Material-umbrella.h",
+          'external-contents': "/Users/user/Desktop/Lyhour project/lyhour/Pods/Target Support Files/Material/Material-umbrella.h"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/user/Desktop/Lyhour project/lyhour/Build/Products/Debug-iphonesimulator/Material/Material.framework/Modules",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "module.modulemap",
+          'external-contents': "/Users/user/Desktop/Lyhour project/lyhour/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/Material.build/module.modulemap"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/user/Desktop/Lyhour project/lyhour/Build/Products/Debug-iphonesimulator/Motion/Motion.framework/Headers",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "Motion-Swift.h",
+          'external-contents': "/Users/user/Desktop/Lyhour project/lyhour/Build/Products/Debug-iphonesimulator/Motion/Motion.framework/Headers/Motion-Swift.h"
+        },
+        {
+          'type': 'file',
+          'name': "Motion-umbrella.h",
+          'external-contents': "/Users/user/Desktop/Lyhour project/lyhour/Pods/Target Support Files/Motion/Motion-umbrella.h"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/user/Desktop/Lyhour project/lyhour/Build/Products/Debug-iphonesimulator/Motion/Motion.framework/Modules",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "module.modulemap",
+          'external-contents': "/Users/user/Desktop/Lyhour project/lyhour/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/Motion.build/module.modulemap"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/user/Desktop/Lyhour project/lyhour/Build/Products/Debug-iphonesimulator/NVActivityIndicatorView/NVActivityIndicatorView.framework/Headers",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "NVActivityIndicatorView-Swift.h",
+          'external-contents': "/Users/user/Desktop/Lyhour project/lyhour/Build/Products/Debug-iphonesimulator/NVActivityIndicatorView/NVActivityIndicatorView.framework/Headers/NVActivityIndicatorView-Swift.h"
+        },
+        {
+          'type': 'file',
+          'name': "NVActivityIndicatorView-umbrella.h",
+          'external-contents': "/Users/user/Desktop/Lyhour project/lyhour/Pods/Target Support Files/NVActivityIndicatorView/NVActivityIndicatorView-umbrella.h"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/user/Desktop/Lyhour project/lyhour/Build/Products/Debug-iphonesimulator/NVActivityIndicatorView/NVActivityIndicatorView.framework/Modules",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "module.modulemap",
+          'external-contents': "/Users/user/Desktop/Lyhour project/lyhour/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/NVActivityIndicatorView.build/module.modulemap"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/user/Desktop/Lyhour project/lyhour/Build/Products/Debug-iphonesimulator/PhoneNumberKit/PhoneNumberKit.framework/Headers",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "PhoneNumberKit-Swift.h",
+          'external-contents': "/Users/user/Desktop/Lyhour project/lyhour/Build/Products/Debug-iphonesimulator/PhoneNumberKit/PhoneNumberKit.framework/Headers/PhoneNumberKit-Swift.h"
+        },
+        {
+          'type': 'file',
+          'name': "PhoneNumberKit-umbrella.h",
+          'external-contents': "/Users/user/Desktop/Lyhour project/lyhour/Pods/Target Support Files/PhoneNumberKit/PhoneNumberKit-umbrella.h"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/user/Desktop/Lyhour project/lyhour/Build/Products/Debug-iphonesimulator/PhoneNumberKit/PhoneNumberKit.framework/Modules",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "module.modulemap",
+          'external-contents': "/Users/user/Desktop/Lyhour project/lyhour/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/PhoneNumberKit.build/module.modulemap"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/user/Desktop/Lyhour project/lyhour/Build/Products/Debug-iphonesimulator/Pods_LHPPWallet.framework/Headers",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "Pods-LHPPWallet-umbrella.h",
+          'external-contents': "/Users/user/Desktop/Lyhour project/lyhour/Pods/Target Support Files/Pods-LHPPWallet/Pods-LHPPWallet-umbrella.h"
+        },
+        {
+          'type': 'file',
+          'name': "Pods_LHPPWallet-Swift.h",
+          'external-contents': "/Users/user/Desktop/Lyhour project/lyhour/Build/Products/Debug-iphonesimulator/Pods_LHPPWallet.framework/Headers/Pods_LHPPWallet-Swift.h"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/user/Desktop/Lyhour project/lyhour/Build/Products/Debug-iphonesimulator/Pods_LHPPWallet.framework/Modules",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "module.modulemap",
+          'external-contents': "/Users/user/Desktop/Lyhour project/lyhour/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/Pods-LHPPWallet.build/module.modulemap"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/user/Desktop/Lyhour project/lyhour/Build/Products/Debug-iphonesimulator/ReachabilitySwift/Reachability.framework/Headers",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "Reachability-Swift.h",
+          'external-contents': "/Users/user/Desktop/Lyhour project/lyhour/Build/Products/Debug-iphonesimulator/ReachabilitySwift/Reachability.framework/Headers/Reachability-Swift.h"
+        },
+        {
+          'type': 'file',
+          'name': "ReachabilitySwift-umbrella.h",
+          'external-contents': "/Users/user/Desktop/Lyhour project/lyhour/Pods/Target Support Files/ReachabilitySwift/ReachabilitySwift-umbrella.h"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/user/Desktop/Lyhour project/lyhour/Build/Products/Debug-iphonesimulator/ReachabilitySwift/Reachability.framework/Modules",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "module.modulemap",
+          'external-contents': "/Users/user/Desktop/Lyhour project/lyhour/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/ReachabilitySwift.build/module.modulemap"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/user/Desktop/Lyhour project/lyhour/Build/Products/Debug-iphonesimulator/SideMenu/SideMenu.framework/Headers",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "SideMenu-Swift.h",
+          'external-contents': "/Users/user/Desktop/Lyhour project/lyhour/Build/Products/Debug-iphonesimulator/SideMenu/SideMenu.framework/Headers/SideMenu-Swift.h"
+        },
+        {
+          'type': 'file',
+          'name': "SideMenu-umbrella.h",
+          'external-contents': "/Users/user/Desktop/Lyhour project/lyhour/Pods/Target Support Files/SideMenu/SideMenu-umbrella.h"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/user/Desktop/Lyhour project/lyhour/Build/Products/Debug-iphonesimulator/SideMenu/SideMenu.framework/Modules",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "module.modulemap",
+          'external-contents': "/Users/user/Desktop/Lyhour project/lyhour/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/SideMenu.build/module.modulemap"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/user/Desktop/Lyhour project/lyhour/Build/Products/Debug-iphonesimulator/SwiftyJSON/SwiftyJSON.framework/Headers",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "SwiftyJSON-Swift.h",
+          'external-contents': "/Users/user/Desktop/Lyhour project/lyhour/Build/Products/Debug-iphonesimulator/SwiftyJSON/SwiftyJSON.framework/Headers/SwiftyJSON-Swift.h"
+        },
+        {
+          'type': 'file',
+          'name': "SwiftyJSON-umbrella.h",
+          'external-contents': "/Users/user/Desktop/Lyhour project/lyhour/Pods/Target Support Files/SwiftyJSON/SwiftyJSON-umbrella.h"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/user/Desktop/Lyhour project/lyhour/Build/Products/Debug-iphonesimulator/SwiftyJSON/SwiftyJSON.framework/Modules",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "module.modulemap",
+          'external-contents': "/Users/user/Desktop/Lyhour project/lyhour/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/SwiftyJSON.build/module.modulemap"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/user/Desktop/Lyhour project/lyhour/Build/Products/Debug-iphonesimulator/Swinject/Swinject.framework/Headers",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "Swinject-Swift.h",
+          'external-contents': "/Users/user/Desktop/Lyhour project/lyhour/Build/Products/Debug-iphonesimulator/Swinject/Swinject.framework/Headers/Swinject-Swift.h"
+        },
+        {
+          'type': 'file',
+          'name': "Swinject-umbrella.h",
+          'external-contents': "/Users/user/Desktop/Lyhour project/lyhour/Pods/Target Support Files/Swinject/Swinject-umbrella.h"
+        },
+        {
+          'type': 'file',
+          'name': "Swinject.h",
+          'external-contents': "/Users/user/Desktop/Lyhour project/lyhour/Pods/Swinject/Sources/Swinject.h"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/user/Desktop/Lyhour project/lyhour/Build/Products/Debug-iphonesimulator/Swinject/Swinject.framework/Modules",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "module.modulemap",
+          'external-contents': "/Users/user/Desktop/Lyhour project/lyhour/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/Swinject.build/module.modulemap"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/user/Desktop/Lyhour project/lyhour/Build/Products/Debug-iphonesimulator/SwinjectStoryboard/SwinjectStoryboard.framework/Headers",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "SwinjectStoryboard-Swift.h",
+          'external-contents': "/Users/user/Desktop/Lyhour project/lyhour/Build/Products/Debug-iphonesimulator/SwinjectStoryboard/SwinjectStoryboard.framework/Headers/SwinjectStoryboard-Swift.h"
+        },
+        {
+          'type': 'file',
+          'name': "SwinjectStoryboard-umbrella.h",
+          'external-contents': "/Users/user/Desktop/Lyhour project/lyhour/Pods/Target Support Files/SwinjectStoryboard/SwinjectStoryboard-umbrella.h"
+        },
+        {
+          'type': 'file',
+          'name': "SwinjectStoryboard.h",
+          'external-contents': "/Users/user/Desktop/Lyhour project/lyhour/Pods/SwinjectStoryboard/Sources/SwinjectStoryboard.h"
+        },
+        {
+          'type': 'file',
+          'name': "SwinjectStoryboardProtocol.h",
+          'external-contents': "/Users/user/Desktop/Lyhour project/lyhour/Pods/SwinjectStoryboard/Sources/SwinjectStoryboardProtocol.h"
+        },
+        {
+          'type': 'file',
+          'name': "UIStoryboard+Swizzling.h",
+          'external-contents': "/Users/user/Desktop/Lyhour project/lyhour/Pods/SwinjectStoryboard/Sources/iOS-tvOS/UIStoryboard+Swizzling.h"
+        },
+        {
+          'type': 'file',
+          'name': "_SwinjectStoryboardBase.h",
+          'external-contents': "/Users/user/Desktop/Lyhour project/lyhour/Pods/SwinjectStoryboard/Sources/iOS-tvOS/_SwinjectStoryboardBase.h"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/user/Desktop/Lyhour project/lyhour/Build/Products/Debug-iphonesimulator/SwinjectStoryboard/SwinjectStoryboard.framework/Modules",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "module.modulemap",
+          'external-contents': "/Users/user/Desktop/Lyhour project/lyhour/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/SwinjectStoryboard.build/module.modulemap"
+        }
+      ]
+    }
+  ]
+}

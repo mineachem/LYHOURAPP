@@ -1,0 +1,140 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+- "InstanceWrapper"
+- "Lazy"
+- "Provider"
+provides-nominal:
+- "8Swinject15InstanceWrapperP"
+- "8Swinject4LazyC"
+- "8Swinject8ProviderC"
+- "Sq"
+provides-member:
+- ["8Swinject15InstanceWrapperP", ""]
+- ["8Swinject4LazyC", ""]
+- ["8Swinject8ProviderC", ""]
+- ["Sq", ""]
+provides-dynamic-lookup:
+depends-top-level:
+- "AssignmentPrecedence"
+- "CastingPrecedence"
+- "Container"
+- "GraphIdentifier"
+- "InstanceWrapper"
+- "Lazy"
+- "Optional"
+- "Provider"
+depends-member:
+- !private ["8Swinject9ContainerC", "currentObjectGraph"]
+- !private ["8Swinject9ContainerC", "restoreObjectGraph"]
+- !private ["s28CustomDebugStringConvertibleP", "Wrapped"]
+- ["s28CustomDebugStringConvertibleP", "init"]
+- ["s28CustomDebugStringConvertibleP", "wrappedType"]
+- !private ["s17CustomReflectableP", "Wrapped"]
+- ["s17CustomReflectableP", "init"]
+- ["s17CustomReflectableP", "wrappedType"]
+- !private ["s23CustomStringConvertibleP", "currentObjectGraph"]
+- !private ["s23CustomStringConvertibleP", "restoreObjectGraph"]
+- !private ["Se", "Wrapped"]
+- ["Se", "init"]
+- ["Se", "wrappedType"]
+- !private ["SE", "Wrapped"]
+- ["SE", "init"]
+- ["SE", "wrappedType"]
+- !private ["SQ", "Wrapped"]
+- ["SQ", "init"]
+- ["SQ", "wrappedType"]
+- !private ["s23ExpressibleByNilLiteralP", "Wrapped"]
+- ["s23ExpressibleByNilLiteralP", "init"]
+- ["s23ExpressibleByNilLiteralP", "wrappedType"]
+- !private ["SH", "Wrapped"]
+- ["SH", "init"]
+- ["SH", "wrappedType"]
+- ["8Swinject15InstanceWrapperP", "Container"]
+- !private ["8Swinject15InstanceWrapperP", "Service"]
+- !private ["8Swinject15InstanceWrapperP", "Wrapped"]
+- ["8Swinject15InstanceWrapperP", ""]
+- !private ["8Swinject15InstanceWrapperP", "_instance"]
+- !private ["8Swinject15InstanceWrapperP", "container"]
+- !private ["8Swinject15InstanceWrapperP", "factory"]
+- !private ["8Swinject15InstanceWrapperP", "graphIdentifier"]
+- ["8Swinject15InstanceWrapperP", "init"]
+- !private ["8Swinject15InstanceWrapperP", "makeInstance"]
+- ["8Swinject15InstanceWrapperP", "wrappedType"]
+- ["8Swinject4LazyC", "Container"]
+- ["8Swinject4LazyC", "GraphIdentifier"]
+- ["8Swinject4LazyC", "Service"]
+- !private ["8Swinject4LazyC", "_instance"]
+- !private ["8Swinject4LazyC", "container"]
+- ["8Swinject4LazyC", "deinit"]
+- !private ["8Swinject4LazyC", "factory"]
+- !private ["8Swinject4LazyC", "graphIdentifier"]
+- ["8Swinject4LazyC", "init"]
+- ["8Swinject4LazyC", "instance"]
+- !private ["8Swinject4LazyC", "makeInstance"]
+- ["8Swinject4LazyC", "wrappedType"]
+- ["Sq", "Container"]
+- !private ["Sq", "Wrapped"]
+- ["Sq", "deinit"]
+- ["Sq", "init"]
+- ["Sq", "wrappedType"]
+- ["8Swinject8ProviderC", "Container"]
+- ["8Swinject8ProviderC", "Service"]
+- ["8Swinject8ProviderC", "deinit"]
+- !private ["8Swinject8ProviderC", "factory"]
+- ["8Swinject8ProviderC", "init"]
+- ["8Swinject8ProviderC", "instance"]
+- ["8Swinject8ProviderC", "wrappedType"]
+- !private ["8Swinject8ResolverP", "currentObjectGraph"]
+- !private ["8Swinject8ResolverP", "restoreObjectGraph"]
+- !private ["s21_ObjectiveCBridgeableP", "Wrapped"]
+- ["s21_ObjectiveCBridgeableP", "init"]
+- ["s21_ObjectiveCBridgeableP", "wrappedType"]
+- !private ["8Swinject9_ResolverP", "currentObjectGraph"]
+- !private ["8Swinject9_ResolverP", "restoreObjectGraph"]
+depends-nominal:
+- !private "8Swinject9ContainerC"
+- "s28CustomDebugStringConvertibleP"
+- "s17CustomReflectableP"
+- !private "s23CustomStringConvertibleP"
+- "Se"
+- "SE"
+- "SQ"
+- "s23ExpressibleByNilLiteralP"
+- "SH"
+- "8Swinject15InstanceWrapperP"
+- "8Swinject4LazyC"
+- "Sq"
+- "8Swinject8ProviderC"
+- !private "8Swinject8ResolverP"
+- "s21_ObjectiveCBridgeableP"
+- !private "8Swinject9_ResolverP"
+depends-dynamic-lookup:
+depends-external:
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Dispatch.apinotesc"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/ObjectiveC.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreImage.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/QuartzCore.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Dispatch.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Metal.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Darwin.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Foundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreFoundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreGraphics.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Swift.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/UIKit.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/SwiftOnoneSupport.swiftmodule"
+- "/Users/user/Desktop/Lyhour project/lyhour/Pods/Target Support Files/Swinject/Swinject-umbrella.h"
+- "/Users/user/Desktop/Lyhour project/lyhour/Pods/Swinject/Sources/Swinject.h"
+- "/Users/user/Desktop/Lyhour project/lyhour/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/Swinject.build/unextended-module.modulemap"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.0.sdk/usr/include/objc/ObjectiveC.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.0.sdk/System/Library/Frameworks/OpenGLES.framework/Headers/OpenGLES.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.0.sdk/System/Library/Frameworks/CoreImage.framework/Headers/CoreImage.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.0.sdk/System/Library/Frameworks/QuartzCore.framework/Headers/QuartzCore.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.0.sdk/System/Library/Frameworks/Metal.framework/Headers/Metal.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.0.sdk/usr/include/Darwin.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.0.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.0.sdk/System/Library/Frameworks/CoreGraphics.framework/Headers/CoreGraphics.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.0.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.0.sdk/System/Library/Frameworks/CoreText.framework/Headers/CoreText.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.0.sdk/System/Library/Frameworks/Security.framework/Headers/Security.apinotes"
+interface-hash: "7f1e5b200188c2adc6a16485bbc18990"

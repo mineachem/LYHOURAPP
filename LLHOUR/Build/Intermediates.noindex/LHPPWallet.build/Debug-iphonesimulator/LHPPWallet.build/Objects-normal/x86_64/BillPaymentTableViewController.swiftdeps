@@ -1,0 +1,1239 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+- "BillPaymentTableViewController"
+provides-nominal:
+- "10LHPPWallet30BillPaymentTableViewControllerC"
+provides-member:
+- ["10LHPPWallet30BillPaymentTableViewControllerC", ""]
+provides-dynamic-lookup:
+- "amountTextField"
+- "backItemTapped"
+- "billNumTextField"
+- "cashInButton"
+- "cashInTapped"
+- "tableView"
+- "viewDidLoad"
+depends-top-level:
+- !private "=="
+- "AssignmentPrecedence"
+- "BillPaymentTableViewController"
+- "CGFloat"
+- !private "FloatLiteralType"
+- "IndexPath"
+- !private "IntegerLiteralType"
+- "RoundButton"
+- !private "StringLiteralType"
+- "TextField"
+- !private "UIApplication"
+- "UIBarButtonItem"
+- !private "UIColor"
+- !private "UIImage"
+- "UITableView"
+- "UITableViewController"
+depends-member:
+- !private ["SK", "init"]
+- !private ["SK", "init"]
+- !private ["SK", "row"]
+- ["10LHPPWallet30BillPaymentTableViewControllerC", "CGFloat"]
+- ["10LHPPWallet30BillPaymentTableViewControllerC", "IndexPath"]
+- ["10LHPPWallet30BillPaymentTableViewControllerC", "RoundButton"]
+- ["10LHPPWallet30BillPaymentTableViewControllerC", "TextField"]
+- !private ["10LHPPWallet30BillPaymentTableViewControllerC", "UIApplication"]
+- ["10LHPPWallet30BillPaymentTableViewControllerC", "UIBarButtonItem"]
+- !private ["10LHPPWallet30BillPaymentTableViewControllerC", "UIColor"]
+- !private ["10LHPPWallet30BillPaymentTableViewControllerC", "UIImage"]
+- ["10LHPPWallet30BillPaymentTableViewControllerC", "UITableView"]
+- ["10LHPPWallet30BillPaymentTableViewControllerC", "amountTextField"]
+- ["10LHPPWallet30BillPaymentTableViewControllerC", "backItemTapped"]
+- ["10LHPPWallet30BillPaymentTableViewControllerC", "billNumTextField"]
+- ["10LHPPWallet30BillPaymentTableViewControllerC", "cashInButton"]
+- ["10LHPPWallet30BillPaymentTableViewControllerC", "cashInTapped"]
+- !private ["10LHPPWallet30BillPaymentTableViewControllerC", "clearDividerTextField"]
+- ["10LHPPWallet30BillPaymentTableViewControllerC", "init"]
+- !private ["10LHPPWallet30BillPaymentTableViewControllerC", "navigationController"]
+- !private ["10LHPPWallet30BillPaymentTableViewControllerC", "setupClearNavigation"]
+- ["10LHPPWallet30BillPaymentTableViewControllerC", "tableView"]
+- ["10LHPPWallet30BillPaymentTableViewControllerC", "viewDidLoad"]
+- !private ["Sb", "_getBuiltinLogicValue"]
+- !private ["So15CALayerDelegateP", "automaticDimension"]
+- !private ["So15CALayerDelegateP", "backgroundColor"]
+- !private ["So15CALayerDelegateP", "cellForRow"]
+- !private ["So15CALayerDelegateP", "dividerActiveColor"]
+- !private ["So15CALayerDelegateP", "dividerNormalColor"]
+- !private ["So15CALayerDelegateP", "placeholderActiveColor"]
+- !private ["So15CALayerDelegateP", "placeholderNormalColor"]
+- !private ["So15CALayerDelegateP", "selectionStyle"]
+- !private ["So15CALayerDelegateP", "setBackgroundImage"]
+- !private ["So15CALayerDelegateP", "shadowImage"]
+- !private ["s7CVarArgP", "UIApplication"]
+- !private ["s7CVarArgP", "UIColor"]
+- !private ["s7CVarArgP", "UIImage"]
+- !private ["s7CVarArgP", "UITableView"]
+- ["s7CVarArgP", ""]
+- !private ["s7CVarArgP", "_getBuiltinLogicValue"]
+- !private ["s7CVarArgP", "amountTextField"]
+- !private ["s7CVarArgP", "automaticDimension"]
+- !private ["s7CVarArgP", "backgroundColor"]
+- !private ["s7CVarArgP", "billNumTextField"]
+- !private ["s7CVarArgP", "cellForRow"]
+- !private ["s7CVarArgP", "clear"]
+- !private ["s7CVarArgP", "clearDividerTextField"]
+- !private ["s7CVarArgP", "colorFromHex"]
+- !private ["s7CVarArgP", "dividerActiveColor"]
+- !private ["s7CVarArgP", "dividerNormalColor"]
+- !private ["s7CVarArgP", "gray"]
+- !private ["s7CVarArgP", "init"]
+- !private ["s7CVarArgP", "init"]
+- !private ["s7CVarArgP", "navigationBar"]
+- !private ["s7CVarArgP", "navigationController"]
+- !private ["s7CVarArgP", "placeholderActiveColor"]
+- !private ["s7CVarArgP", "placeholderNormalColor"]
+- !private ["s7CVarArgP", "selectionStyle"]
+- !private ["s7CVarArgP", "setBackgroundImage"]
+- !private ["s7CVarArgP", "setupClearNavigation"]
+- !private ["s7CVarArgP", "shadowImage"]
+- !private ["s7CVarArgP", "shared"]
+- !private ["s7CVarArgP", "statusBarView"]
+- !private ["s7CVarArgP", "viewDidLoad"]
+- !private ["Sl", "init"]
+- !private ["Sl", "init"]
+- !private ["Sl", "row"]
+- !private ["SL", "init"]
+- !private ["SL", "init"]
+- !private ["SL", "row"]
+- !private ["s28CustomDebugStringConvertibleP", "UIApplication"]
+- !private ["s28CustomDebugStringConvertibleP", "UIColor"]
+- !private ["s28CustomDebugStringConvertibleP", "UIImage"]
+- !private ["s28CustomDebugStringConvertibleP", "UITableView"]
+- ["s28CustomDebugStringConvertibleP", ""]
+- !private ["s28CustomDebugStringConvertibleP", "amountTextField"]
+- !private ["s28CustomDebugStringConvertibleP", "automaticDimension"]
+- !private ["s28CustomDebugStringConvertibleP", "backgroundColor"]
+- !private ["s28CustomDebugStringConvertibleP", "billNumTextField"]
+- !private ["s28CustomDebugStringConvertibleP", "cellForRow"]
+- !private ["s28CustomDebugStringConvertibleP", "clear"]
+- !private ["s28CustomDebugStringConvertibleP", "clearDividerTextField"]
+- !private ["s28CustomDebugStringConvertibleP", "colorFromHex"]
+- !private ["s28CustomDebugStringConvertibleP", "dividerActiveColor"]
+- !private ["s28CustomDebugStringConvertibleP", "dividerNormalColor"]
+- !private ["s28CustomDebugStringConvertibleP", "gray"]
+- !private ["s28CustomDebugStringConvertibleP", "init"]
+- !private ["s28CustomDebugStringConvertibleP", "init"]
+- !private ["s28CustomDebugStringConvertibleP", "navigationBar"]
+- !private ["s28CustomDebugStringConvertibleP", "navigationController"]
+- !private ["s28CustomDebugStringConvertibleP", "placeholderActiveColor"]
+- !private ["s28CustomDebugStringConvertibleP", "placeholderNormalColor"]
+- !private ["s28CustomDebugStringConvertibleP", "row"]
+- !private ["s28CustomDebugStringConvertibleP", "selectionStyle"]
+- !private ["s28CustomDebugStringConvertibleP", "setBackgroundImage"]
+- !private ["s28CustomDebugStringConvertibleP", "setupClearNavigation"]
+- !private ["s28CustomDebugStringConvertibleP", "shadowImage"]
+- !private ["s28CustomDebugStringConvertibleP", "shared"]
+- !private ["s28CustomDebugStringConvertibleP", "statusBarView"]
+- !private ["s28CustomDebugStringConvertibleP", "viewDidLoad"]
+- !private ["s29CustomPlaygroundQuickLookableP", "_getBuiltinLogicValue"]
+- !private ["s29CustomPlaygroundQuickLookableP", "init"]
+- !private ["s29CustomPlaygroundQuickLookableP", "init"]
+- !private ["s17CustomReflectableP", "_getBuiltinLogicValue"]
+- !private ["s17CustomReflectableP", "dividerActiveColor"]
+- !private ["s17CustomReflectableP", "dividerNormalColor"]
+- !private ["s17CustomReflectableP", "init"]
+- !private ["s17CustomReflectableP", "init"]
+- !private ["s17CustomReflectableP", "placeholderActiveColor"]
+- !private ["s17CustomReflectableP", "placeholderNormalColor"]
+- !private ["s17CustomReflectableP", "row"]
+- !private ["s23CustomStringConvertibleP", "UIApplication"]
+- !private ["s23CustomStringConvertibleP", "UIColor"]
+- !private ["s23CustomStringConvertibleP", "UIImage"]
+- !private ["s23CustomStringConvertibleP", "UITableView"]
+- ["s23CustomStringConvertibleP", ""]
+- !private ["s23CustomStringConvertibleP", "_getBuiltinLogicValue"]
+- !private ["s23CustomStringConvertibleP", "amountTextField"]
+- !private ["s23CustomStringConvertibleP", "automaticDimension"]
+- !private ["s23CustomStringConvertibleP", "backgroundColor"]
+- !private ["s23CustomStringConvertibleP", "billNumTextField"]
+- !private ["s23CustomStringConvertibleP", "cellForRow"]
+- !private ["s23CustomStringConvertibleP", "clear"]
+- !private ["s23CustomStringConvertibleP", "clearDividerTextField"]
+- !private ["s23CustomStringConvertibleP", "colorFromHex"]
+- !private ["s23CustomStringConvertibleP", "dividerActiveColor"]
+- !private ["s23CustomStringConvertibleP", "dividerNormalColor"]
+- !private ["s23CustomStringConvertibleP", "gray"]
+- !private ["s23CustomStringConvertibleP", "init"]
+- !private ["s23CustomStringConvertibleP", "init"]
+- !private ["s23CustomStringConvertibleP", "navigationBar"]
+- !private ["s23CustomStringConvertibleP", "navigationController"]
+- !private ["s23CustomStringConvertibleP", "placeholderActiveColor"]
+- !private ["s23CustomStringConvertibleP", "placeholderNormalColor"]
+- !private ["s23CustomStringConvertibleP", "row"]
+- !private ["s23CustomStringConvertibleP", "selectionStyle"]
+- !private ["s23CustomStringConvertibleP", "setBackgroundImage"]
+- !private ["s23CustomStringConvertibleP", "setupClearNavigation"]
+- !private ["s23CustomStringConvertibleP", "shadowImage"]
+- !private ["s23CustomStringConvertibleP", "shared"]
+- !private ["s23CustomStringConvertibleP", "statusBarView"]
+- !private ["s23CustomStringConvertibleP", "viewDidLoad"]
+- !private ["Se", "_getBuiltinLogicValue"]
+- !private ["Se", "dividerActiveColor"]
+- !private ["Se", "dividerNormalColor"]
+- !private ["Se", "init"]
+- !private ["Se", "init"]
+- !private ["Se", "placeholderActiveColor"]
+- !private ["Se", "placeholderNormalColor"]
+- !private ["Se", "row"]
+- !private ["SE", "_getBuiltinLogicValue"]
+- !private ["SE", "dividerActiveColor"]
+- !private ["SE", "dividerNormalColor"]
+- !private ["SE", "init"]
+- !private ["SE", "init"]
+- !private ["SE", "placeholderActiveColor"]
+- !private ["SE", "placeholderNormalColor"]
+- !private ["SE", "row"]
+- !private ["SQ", "UIApplication"]
+- !private ["SQ", "UIColor"]
+- !private ["SQ", "UIImage"]
+- !private ["SQ", "UITableView"]
+- ["SQ", ""]
+- !private ["SQ", "_getBuiltinLogicValue"]
+- !private ["SQ", "amountTextField"]
+- !private ["SQ", "automaticDimension"]
+- !private ["SQ", "backgroundColor"]
+- !private ["SQ", "billNumTextField"]
+- !private ["SQ", "cellForRow"]
+- !private ["SQ", "clear"]
+- !private ["SQ", "clearDividerTextField"]
+- !private ["SQ", "colorFromHex"]
+- !private ["SQ", "default"]
+- !private ["SQ", "dividerActiveColor"]
+- !private ["SQ", "dividerNormalColor"]
+- !private ["SQ", "gray"]
+- !private ["SQ", "init"]
+- !private ["SQ", "init"]
+- !private ["SQ", "navigationBar"]
+- !private ["SQ", "navigationController"]
+- !private ["SQ", "none"]
+- !private ["SQ", "placeholderActiveColor"]
+- !private ["SQ", "placeholderNormalColor"]
+- !private ["SQ", "row"]
+- !private ["SQ", "selectionStyle"]
+- !private ["SQ", "setBackgroundImage"]
+- !private ["SQ", "setupClearNavigation"]
+- !private ["SQ", "shadowImage"]
+- !private ["SQ", "shared"]
+- !private ["SQ", "statusBarView"]
+- !private ["SQ", "viewDidLoad"]
+- !private ["s25ExpressibleByArrayLiteralP", "row"]
+- !private ["s27ExpressibleByBooleanLiteralP", "_getBuiltinLogicValue"]
+- !private ["s43ExpressibleByExtendedGraphemeClusterLiteralP", "init"]
+- !private ["s43ExpressibleByExtendedGraphemeClusterLiteralP", "init"]
+- !private ["s23ExpressibleByNilLiteralP", "dividerActiveColor"]
+- !private ["s23ExpressibleByNilLiteralP", "dividerNormalColor"]
+- !private ["s23ExpressibleByNilLiteralP", "placeholderActiveColor"]
+- !private ["s23ExpressibleByNilLiteralP", "placeholderNormalColor"]
+- !private ["s26ExpressibleByStringLiteralP", "init"]
+- !private ["s26ExpressibleByStringLiteralP", "init"]
+- !private ["s33ExpressibleByUnicodeScalarLiteralP", "init"]
+- !private ["s33ExpressibleByUnicodeScalarLiteralP", "init"]
+- !private ["SH", "UIApplication"]
+- !private ["SH", "UIColor"]
+- !private ["SH", "UIImage"]
+- !private ["SH", "UITableView"]
+- ["SH", ""]
+- !private ["SH", "_getBuiltinLogicValue"]
+- !private ["SH", "amountTextField"]
+- !private ["SH", "automaticDimension"]
+- !private ["SH", "backgroundColor"]
+- !private ["SH", "billNumTextField"]
+- !private ["SH", "cellForRow"]
+- !private ["SH", "clear"]
+- !private ["SH", "clearDividerTextField"]
+- !private ["SH", "colorFromHex"]
+- !private ["SH", "default"]
+- !private ["SH", "dividerActiveColor"]
+- !private ["SH", "dividerNormalColor"]
+- !private ["SH", "gray"]
+- !private ["SH", "init"]
+- !private ["SH", "init"]
+- !private ["SH", "navigationBar"]
+- !private ["SH", "navigationController"]
+- !private ["SH", "none"]
+- !private ["SH", "placeholderActiveColor"]
+- !private ["SH", "placeholderNormalColor"]
+- !private ["SH", "row"]
+- !private ["SH", "selectionStyle"]
+- !private ["SH", "setBackgroundImage"]
+- !private ["SH", "setupClearNavigation"]
+- !private ["SH", "shadowImage"]
+- !private ["SH", "shared"]
+- !private ["SH", "statusBarView"]
+- !private ["SH", "viewDidLoad"]
+- !private ["10Foundation9IndexPathV", "row"]
+- !private ["18SwinjectStoryboard19InjectionVerifiableP", "UIApplication"]
+- !private ["18SwinjectStoryboard19InjectionVerifiableP", "UIColor"]
+- !private ["18SwinjectStoryboard19InjectionVerifiableP", "UIImage"]
+- !private ["18SwinjectStoryboard19InjectionVerifiableP", "UITableView"]
+- ["18SwinjectStoryboard19InjectionVerifiableP", ""]
+- !private ["18SwinjectStoryboard19InjectionVerifiableP", "amountTextField"]
+- !private ["18SwinjectStoryboard19InjectionVerifiableP", "billNumTextField"]
+- !private ["18SwinjectStoryboard19InjectionVerifiableP", "clearDividerTextField"]
+- !private ["18SwinjectStoryboard19InjectionVerifiableP", "init"]
+- !private ["18SwinjectStoryboard19InjectionVerifiableP", "init"]
+- !private ["18SwinjectStoryboard19InjectionVerifiableP", "navigationBar"]
+- !private ["18SwinjectStoryboard19InjectionVerifiableP", "navigationController"]
+- !private ["18SwinjectStoryboard19InjectionVerifiableP", "setupClearNavigation"]
+- !private ["18SwinjectStoryboard19InjectionVerifiableP", "viewDidLoad"]
+- !private ["8Swinject15InstanceWrapperP", "dividerActiveColor"]
+- !private ["8Swinject15InstanceWrapperP", "dividerNormalColor"]
+- !private ["8Swinject15InstanceWrapperP", "placeholderActiveColor"]
+- !private ["8Swinject15InstanceWrapperP", "placeholderNormalColor"]
+- !private ["10SwiftyJSON17JSONSubscriptTypeP", "init"]
+- !private ["10SwiftyJSON17JSONSubscriptTypeP", "init"]
+- !private ["s25LosslessStringConvertibleP", "_getBuiltinLogicValue"]
+- !private ["s25LosslessStringConvertibleP", "init"]
+- !private ["s25LosslessStringConvertibleP", "init"]
+- !private ["s10MirrorPathP", "init"]
+- !private ["s10MirrorPathP", "init"]
+- !private ["SM", "row"]
+- !private ["So8NSCodingP", "UIApplication"]
+- !private ["So8NSCodingP", "UIColor"]
+- !private ["So8NSCodingP", "UIImage"]
+- !private ["So8NSCodingP", "UITableView"]
+- ["So8NSCodingP", ""]
+- !private ["So8NSCodingP", "amountTextField"]
+- !private ["So8NSCodingP", "automaticDimension"]
+- !private ["So8NSCodingP", "backgroundColor"]
+- !private ["So8NSCodingP", "billNumTextField"]
+- !private ["So8NSCodingP", "cellForRow"]
+- !private ["So8NSCodingP", "clear"]
+- !private ["So8NSCodingP", "clearDividerTextField"]
+- !private ["So8NSCodingP", "colorFromHex"]
+- !private ["So8NSCodingP", "dividerActiveColor"]
+- !private ["So8NSCodingP", "dividerNormalColor"]
+- !private ["So8NSCodingP", "gray"]
+- !private ["So8NSCodingP", "init"]
+- !private ["So8NSCodingP", "init"]
+- !private ["So8NSCodingP", "navigationBar"]
+- !private ["So8NSCodingP", "navigationController"]
+- !private ["So8NSCodingP", "placeholderActiveColor"]
+- !private ["So8NSCodingP", "placeholderNormalColor"]
+- !private ["So8NSCodingP", "selectionStyle"]
+- !private ["So8NSCodingP", "setBackgroundImage"]
+- !private ["So8NSCodingP", "setupClearNavigation"]
+- !private ["So8NSCodingP", "shadowImage"]
+- !private ["So8NSCodingP", "viewDidLoad"]
+- !private ["So9NSCopyingP", "clear"]
+- !private ["So9NSCopyingP", "colorFromHex"]
+- !private ["So9NSCopyingP", "gray"]
+- !private ["So26NSExtensionRequestHandlingP", "UIApplication"]
+- !private ["So26NSExtensionRequestHandlingP", "UIColor"]
+- !private ["So26NSExtensionRequestHandlingP", "UIImage"]
+- !private ["So26NSExtensionRequestHandlingP", "UITableView"]
+- ["So26NSExtensionRequestHandlingP", ""]
+- !private ["So26NSExtensionRequestHandlingP", "amountTextField"]
+- !private ["So26NSExtensionRequestHandlingP", "billNumTextField"]
+- !private ["So26NSExtensionRequestHandlingP", "clearDividerTextField"]
+- !private ["So26NSExtensionRequestHandlingP", "init"]
+- !private ["So26NSExtensionRequestHandlingP", "init"]
+- !private ["So26NSExtensionRequestHandlingP", "navigationBar"]
+- !private ["So26NSExtensionRequestHandlingP", "navigationController"]
+- !private ["So26NSExtensionRequestHandlingP", "setupClearNavigation"]
+- !private ["So26NSExtensionRequestHandlingP", "viewDidLoad"]
+- !private ["So21NSItemProviderReadingP", "clear"]
+- !private ["So21NSItemProviderReadingP", "colorFromHex"]
+- !private ["So21NSItemProviderReadingP", "gray"]
+- !private ["So21NSItemProviderReadingP", "init"]
+- !private ["So21NSItemProviderWritingP", "clear"]
+- !private ["So21NSItemProviderWritingP", "colorFromHex"]
+- !private ["So21NSItemProviderWritingP", "gray"]
+- !private ["So21NSItemProviderWritingP", "init"]
+- ["So8NSObjectC", "CGFloat"]
+- ["So8NSObjectC", "IndexPath"]
+- ["So8NSObjectC", "RoundButton"]
+- ["So8NSObjectC", "TextField"]
+- !private ["So8NSObjectC", "UIApplication"]
+- ["So8NSObjectC", "UIBarButtonItem"]
+- !private ["So8NSObjectC", "UIColor"]
+- !private ["So8NSObjectC", "UIImage"]
+- ["So8NSObjectC", "UITableView"]
+- ["So8NSObjectC", "amountTextField"]
+- !private ["So8NSObjectC", "automaticDimension"]
+- ["So8NSObjectC", "backItemTapped"]
+- !private ["So8NSObjectC", "backgroundColor"]
+- ["So8NSObjectC", "billNumTextField"]
+- ["So8NSObjectC", "cashInButton"]
+- ["So8NSObjectC", "cashInTapped"]
+- !private ["So8NSObjectC", "cellForRow"]
+- !private ["So8NSObjectC", "clear"]
+- ["So8NSObjectC", "clearDividerTextField"]
+- !private ["So8NSObjectC", "colorFromHex"]
+- !private ["So8NSObjectC", "dividerActiveColor"]
+- !private ["So8NSObjectC", "dividerNormalColor"]
+- !private ["So8NSObjectC", "gray"]
+- ["So8NSObjectC", "init"]
+- !private ["So8NSObjectC", "init"]
+- !private ["So8NSObjectC", "navigationBar"]
+- !private ["So8NSObjectC", "navigationController"]
+- !private ["So8NSObjectC", "placeholderActiveColor"]
+- !private ["So8NSObjectC", "placeholderNormalColor"]
+- !private ["So8NSObjectC", "selectionStyle"]
+- !private ["So8NSObjectC", "setBackgroundImage"]
+- ["So8NSObjectC", "setupClearNavigation"]
+- !private ["So8NSObjectC", "shadowImage"]
+- !private ["So8NSObjectC", "shared"]
+- !private ["So8NSObjectC", "statusBarView"]
+- ["So8NSObjectC", "tableView"]
+- ["So8NSObjectC", "viewDidLoad"]
+- !private ["So8NSObjectP", "UIApplication"]
+- !private ["So8NSObjectP", "UIColor"]
+- !private ["So8NSObjectP", "UIImage"]
+- !private ["So8NSObjectP", "UITableView"]
+- ["So8NSObjectP", ""]
+- !private ["So8NSObjectP", "amountTextField"]
+- !private ["So8NSObjectP", "automaticDimension"]
+- !private ["So8NSObjectP", "backgroundColor"]
+- !private ["So8NSObjectP", "billNumTextField"]
+- !private ["So8NSObjectP", "cellForRow"]
+- !private ["So8NSObjectP", "clear"]
+- !private ["So8NSObjectP", "clearDividerTextField"]
+- !private ["So8NSObjectP", "colorFromHex"]
+- !private ["So8NSObjectP", "dividerActiveColor"]
+- !private ["So8NSObjectP", "dividerNormalColor"]
+- !private ["So8NSObjectP", "gray"]
+- !private ["So8NSObjectP", "init"]
+- !private ["So8NSObjectP", "init"]
+- !private ["So8NSObjectP", "navigationBar"]
+- !private ["So8NSObjectP", "navigationController"]
+- !private ["So8NSObjectP", "placeholderActiveColor"]
+- !private ["So8NSObjectP", "placeholderNormalColor"]
+- !private ["So8NSObjectP", "selectionStyle"]
+- !private ["So8NSObjectP", "setBackgroundImage"]
+- !private ["So8NSObjectP", "setupClearNavigation"]
+- !private ["So8NSObjectP", "shadowImage"]
+- !private ["So8NSObjectP", "shared"]
+- !private ["So8NSObjectP", "statusBarView"]
+- !private ["So8NSObjectP", "viewDidLoad"]
+- !private ["So14NSSecureCodingP", "clear"]
+- !private ["So14NSSecureCodingP", "colorFromHex"]
+- !private ["So14NSSecureCodingP", "gray"]
+- !private ["So14NSSecureCodingP", "init"]
+- !private ["Sq", "dividerActiveColor"]
+- !private ["Sq", "dividerNormalColor"]
+- !private ["Sq", "placeholderActiveColor"]
+- !private ["Sq", "placeholderNormalColor"]
+- !private ["Sk", "row"]
+- !private ["Sm", "init"]
+- !private ["Sm", "init"]
+- !private ["SY", "default"]
+- !private ["SY", "none"]
+- !private ["10Foundation20ReferenceConvertibleP", "row"]
+- !private ["18SwinjectStoryboard28RegistrationNameAssociatableP", "UIApplication"]
+- !private ["18SwinjectStoryboard28RegistrationNameAssociatableP", "UIColor"]
+- !private ["18SwinjectStoryboard28RegistrationNameAssociatableP", "UIImage"]
+- !private ["18SwinjectStoryboard28RegistrationNameAssociatableP", "UITableView"]
+- ["18SwinjectStoryboard28RegistrationNameAssociatableP", ""]
+- !private ["18SwinjectStoryboard28RegistrationNameAssociatableP", "amountTextField"]
+- !private ["18SwinjectStoryboard28RegistrationNameAssociatableP", "billNumTextField"]
+- !private ["18SwinjectStoryboard28RegistrationNameAssociatableP", "clearDividerTextField"]
+- !private ["18SwinjectStoryboard28RegistrationNameAssociatableP", "init"]
+- !private ["18SwinjectStoryboard28RegistrationNameAssociatableP", "init"]
+- !private ["18SwinjectStoryboard28RegistrationNameAssociatableP", "navigationBar"]
+- !private ["18SwinjectStoryboard28RegistrationNameAssociatableP", "navigationController"]
+- !private ["18SwinjectStoryboard28RegistrationNameAssociatableP", "setupClearNavigation"]
+- !private ["18SwinjectStoryboard28RegistrationNameAssociatableP", "viewDidLoad"]
+- !private ["So29UITableViewCellSelectionStyleV", "none"]
+- !private ["ST", "init"]
+- !private ["ST", "init"]
+- !private ["ST", "row"]
+- !private ["SS", "init"]
+- !private ["SS", "init"]
+- !private ["Sy", "init"]
+- !private ["Sy", "init"]
+- !private ["8Material9TextFieldC", "dividerActiveColor"]
+- !private ["8Material9TextFieldC", "dividerNormalColor"]
+- !private ["8Material9TextFieldC", "placeholderActiveColor"]
+- !private ["8Material9TextFieldC", "placeholderNormalColor"]
+- !private ["s16TextOutputStreamP", "init"]
+- !private ["s16TextOutputStreamP", "init"]
+- !private ["s20TextOutputStreamableP", "init"]
+- !private ["s20TextOutputStreamableP", "init"]
+- !private ["So29UIAccessibilityIdentificationP", "automaticDimension"]
+- !private ["So29UIAccessibilityIdentificationP", "backgroundColor"]
+- !private ["So29UIAccessibilityIdentificationP", "cellForRow"]
+- !private ["So29UIAccessibilityIdentificationP", "dividerActiveColor"]
+- !private ["So29UIAccessibilityIdentificationP", "dividerNormalColor"]
+- !private ["So29UIAccessibilityIdentificationP", "init"]
+- !private ["So29UIAccessibilityIdentificationP", "placeholderActiveColor"]
+- !private ["So29UIAccessibilityIdentificationP", "placeholderNormalColor"]
+- !private ["So29UIAccessibilityIdentificationP", "selectionStyle"]
+- !private ["So29UIAccessibilityIdentificationP", "setBackgroundImage"]
+- !private ["So29UIAccessibilityIdentificationP", "shadowImage"]
+- !private ["So12UIAppearanceP", "automaticDimension"]
+- !private ["So12UIAppearanceP", "backgroundColor"]
+- !private ["So12UIAppearanceP", "cellForRow"]
+- !private ["So12UIAppearanceP", "dividerActiveColor"]
+- !private ["So12UIAppearanceP", "dividerNormalColor"]
+- !private ["So12UIAppearanceP", "placeholderActiveColor"]
+- !private ["So12UIAppearanceP", "placeholderNormalColor"]
+- !private ["So12UIAppearanceP", "selectionStyle"]
+- !private ["So12UIAppearanceP", "setBackgroundImage"]
+- !private ["So12UIAppearanceP", "shadowImage"]
+- !private ["So21UIAppearanceContainerP", "UIApplication"]
+- !private ["So21UIAppearanceContainerP", "UIColor"]
+- !private ["So21UIAppearanceContainerP", "UIImage"]
+- !private ["So21UIAppearanceContainerP", "UITableView"]
+- ["So21UIAppearanceContainerP", ""]
+- !private ["So21UIAppearanceContainerP", "amountTextField"]
+- !private ["So21UIAppearanceContainerP", "automaticDimension"]
+- !private ["So21UIAppearanceContainerP", "backgroundColor"]
+- !private ["So21UIAppearanceContainerP", "billNumTextField"]
+- !private ["So21UIAppearanceContainerP", "cellForRow"]
+- !private ["So21UIAppearanceContainerP", "clearDividerTextField"]
+- !private ["So21UIAppearanceContainerP", "dividerActiveColor"]
+- !private ["So21UIAppearanceContainerP", "dividerNormalColor"]
+- !private ["So21UIAppearanceContainerP", "init"]
+- !private ["So21UIAppearanceContainerP", "init"]
+- !private ["So21UIAppearanceContainerP", "navigationBar"]
+- !private ["So21UIAppearanceContainerP", "navigationController"]
+- !private ["So21UIAppearanceContainerP", "placeholderActiveColor"]
+- !private ["So21UIAppearanceContainerP", "placeholderNormalColor"]
+- !private ["So21UIAppearanceContainerP", "selectionStyle"]
+- !private ["So21UIAppearanceContainerP", "setBackgroundImage"]
+- !private ["So21UIAppearanceContainerP", "setupClearNavigation"]
+- !private ["So21UIAppearanceContainerP", "shadowImage"]
+- !private ["So21UIAppearanceContainerP", "viewDidLoad"]
+- !private ["So13UIApplicationC", "shared"]
+- !private ["So13UIApplicationC", "statusBarView"]
+- !private ["So12UIBarMetricsV", "default"]
+- !private ["So16UIBarPositioningP", "backgroundColor"]
+- !private ["So16UIBarPositioningP", "setBackgroundImage"]
+- !private ["So16UIBarPositioningP", "shadowImage"]
+- !private ["So7UIColorC", "clear"]
+- !private ["So7UIColorC", "colorFromHex"]
+- !private ["So7UIColorC", "gray"]
+- !private ["So18UIContentContainerP", "UIApplication"]
+- !private ["So18UIContentContainerP", "UIColor"]
+- !private ["So18UIContentContainerP", "UIImage"]
+- !private ["So18UIContentContainerP", "UITableView"]
+- ["So18UIContentContainerP", ""]
+- !private ["So18UIContentContainerP", "amountTextField"]
+- !private ["So18UIContentContainerP", "billNumTextField"]
+- !private ["So18UIContentContainerP", "clearDividerTextField"]
+- !private ["So18UIContentContainerP", "init"]
+- !private ["So18UIContentContainerP", "init"]
+- !private ["So18UIContentContainerP", "navigationBar"]
+- !private ["So18UIContentContainerP", "navigationController"]
+- !private ["So18UIContentContainerP", "setupClearNavigation"]
+- !private ["So18UIContentContainerP", "viewDidLoad"]
+- !private ["So30UIContentSizeCategoryAdjustingP", "dividerActiveColor"]
+- !private ["So30UIContentSizeCategoryAdjustingP", "dividerNormalColor"]
+- !private ["So30UIContentSizeCategoryAdjustingP", "placeholderActiveColor"]
+- !private ["So30UIContentSizeCategoryAdjustingP", "placeholderNormalColor"]
+- !private ["So9UIControlC", "dividerActiveColor"]
+- !private ["So9UIControlC", "dividerNormalColor"]
+- !private ["So9UIControlC", "placeholderActiveColor"]
+- !private ["So9UIControlC", "placeholderNormalColor"]
+- !private ["So17UICoordinateSpaceP", "automaticDimension"]
+- !private ["So17UICoordinateSpaceP", "backgroundColor"]
+- !private ["So17UICoordinateSpaceP", "cellForRow"]
+- !private ["So17UICoordinateSpaceP", "dividerActiveColor"]
+- !private ["So17UICoordinateSpaceP", "dividerNormalColor"]
+- !private ["So17UICoordinateSpaceP", "placeholderActiveColor"]
+- !private ["So17UICoordinateSpaceP", "placeholderNormalColor"]
+- !private ["So17UICoordinateSpaceP", "selectionStyle"]
+- !private ["So17UICoordinateSpaceP", "setBackgroundImage"]
+- !private ["So17UICoordinateSpaceP", "shadowImage"]
+- !private ["So23UIDataSourceTranslatingP", "automaticDimension"]
+- !private ["So23UIDataSourceTranslatingP", "cellForRow"]
+- !private ["So13UIDynamicItemP", "automaticDimension"]
+- !private ["So13UIDynamicItemP", "backgroundColor"]
+- !private ["So13UIDynamicItemP", "cellForRow"]
+- !private ["So13UIDynamicItemP", "dividerActiveColor"]
+- !private ["So13UIDynamicItemP", "dividerNormalColor"]
+- !private ["So13UIDynamicItemP", "placeholderActiveColor"]
+- !private ["So13UIDynamicItemP", "placeholderNormalColor"]
+- !private ["So13UIDynamicItemP", "selectionStyle"]
+- !private ["So13UIDynamicItemP", "setBackgroundImage"]
+- !private ["So13UIDynamicItemP", "shadowImage"]
+- !private ["So18UIFocusEnvironmentP", "UIApplication"]
+- !private ["So18UIFocusEnvironmentP", "UIColor"]
+- !private ["So18UIFocusEnvironmentP", "UIImage"]
+- !private ["So18UIFocusEnvironmentP", "UITableView"]
+- ["So18UIFocusEnvironmentP", ""]
+- !private ["So18UIFocusEnvironmentP", "amountTextField"]
+- !private ["So18UIFocusEnvironmentP", "automaticDimension"]
+- !private ["So18UIFocusEnvironmentP", "backgroundColor"]
+- !private ["So18UIFocusEnvironmentP", "billNumTextField"]
+- !private ["So18UIFocusEnvironmentP", "cellForRow"]
+- !private ["So18UIFocusEnvironmentP", "clearDividerTextField"]
+- !private ["So18UIFocusEnvironmentP", "dividerActiveColor"]
+- !private ["So18UIFocusEnvironmentP", "dividerNormalColor"]
+- !private ["So18UIFocusEnvironmentP", "init"]
+- !private ["So18UIFocusEnvironmentP", "init"]
+- !private ["So18UIFocusEnvironmentP", "navigationBar"]
+- !private ["So18UIFocusEnvironmentP", "navigationController"]
+- !private ["So18UIFocusEnvironmentP", "placeholderActiveColor"]
+- !private ["So18UIFocusEnvironmentP", "placeholderNormalColor"]
+- !private ["So18UIFocusEnvironmentP", "selectionStyle"]
+- !private ["So18UIFocusEnvironmentP", "setBackgroundImage"]
+- !private ["So18UIFocusEnvironmentP", "setupClearNavigation"]
+- !private ["So18UIFocusEnvironmentP", "shadowImage"]
+- !private ["So18UIFocusEnvironmentP", "viewDidLoad"]
+- !private ["So11UIFocusItemP", "automaticDimension"]
+- !private ["So11UIFocusItemP", "backgroundColor"]
+- !private ["So11UIFocusItemP", "cellForRow"]
+- !private ["So11UIFocusItemP", "dividerActiveColor"]
+- !private ["So11UIFocusItemP", "dividerNormalColor"]
+- !private ["So11UIFocusItemP", "placeholderActiveColor"]
+- !private ["So11UIFocusItemP", "placeholderNormalColor"]
+- !private ["So11UIFocusItemP", "selectionStyle"]
+- !private ["So11UIFocusItemP", "setBackgroundImage"]
+- !private ["So11UIFocusItemP", "shadowImage"]
+- !private ["So20UIFocusItemContainerP", "automaticDimension"]
+- !private ["So20UIFocusItemContainerP", "backgroundColor"]
+- !private ["So20UIFocusItemContainerP", "cellForRow"]
+- !private ["So20UIFocusItemContainerP", "dividerActiveColor"]
+- !private ["So20UIFocusItemContainerP", "dividerNormalColor"]
+- !private ["So20UIFocusItemContainerP", "placeholderActiveColor"]
+- !private ["So20UIFocusItemContainerP", "placeholderNormalColor"]
+- !private ["So20UIFocusItemContainerP", "selectionStyle"]
+- !private ["So20UIFocusItemContainerP", "setBackgroundImage"]
+- !private ["So20UIFocusItemContainerP", "shadowImage"]
+- !private ["So30UIFocusItemScrollableContainerP", "automaticDimension"]
+- !private ["So30UIFocusItemScrollableContainerP", "cellForRow"]
+- !private ["So27UIGestureRecognizerDelegateP", "selectionStyle"]
+- !private ["So7UIImageC", "init"]
+- !private ["So39UIItemProviderPresentationSizeProvidingP", "init"]
+- !private ["So10UIKeyInputP", "dividerActiveColor"]
+- !private ["So10UIKeyInputP", "dividerNormalColor"]
+- !private ["So10UIKeyInputP", "placeholderActiveColor"]
+- !private ["So10UIKeyInputP", "placeholderNormalColor"]
+- !private ["So15UINavigationBarC", "backgroundColor"]
+- !private ["So15UINavigationBarC", "setBackgroundImage"]
+- !private ["So15UINavigationBarC", "shadowImage"]
+- !private ["So22UINavigationControllerC", "navigationBar"]
+- !private ["So30UIPasteConfigurationSupportingP", "UIApplication"]
+- !private ["So30UIPasteConfigurationSupportingP", "UIColor"]
+- !private ["So30UIPasteConfigurationSupportingP", "UIImage"]
+- !private ["So30UIPasteConfigurationSupportingP", "UITableView"]
+- ["So30UIPasteConfigurationSupportingP", ""]
+- !private ["So30UIPasteConfigurationSupportingP", "amountTextField"]
+- !private ["So30UIPasteConfigurationSupportingP", "automaticDimension"]
+- !private ["So30UIPasteConfigurationSupportingP", "backgroundColor"]
+- !private ["So30UIPasteConfigurationSupportingP", "billNumTextField"]
+- !private ["So30UIPasteConfigurationSupportingP", "cellForRow"]
+- !private ["So30UIPasteConfigurationSupportingP", "clearDividerTextField"]
+- !private ["So30UIPasteConfigurationSupportingP", "dividerActiveColor"]
+- !private ["So30UIPasteConfigurationSupportingP", "dividerNormalColor"]
+- !private ["So30UIPasteConfigurationSupportingP", "init"]
+- !private ["So30UIPasteConfigurationSupportingP", "init"]
+- !private ["So30UIPasteConfigurationSupportingP", "navigationBar"]
+- !private ["So30UIPasteConfigurationSupportingP", "navigationController"]
+- !private ["So30UIPasteConfigurationSupportingP", "placeholderActiveColor"]
+- !private ["So30UIPasteConfigurationSupportingP", "placeholderNormalColor"]
+- !private ["So30UIPasteConfigurationSupportingP", "selectionStyle"]
+- !private ["So30UIPasteConfigurationSupportingP", "setBackgroundImage"]
+- !private ["So30UIPasteConfigurationSupportingP", "setupClearNavigation"]
+- !private ["So30UIPasteConfigurationSupportingP", "shadowImage"]
+- !private ["So30UIPasteConfigurationSupportingP", "shared"]
+- !private ["So30UIPasteConfigurationSupportingP", "statusBarView"]
+- !private ["So30UIPasteConfigurationSupportingP", "viewDidLoad"]
+- ["So11UIResponderC", "CGFloat"]
+- ["So11UIResponderC", "IndexPath"]
+- ["So11UIResponderC", "RoundButton"]
+- ["So11UIResponderC", "TextField"]
+- !private ["So11UIResponderC", "UIApplication"]
+- ["So11UIResponderC", "UIBarButtonItem"]
+- !private ["So11UIResponderC", "UIColor"]
+- !private ["So11UIResponderC", "UIImage"]
+- ["So11UIResponderC", "UITableView"]
+- ["So11UIResponderC", "amountTextField"]
+- !private ["So11UIResponderC", "automaticDimension"]
+- ["So11UIResponderC", "backItemTapped"]
+- !private ["So11UIResponderC", "backgroundColor"]
+- ["So11UIResponderC", "billNumTextField"]
+- ["So11UIResponderC", "cashInButton"]
+- ["So11UIResponderC", "cashInTapped"]
+- !private ["So11UIResponderC", "cellForRow"]
+- ["So11UIResponderC", "clearDividerTextField"]
+- !private ["So11UIResponderC", "dividerActiveColor"]
+- !private ["So11UIResponderC", "dividerNormalColor"]
+- ["So11UIResponderC", "init"]
+- !private ["So11UIResponderC", "init"]
+- !private ["So11UIResponderC", "navigationBar"]
+- !private ["So11UIResponderC", "navigationController"]
+- !private ["So11UIResponderC", "placeholderActiveColor"]
+- !private ["So11UIResponderC", "placeholderNormalColor"]
+- !private ["So11UIResponderC", "selectionStyle"]
+- !private ["So11UIResponderC", "setBackgroundImage"]
+- ["So11UIResponderC", "setupClearNavigation"]
+- !private ["So11UIResponderC", "shadowImage"]
+- !private ["So11UIResponderC", "shared"]
+- !private ["So11UIResponderC", "statusBarView"]
+- ["So11UIResponderC", "tableView"]
+- ["So11UIResponderC", "viewDidLoad"]
+- !private ["So30UIResponderStandardEditActionsP", "UIApplication"]
+- !private ["So30UIResponderStandardEditActionsP", "UIColor"]
+- !private ["So30UIResponderStandardEditActionsP", "UIImage"]
+- !private ["So30UIResponderStandardEditActionsP", "UITableView"]
+- ["So30UIResponderStandardEditActionsP", ""]
+- !private ["So30UIResponderStandardEditActionsP", "amountTextField"]
+- !private ["So30UIResponderStandardEditActionsP", "automaticDimension"]
+- !private ["So30UIResponderStandardEditActionsP", "backgroundColor"]
+- !private ["So30UIResponderStandardEditActionsP", "billNumTextField"]
+- !private ["So30UIResponderStandardEditActionsP", "cellForRow"]
+- !private ["So30UIResponderStandardEditActionsP", "clearDividerTextField"]
+- !private ["So30UIResponderStandardEditActionsP", "dividerActiveColor"]
+- !private ["So30UIResponderStandardEditActionsP", "dividerNormalColor"]
+- !private ["So30UIResponderStandardEditActionsP", "init"]
+- !private ["So30UIResponderStandardEditActionsP", "init"]
+- !private ["So30UIResponderStandardEditActionsP", "navigationBar"]
+- !private ["So30UIResponderStandardEditActionsP", "navigationController"]
+- !private ["So30UIResponderStandardEditActionsP", "placeholderActiveColor"]
+- !private ["So30UIResponderStandardEditActionsP", "placeholderNormalColor"]
+- !private ["So30UIResponderStandardEditActionsP", "selectionStyle"]
+- !private ["So30UIResponderStandardEditActionsP", "setBackgroundImage"]
+- !private ["So30UIResponderStandardEditActionsP", "setupClearNavigation"]
+- !private ["So30UIResponderStandardEditActionsP", "shadowImage"]
+- !private ["So30UIResponderStandardEditActionsP", "shared"]
+- !private ["So30UIResponderStandardEditActionsP", "statusBarView"]
+- !private ["So30UIResponderStandardEditActionsP", "viewDidLoad"]
+- !private ["So12UIScrollViewC", "automaticDimension"]
+- !private ["So12UIScrollViewC", "cellForRow"]
+- !private ["So20UIScrollViewDelegateP", "UIApplication"]
+- !private ["So20UIScrollViewDelegateP", "UIColor"]
+- !private ["So20UIScrollViewDelegateP", "UIImage"]
+- !private ["So20UIScrollViewDelegateP", "UITableView"]
+- ["So20UIScrollViewDelegateP", ""]
+- !private ["So20UIScrollViewDelegateP", "amountTextField"]
+- !private ["So20UIScrollViewDelegateP", "billNumTextField"]
+- !private ["So20UIScrollViewDelegateP", "clearDividerTextField"]
+- !private ["So20UIScrollViewDelegateP", "init"]
+- !private ["So20UIScrollViewDelegateP", "init"]
+- !private ["So20UIScrollViewDelegateP", "navigationController"]
+- !private ["So20UIScrollViewDelegateP", "setupClearNavigation"]
+- !private ["So20UIScrollViewDelegateP", "viewDidLoad"]
+- !private ["So35UISpringLoadedInteractionSupportingP", "automaticDimension"]
+- !private ["So35UISpringLoadedInteractionSupportingP", "cellForRow"]
+- !private ["So16UIStateRestoringP", "UIApplication"]
+- !private ["So16UIStateRestoringP", "UIColor"]
+- !private ["So16UIStateRestoringP", "UIImage"]
+- !private ["So16UIStateRestoringP", "UITableView"]
+- ["So16UIStateRestoringP", ""]
+- !private ["So16UIStateRestoringP", "amountTextField"]
+- !private ["So16UIStateRestoringP", "billNumTextField"]
+- !private ["So16UIStateRestoringP", "clearDividerTextField"]
+- !private ["So16UIStateRestoringP", "init"]
+- !private ["So16UIStateRestoringP", "init"]
+- !private ["So16UIStateRestoringP", "navigationBar"]
+- !private ["So16UIStateRestoringP", "navigationController"]
+- !private ["So16UIStateRestoringP", "setupClearNavigation"]
+- !private ["So16UIStateRestoringP", "viewDidLoad"]
+- !private ["So11UITableViewC", "automaticDimension"]
+- !private ["So11UITableViewC", "cellForRow"]
+- !private ["So15UITableViewCellC", "selectionStyle"]
+- ["So21UITableViewControllerC", "CGFloat"]
+- ["So21UITableViewControllerC", "IndexPath"]
+- ["So21UITableViewControllerC", "RoundButton"]
+- ["So21UITableViewControllerC", "TextField"]
+- !private ["So21UITableViewControllerC", "UIApplication"]
+- ["So21UITableViewControllerC", "UIBarButtonItem"]
+- !private ["So21UITableViewControllerC", "UIColor"]
+- !private ["So21UITableViewControllerC", "UIImage"]
+- ["So21UITableViewControllerC", "UITableView"]
+- ["So21UITableViewControllerC", ""]
+- ["So21UITableViewControllerC", "amountTextField"]
+- ["So21UITableViewControllerC", "backItemTapped"]
+- ["So21UITableViewControllerC", "billNumTextField"]
+- ["So21UITableViewControllerC", "cashInButton"]
+- ["So21UITableViewControllerC", "cashInTapped"]
+- ["So21UITableViewControllerC", "clearDividerTextField"]
+- ["So21UITableViewControllerC", "init"]
+- !private ["So21UITableViewControllerC", "init"]
+- !private ["So21UITableViewControllerC", "navigationController"]
+- ["So21UITableViewControllerC", "setupClearNavigation"]
+- ["So21UITableViewControllerC", "tableView"]
+- ["So21UITableViewControllerC", "viewDidLoad"]
+- !private ["So21UITableViewDataSourceP", "UIApplication"]
+- !private ["So21UITableViewDataSourceP", "UIColor"]
+- !private ["So21UITableViewDataSourceP", "UIImage"]
+- !private ["So21UITableViewDataSourceP", "UITableView"]
+- ["So21UITableViewDataSourceP", ""]
+- !private ["So21UITableViewDataSourceP", "amountTextField"]
+- !private ["So21UITableViewDataSourceP", "billNumTextField"]
+- !private ["So21UITableViewDataSourceP", "clearDividerTextField"]
+- !private ["So21UITableViewDataSourceP", "init"]
+- !private ["So21UITableViewDataSourceP", "init"]
+- !private ["So21UITableViewDataSourceP", "navigationController"]
+- !private ["So21UITableViewDataSourceP", "setupClearNavigation"]
+- !private ["So21UITableViewDataSourceP", "viewDidLoad"]
+- !private ["So19UITableViewDelegateP", "UIApplication"]
+- !private ["So19UITableViewDelegateP", "UIColor"]
+- !private ["So19UITableViewDelegateP", "UIImage"]
+- !private ["So19UITableViewDelegateP", "UITableView"]
+- ["So19UITableViewDelegateP", ""]
+- !private ["So19UITableViewDelegateP", "amountTextField"]
+- !private ["So19UITableViewDelegateP", "billNumTextField"]
+- !private ["So19UITableViewDelegateP", "clearDividerTextField"]
+- !private ["So19UITableViewDelegateP", "init"]
+- !private ["So19UITableViewDelegateP", "init"]
+- !private ["So19UITableViewDelegateP", "navigationController"]
+- !private ["So19UITableViewDelegateP", "setupClearNavigation"]
+- !private ["So19UITableViewDelegateP", "viewDidLoad"]
+- !private ["So15UITextDraggableP", "dividerActiveColor"]
+- !private ["So15UITextDraggableP", "dividerNormalColor"]
+- !private ["So15UITextDraggableP", "placeholderActiveColor"]
+- !private ["So15UITextDraggableP", "placeholderNormalColor"]
+- !private ["So15UITextDroppableP", "dividerActiveColor"]
+- !private ["So15UITextDroppableP", "dividerNormalColor"]
+- !private ["So15UITextDroppableP", "placeholderActiveColor"]
+- !private ["So15UITextDroppableP", "placeholderNormalColor"]
+- !private ["So11UITextFieldC", "dividerActiveColor"]
+- !private ["So11UITextFieldC", "dividerNormalColor"]
+- !private ["So11UITextFieldC", "placeholderActiveColor"]
+- !private ["So11UITextFieldC", "placeholderNormalColor"]
+- !private ["So11UITextInputP", "dividerActiveColor"]
+- !private ["So11UITextInputP", "dividerNormalColor"]
+- !private ["So11UITextInputP", "placeholderActiveColor"]
+- !private ["So11UITextInputP", "placeholderNormalColor"]
+- !private ["So17UITextInputTraitsP", "dividerActiveColor"]
+- !private ["So17UITextInputTraitsP", "dividerNormalColor"]
+- !private ["So17UITextInputTraitsP", "placeholderActiveColor"]
+- !private ["So17UITextInputTraitsP", "placeholderNormalColor"]
+- !private ["So34UITextPasteConfigurationSupportingP", "dividerActiveColor"]
+- !private ["So34UITextPasteConfigurationSupportingP", "dividerNormalColor"]
+- !private ["So34UITextPasteConfigurationSupportingP", "placeholderActiveColor"]
+- !private ["So34UITextPasteConfigurationSupportingP", "placeholderNormalColor"]
+- !private ["So18UITraitEnvironmentP", "UIApplication"]
+- !private ["So18UITraitEnvironmentP", "UIColor"]
+- !private ["So18UITraitEnvironmentP", "UIImage"]
+- !private ["So18UITraitEnvironmentP", "UITableView"]
+- ["So18UITraitEnvironmentP", ""]
+- !private ["So18UITraitEnvironmentP", "amountTextField"]
+- !private ["So18UITraitEnvironmentP", "automaticDimension"]
+- !private ["So18UITraitEnvironmentP", "backgroundColor"]
+- !private ["So18UITraitEnvironmentP", "billNumTextField"]
+- !private ["So18UITraitEnvironmentP", "cellForRow"]
+- !private ["So18UITraitEnvironmentP", "clearDividerTextField"]
+- !private ["So18UITraitEnvironmentP", "dividerActiveColor"]
+- !private ["So18UITraitEnvironmentP", "dividerNormalColor"]
+- !private ["So18UITraitEnvironmentP", "init"]
+- !private ["So18UITraitEnvironmentP", "init"]
+- !private ["So18UITraitEnvironmentP", "navigationBar"]
+- !private ["So18UITraitEnvironmentP", "navigationController"]
+- !private ["So18UITraitEnvironmentP", "placeholderActiveColor"]
+- !private ["So18UITraitEnvironmentP", "placeholderNormalColor"]
+- !private ["So18UITraitEnvironmentP", "selectionStyle"]
+- !private ["So18UITraitEnvironmentP", "setBackgroundImage"]
+- !private ["So18UITraitEnvironmentP", "setupClearNavigation"]
+- !private ["So18UITraitEnvironmentP", "shadowImage"]
+- !private ["So18UITraitEnvironmentP", "viewDidLoad"]
+- !private ["So23UIUserActivityRestoringP", "UIApplication"]
+- !private ["So23UIUserActivityRestoringP", "UIColor"]
+- !private ["So23UIUserActivityRestoringP", "UIImage"]
+- !private ["So23UIUserActivityRestoringP", "UITableView"]
+- ["So23UIUserActivityRestoringP", ""]
+- !private ["So23UIUserActivityRestoringP", "amountTextField"]
+- !private ["So23UIUserActivityRestoringP", "automaticDimension"]
+- !private ["So23UIUserActivityRestoringP", "backgroundColor"]
+- !private ["So23UIUserActivityRestoringP", "billNumTextField"]
+- !private ["So23UIUserActivityRestoringP", "cellForRow"]
+- !private ["So23UIUserActivityRestoringP", "clearDividerTextField"]
+- !private ["So23UIUserActivityRestoringP", "dividerActiveColor"]
+- !private ["So23UIUserActivityRestoringP", "dividerNormalColor"]
+- !private ["So23UIUserActivityRestoringP", "init"]
+- !private ["So23UIUserActivityRestoringP", "init"]
+- !private ["So23UIUserActivityRestoringP", "navigationBar"]
+- !private ["So23UIUserActivityRestoringP", "navigationController"]
+- !private ["So23UIUserActivityRestoringP", "placeholderActiveColor"]
+- !private ["So23UIUserActivityRestoringP", "placeholderNormalColor"]
+- !private ["So23UIUserActivityRestoringP", "selectionStyle"]
+- !private ["So23UIUserActivityRestoringP", "setBackgroundImage"]
+- !private ["So23UIUserActivityRestoringP", "setupClearNavigation"]
+- !private ["So23UIUserActivityRestoringP", "shadowImage"]
+- !private ["So23UIUserActivityRestoringP", "shared"]
+- !private ["So23UIUserActivityRestoringP", "statusBarView"]
+- !private ["So23UIUserActivityRestoringP", "viewDidLoad"]
+- !private ["So6UIViewC", "automaticDimension"]
+- !private ["So6UIViewC", "backgroundColor"]
+- !private ["So6UIViewC", "cellForRow"]
+- !private ["So6UIViewC", "dividerActiveColor"]
+- !private ["So6UIViewC", "dividerNormalColor"]
+- !private ["So6UIViewC", "placeholderActiveColor"]
+- !private ["So6UIViewC", "placeholderNormalColor"]
+- !private ["So6UIViewC", "selectionStyle"]
+- !private ["So6UIViewC", "setBackgroundImage"]
+- !private ["So6UIViewC", "shadowImage"]
+- ["So16UIViewControllerC", "CGFloat"]
+- ["So16UIViewControllerC", "IndexPath"]
+- ["So16UIViewControllerC", "RoundButton"]
+- ["So16UIViewControllerC", "TextField"]
+- !private ["So16UIViewControllerC", "UIApplication"]
+- ["So16UIViewControllerC", "UIBarButtonItem"]
+- !private ["So16UIViewControllerC", "UIColor"]
+- !private ["So16UIViewControllerC", "UIImage"]
+- ["So16UIViewControllerC", "UITableView"]
+- ["So16UIViewControllerC", "amountTextField"]
+- ["So16UIViewControllerC", "backItemTapped"]
+- ["So16UIViewControllerC", "billNumTextField"]
+- ["So16UIViewControllerC", "cashInButton"]
+- ["So16UIViewControllerC", "cashInTapped"]
+- ["So16UIViewControllerC", "clearDividerTextField"]
+- ["So16UIViewControllerC", "init"]
+- !private ["So16UIViewControllerC", "init"]
+- !private ["So16UIViewControllerC", "navigationBar"]
+- !private ["So16UIViewControllerC", "navigationController"]
+- ["So16UIViewControllerC", "setupClearNavigation"]
+- ["So16UIViewControllerC", "tableView"]
+- ["So16UIViewControllerC", "viewDidLoad"]
+- !private ["9Alamofire14URLConvertibleP", "init"]
+- !private ["9Alamofire14URLConvertibleP", "init"]
+- !private ["s37_DefaultCustomPlaygroundQuickLookableP", "automaticDimension"]
+- !private ["s37_DefaultCustomPlaygroundQuickLookableP", "backgroundColor"]
+- !private ["s37_DefaultCustomPlaygroundQuickLookableP", "cellForRow"]
+- !private ["s37_DefaultCustomPlaygroundQuickLookableP", "dividerActiveColor"]
+- !private ["s37_DefaultCustomPlaygroundQuickLookableP", "dividerNormalColor"]
+- !private ["s37_DefaultCustomPlaygroundQuickLookableP", "placeholderActiveColor"]
+- !private ["s37_DefaultCustomPlaygroundQuickLookableP", "placeholderNormalColor"]
+- !private ["s37_DefaultCustomPlaygroundQuickLookableP", "selectionStyle"]
+- !private ["s37_DefaultCustomPlaygroundQuickLookableP", "setBackgroundImage"]
+- !private ["s37_DefaultCustomPlaygroundQuickLookableP", "shadowImage"]
+- !private ["s35_ExpressibleByBuiltinBooleanLiteralP", "_getBuiltinLogicValue"]
+- !private ["s51_ExpressibleByBuiltinExtendedGraphemeClusterLiteralP", "init"]
+- !private ["s51_ExpressibleByBuiltinExtendedGraphemeClusterLiteralP", "init"]
+- !private ["s34_ExpressibleByBuiltinStringLiteralP", "init"]
+- !private ["s34_ExpressibleByBuiltinStringLiteralP", "init"]
+- !private ["s39_ExpressibleByBuiltinUTF16StringLiteralP", "init"]
+- !private ["s39_ExpressibleByBuiltinUTF16StringLiteralP", "init"]
+- !private ["s41_ExpressibleByBuiltinUnicodeScalarLiteralP", "init"]
+- !private ["s41_ExpressibleByBuiltinUnicodeScalarLiteralP", "init"]
+- !private ["s26_ExpressibleByColorLiteralP", "clear"]
+- !private ["s26_ExpressibleByColorLiteralP", "colorFromHex"]
+- !private ["s26_ExpressibleByColorLiteralP", "gray"]
+- !private ["s26_ExpressibleByImageLiteralP", "init"]
+- !private ["s33_ExpressibleByStringInterpolationP", "init"]
+- !private ["s33_ExpressibleByStringInterpolationP", "init"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "UIApplication"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "UIColor"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "UIImage"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "UITableView"]
+- ["10Foundation27_KeyValueCodingAndObservingP", ""]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "amountTextField"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "automaticDimension"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "backgroundColor"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "billNumTextField"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "cellForRow"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "clear"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "clearDividerTextField"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "colorFromHex"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "dividerActiveColor"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "dividerNormalColor"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "gray"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "init"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "init"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "navigationBar"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "navigationController"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "placeholderActiveColor"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "placeholderNormalColor"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "selectionStyle"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "setBackgroundImage"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "setupClearNavigation"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "shadowImage"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "shared"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "statusBarView"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "viewDidLoad"]
+- !private ["s21_ObjectiveCBridgeableP", "_getBuiltinLogicValue"]
+- !private ["s21_ObjectiveCBridgeableP", "dividerActiveColor"]
+- !private ["s21_ObjectiveCBridgeableP", "dividerNormalColor"]
+- !private ["s21_ObjectiveCBridgeableP", "init"]
+- !private ["s21_ObjectiveCBridgeableP", "init"]
+- !private ["s21_ObjectiveCBridgeableP", "placeholderActiveColor"]
+- !private ["s21_ObjectiveCBridgeableP", "placeholderNormalColor"]
+- !private ["s21_ObjectiveCBridgeableP", "row"]
+- !private ["s16_SwiftStringViewP", "init"]
+- !private ["s16_SwiftStringViewP", "init"]
+depends-nominal:
+- !private "SK"
+- "10LHPPWallet30BillPaymentTableViewControllerC"
+- !private "Sb"
+- !private "So15CALayerDelegateP"
+- "s7CVarArgP"
+- !private "Sl"
+- !private "SL"
+- "s28CustomDebugStringConvertibleP"
+- !private "s29CustomPlaygroundQuickLookableP"
+- !private "s17CustomReflectableP"
+- "s23CustomStringConvertibleP"
+- !private "Se"
+- !private "SE"
+- "SQ"
+- !private "s25ExpressibleByArrayLiteralP"
+- !private "s27ExpressibleByBooleanLiteralP"
+- !private "s43ExpressibleByExtendedGraphemeClusterLiteralP"
+- !private "s23ExpressibleByNilLiteralP"
+- !private "s26ExpressibleByStringLiteralP"
+- !private "s33ExpressibleByUnicodeScalarLiteralP"
+- "SH"
+- !private "10Foundation9IndexPathV"
+- "18SwinjectStoryboard19InjectionVerifiableP"
+- !private "8Swinject15InstanceWrapperP"
+- !private "10SwiftyJSON17JSONSubscriptTypeP"
+- !private "s25LosslessStringConvertibleP"
+- !private "s10MirrorPathP"
+- !private "SM"
+- "So8NSCodingP"
+- !private "So9NSCopyingP"
+- "So26NSExtensionRequestHandlingP"
+- !private "So21NSItemProviderReadingP"
+- !private "So21NSItemProviderWritingP"
+- "So8NSObjectC"
+- "So8NSObjectP"
+- !private "So14NSSecureCodingP"
+- !private "Sq"
+- !private "Sk"
+- !private "Sm"
+- !private "SY"
+- !private "10Foundation20ReferenceConvertibleP"
+- "18SwinjectStoryboard28RegistrationNameAssociatableP"
+- !private "So29UITableViewCellSelectionStyleV"
+- !private "ST"
+- !private "SS"
+- !private "Sy"
+- !private "8Material9TextFieldC"
+- !private "s16TextOutputStreamP"
+- !private "s20TextOutputStreamableP"
+- !private "So29UIAccessibilityIdentificationP"
+- !private "So12UIAppearanceP"
+- "So21UIAppearanceContainerP"
+- !private "So13UIApplicationC"
+- !private "So12UIBarMetricsV"
+- !private "So16UIBarPositioningP"
+- !private "So7UIColorC"
+- "So18UIContentContainerP"
+- !private "So30UIContentSizeCategoryAdjustingP"
+- !private "So9UIControlC"
+- !private "So17UICoordinateSpaceP"
+- !private "So23UIDataSourceTranslatingP"
+- !private "So13UIDynamicItemP"
+- "So18UIFocusEnvironmentP"
+- !private "So11UIFocusItemP"
+- !private "So20UIFocusItemContainerP"
+- !private "So30UIFocusItemScrollableContainerP"
+- !private "So27UIGestureRecognizerDelegateP"
+- !private "So7UIImageC"
+- !private "So39UIItemProviderPresentationSizeProvidingP"
+- !private "So10UIKeyInputP"
+- !private "So15UINavigationBarC"
+- !private "So22UINavigationControllerC"
+- "So30UIPasteConfigurationSupportingP"
+- "So11UIResponderC"
+- "So30UIResponderStandardEditActionsP"
+- !private "So12UIScrollViewC"
+- "So20UIScrollViewDelegateP"
+- !private "So35UISpringLoadedInteractionSupportingP"
+- "So16UIStateRestoringP"
+- !private "So11UITableViewC"
+- !private "So15UITableViewCellC"
+- "So21UITableViewControllerC"
+- "So21UITableViewDataSourceP"
+- "So19UITableViewDelegateP"
+- !private "So15UITextDraggableP"
+- !private "So15UITextDroppableP"
+- !private "So11UITextFieldC"
+- !private "So11UITextInputP"
+- !private "So17UITextInputTraitsP"
+- !private "So34UITextPasteConfigurationSupportingP"
+- "So18UITraitEnvironmentP"
+- "So23UIUserActivityRestoringP"
+- !private "So6UIViewC"
+- "So16UIViewControllerC"
+- !private "9Alamofire14URLConvertibleP"
+- !private "s37_DefaultCustomPlaygroundQuickLookableP"
+- !private "s35_ExpressibleByBuiltinBooleanLiteralP"
+- !private "s51_ExpressibleByBuiltinExtendedGraphemeClusterLiteralP"
+- !private "s34_ExpressibleByBuiltinStringLiteralP"
+- !private "s39_ExpressibleByBuiltinUTF16StringLiteralP"
+- !private "s41_ExpressibleByBuiltinUnicodeScalarLiteralP"
+- !private "s26_ExpressibleByColorLiteralP"
+- !private "s26_ExpressibleByImageLiteralP"
+- !private "s33_ExpressibleByStringInterpolationP"
+- "10Foundation27_KeyValueCodingAndObservingP"
+- !private "s21_ObjectiveCBridgeableP"
+- !private "s16_SwiftStringViewP"
+depends-dynamic-lookup:
+depends-external:
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Dispatch.apinotesc"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/os.apinotesc"
+- "/Users/user/Desktop/Lyhour project/lyhour/Build/Products/Debug-iphonesimulator/SwiftyJSON/SwiftyJSON.framework/Modules/SwiftyJSON.swiftmodule/x86_64.swiftmodule"
+- "/Users/user/Desktop/Lyhour project/lyhour/Build/Products/Debug-iphonesimulator/SwinjectStoryboard/SwinjectStoryboard.framework/Modules/SwinjectStoryboard.swiftmodule/x86_64.swiftmodule"
+- "/Users/user/Desktop/Lyhour project/lyhour/Build/Products/Debug-iphonesimulator/Alamofire/Alamofire.framework/Modules/Alamofire.swiftmodule/x86_64.swiftmodule"
+- "/Users/user/Desktop/Lyhour project/lyhour/Build/Products/Debug-iphonesimulator/Material/Material.framework/Modules/Material.swiftmodule/x86_64.swiftmodule"
+- "/Users/user/Desktop/Lyhour project/lyhour/Build/Products/Debug-iphonesimulator/Motion/Motion.framework/Modules/Motion.swiftmodule/x86_64.swiftmodule"
+- "/Users/user/Desktop/Lyhour project/lyhour/Build/Products/Debug-iphonesimulator/Swinject/Swinject.framework/Modules/Swinject.swiftmodule/x86_64.swiftmodule"
+- "/Users/user/Desktop/Lyhour project/lyhour/Build/Products/Debug-iphonesimulator/CryptoSwift/CryptoSwift.framework/Modules/CryptoSwift.swiftmodule/x86_64.swiftmodule"
+- "/Users/user/Desktop/Lyhour project/lyhour/Build/Products/Debug-iphonesimulator/DeviceKit/DeviceKit.framework/Modules/DeviceKit.swiftmodule/x86_64.swiftmodule"
+- "/Users/user/Desktop/Lyhour project/lyhour/Build/Products/Debug-iphonesimulator/PhoneNumberKit/PhoneNumberKit.framework/Modules/PhoneNumberKit.swiftmodule/x86_64.swiftmodule"
+- "/Users/user/Desktop/Lyhour project/lyhour/Build/Products/Debug-iphonesimulator/SideMenu/SideMenu.framework/Modules/SideMenu.swiftmodule/x86_64.swiftmodule"
+- "/Users/user/Desktop/Lyhour project/lyhour/Build/Products/Debug-iphonesimulator/NVActivityIndicatorView/NVActivityIndicatorView.framework/Modules/NVActivityIndicatorView.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/ObjectiveC.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/ModelIO.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreMedia.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/simd.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreImage.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/QuartzCore.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Accelerate.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Dispatch.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Metal.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Darwin.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreLocation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Foundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/AVFoundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreFoundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreAudio.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreGraphics.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/os.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Contacts.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Swift.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/UIKit.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/MetalKit.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/SwiftOnoneSupport.swiftmodule"
+- "/Users/user/Desktop/Lyhour project/lyhour/Build/Products/Debug-iphonesimulator/SwiftyJSON/SwiftyJSON.framework/Headers/SwiftyJSON-umbrella.h"
+- "/Users/user/Desktop/Lyhour project/lyhour/Build/Products/Debug-iphonesimulator/SwinjectStoryboard/SwinjectStoryboard.framework/Headers/SwinjectStoryboard-umbrella.h"
+- "/Users/user/Desktop/Lyhour project/lyhour/Build/Products/Debug-iphonesimulator/Alamofire/Alamofire.framework/Headers/Alamofire-umbrella.h"
+- "/Users/user/Desktop/Lyhour project/lyhour/Build/Products/Debug-iphonesimulator/Material/Material.framework/Headers/Material-umbrella.h"
+- "/Users/user/Desktop/Lyhour project/lyhour/Build/Products/Debug-iphonesimulator/HMSegmentedControl/HMSegmentedControl.framework/Headers/HMSegmentedControl-umbrella.h"
+- "/Users/user/Desktop/Lyhour project/lyhour/Build/Products/Debug-iphonesimulator/Motion/Motion.framework/Headers/Motion-umbrella.h"
+- "/Users/user/Desktop/Lyhour project/lyhour/Build/Products/Debug-iphonesimulator/MXParallaxHeader/MXParallaxHeader.framework/Headers/MXParallaxHeader-umbrella.h"
+- "/Users/user/Desktop/Lyhour project/lyhour/Build/Products/Debug-iphonesimulator/MXSegmentedPager/MXSegmentedPager.framework/Headers/MXSegmentedPager-umbrella.h"
+- "/Users/user/Desktop/Lyhour project/lyhour/Build/Products/Debug-iphonesimulator/Swinject/Swinject.framework/Headers/Swinject-umbrella.h"
+- "/Users/user/Desktop/Lyhour project/lyhour/Build/Products/Debug-iphonesimulator/CryptoSwift/CryptoSwift.framework/Headers/CryptoSwift-umbrella.h"
+- "/Users/user/Desktop/Lyhour project/lyhour/Build/Products/Debug-iphonesimulator/DeviceKit/DeviceKit.framework/Headers/DeviceKit-umbrella.h"
+- "/Users/user/Desktop/Lyhour project/lyhour/Build/Products/Debug-iphonesimulator/PhoneNumberKit/PhoneNumberKit.framework/Headers/PhoneNumberKit-umbrella.h"
+- "/Users/user/Desktop/Lyhour project/lyhour/Build/Products/Debug-iphonesimulator/SideMenu/SideMenu.framework/Headers/SideMenu-umbrella.h"
+- "/Users/user/Desktop/Lyhour project/lyhour/Build/Products/Debug-iphonesimulator/MXPagerView/MXPagerView.framework/Headers/MXPagerView-umbrella.h"
+- "/Users/user/Desktop/Lyhour project/lyhour/Build/Products/Debug-iphonesimulator/NVActivityIndicatorView/NVActivityIndicatorView.framework/Headers/NVActivityIndicatorView-umbrella.h"
+- "/Users/user/Desktop/Lyhour project/lyhour/Pods/GoogleMaps/Maps/Frameworks/GoogleMaps.framework/Headers/GMSPanorama.h"
+- "/Users/user/Desktop/Lyhour project/lyhour/Pods/GoogleMaps/Maps/Frameworks/GoogleMaps.framework/Headers/GMSPanoramaCamera.h"
+- "/Users/user/Desktop/Lyhour project/lyhour/Pods/GooglePlaces/Frameworks/GooglePlaces.framework/Headers/GMSPlacePhotoMetadata.h"
+- "/Users/user/Desktop/Lyhour project/lyhour/Pods/GooglePlaces/Frameworks/GooglePlaces.framework/Headers/GMSPlaceLikelihood.h"
+- "/Users/user/Desktop/Lyhour project/lyhour/Build/Products/Debug-iphonesimulator/SwinjectStoryboard/SwinjectStoryboard.framework/Headers/SwinjectStoryboard.h"
+- "/Users/user/Desktop/Lyhour project/lyhour/Pods/GooglePlaces/Frameworks/GooglePlaces.framework/Headers/GMSPlace.h"
+- "/Users/user/Desktop/Lyhour project/lyhour/Pods/GooglePlaces/Frameworks/GooglePlaces.framework/Headers/GMSUserAddedPlace.h"
+- "/Users/user/Desktop/Lyhour project/lyhour/Pods/GoogleMaps/Maps/Frameworks/GoogleMaps.framework/Headers/GMSPanoramaService.h"
+- "/Users/user/Desktop/Lyhour project/lyhour/Pods/GoogleMaps/Maps/Frameworks/GoogleMaps.framework/Headers/GMSPanoramaSource.h"
+- "/Users/user/Desktop/Lyhour project/lyhour/Pods/GooglePlaces/Frameworks/GooglePlaces.framework/Headers/GMSAutocompleteTableDataSource.h"
+- "/Users/user/Desktop/Lyhour project/lyhour/Pods/GooglePlaces/Frameworks/GooglePlaces.framework/Headers/GMSAutocompleteBoundsMode.h"
+- "/Users/user/Desktop/Lyhour project/lyhour/Pods/GoogleMaps/Maps/Frameworks/GoogleMaps.framework/Headers/GMSCircle.h"
+- "/Users/user/Desktop/Lyhour project/lyhour/Pods/GoogleMaps/Maps/Frameworks/GoogleMaps.framework/Headers/GMSMapStyle.h"
+- "/Users/user/Desktop/Lyhour project/lyhour/Pods/GoogleMaps/Maps/Frameworks/GoogleMaps.framework/Headers/GMSPolyline.h"
+- "/Users/user/Desktop/Lyhour project/lyhour/Build/Products/Debug-iphonesimulator/SwinjectStoryboard/SwinjectStoryboard.framework/Headers/_SwinjectStoryboardBase.h"
+- "/Users/user/Desktop/Lyhour project/lyhour/Pods/GoogleMaps/Base/Frameworks/GoogleMapsBase.framework/Headers/GoogleMapsBase.h"
+- "/Users/user/Desktop/Lyhour project/lyhour/Pods/GoogleMaps/Maps/Frameworks/GoogleMaps.framework/Headers/GMSCameraUpdate.h"
+- "/Users/user/Desktop/Lyhour project/lyhour/Pods/GoogleMaps/Maps/Frameworks/GoogleMaps.framework/Headers/GMSPanoramaCameraUpdate.h"
+- "/Users/user/Desktop/Lyhour project/lyhour/Pods/GoogleMaps/Maps/Frameworks/GoogleMaps.framework/Headers/GMSIndoorBuilding.h"
+- "/Users/user/Desktop/Lyhour project/lyhour/Build/Products/Debug-iphonesimulator/SwinjectStoryboard/SwinjectStoryboard.framework/Headers/UIStoryboard+Swizzling.h"
+- "/Users/user/Desktop/Lyhour project/lyhour/Pods/GoogleMaps/Maps/Frameworks/GoogleMaps.framework/Headers/GMSPath.h"
+- "/Users/user/Desktop/Lyhour project/lyhour/Pods/GoogleMaps/Maps/Frameworks/GoogleMaps.framework/Headers/GMSMutablePath.h"
+- "/Users/user/Desktop/Lyhour project/lyhour/Pods/GoogleMaps/Maps/Frameworks/GoogleMaps.framework/Headers/GMSPanoramaLink.h"
+- "/Users/user/Desktop/Lyhour project/lyhour/Pods/GoogleMaps/Maps/Frameworks/GoogleMaps.framework/Headers/GMSIndoorLevel.h"
+- "/Users/user/Desktop/Lyhour project/lyhour/Build/Products/Debug-iphonesimulator/SwinjectStoryboard/SwinjectStoryboard.framework/Headers/SwinjectStoryboardProtocol.h"
+- "/Users/user/Desktop/Lyhour project/lyhour/Build/Products/Debug-iphonesimulator/HMSegmentedControl/HMSegmentedControl.framework/Headers/HMSegmentedControl.h"
+- "/Users/user/Desktop/Lyhour project/lyhour/Pods/GoogleMaps/Maps/Frameworks/GoogleMaps.framework/Headers/GMSPolygon.h"
+- "/Users/user/Desktop/Lyhour project/lyhour/Pods/GoogleMaps/Maps/Frameworks/GoogleMaps.framework/Headers/GMSMapView+Animation.h"
+- "/Users/user/Desktop/Lyhour project/lyhour/Pods/GoogleMaps/Maps/Frameworks/GoogleMaps.framework/Headers/GMSOrientation.h"
+- "/Users/user/Desktop/Lyhour project/lyhour/Pods/GoogleMaps/Maps/Frameworks/GoogleMaps.framework/Headers/GMSProjection.h"
+- "/Users/user/Desktop/Lyhour project/lyhour/Pods/GooglePlaces/Frameworks/GooglePlaces.framework/Headers/GMSAutocompletePrediction.h"
+- "/Users/user/Desktop/Lyhour project/lyhour/Pods/GoogleMaps/Maps/Frameworks/GoogleMaps.framework/Headers/GMSCameraPosition.h"
+- "/Users/user/Desktop/Lyhour project/lyhour/Build/Products/Debug-iphonesimulator/MXParallaxHeader/MXParallaxHeader.framework/Headers/MXParallaxHeader.h"
+- "/Users/user/Desktop/Lyhour project/lyhour/Pods/GoogleMaps/Maps/Frameworks/GoogleMaps.framework/Headers/GMSGeocoder.h"
+- "/Users/user/Desktop/Lyhour project/lyhour/Build/Products/Debug-iphonesimulator/MXSegmentedPager/MXSegmentedPager.framework/Headers/MXSegmentedPager.h"
+- "/Users/user/Desktop/Lyhour project/lyhour/Pods/GooglePlaces/Frameworks/GooglePlaces.framework/Headers/GMSAutocompleteFetcher.h"
+- "/Users/user/Desktop/Lyhour project/lyhour/Pods/GoogleMaps/Maps/Frameworks/GoogleMaps.framework/Headers/GMSMarker.h"
+- "/Users/user/Desktop/Lyhour project/lyhour/Build/Products/Debug-iphonesimulator/MXSegmentedPager/MXSegmentedPager.framework/Headers/MXSegmentedPagerController.h"
+- "/Users/user/Desktop/Lyhour project/lyhour/Pods/GooglePlaces/Frameworks/GooglePlaces.framework/Headers/GMSAutocompleteViewController.h"
+- "/Users/user/Desktop/Lyhour project/lyhour/Build/Products/Debug-iphonesimulator/MXParallaxHeader/MXParallaxHeader.framework/Headers/MXScrollViewController.h"
+- "/Users/user/Desktop/Lyhour project/lyhour/Build/Products/Debug-iphonesimulator/MXPagerView/MXPagerView.framework/Headers/MXPagerViewController.h"
+- "/Users/user/Desktop/Lyhour project/lyhour/Pods/GooglePlaces/Frameworks/GooglePlaces.framework/Headers/GMSAutocompleteResultsViewController.h"
+- "/Users/user/Desktop/Lyhour project/lyhour/Pods/GooglePlaces/Frameworks/GooglePlaces.framework/Headers/GMSAutocompleteFilter.h"
+- "/Users/user/Desktop/Lyhour project/lyhour/Pods/GoogleMaps/Maps/Frameworks/GoogleMaps.framework/Headers/GMSCALayer.h"
+- "/Users/user/Desktop/Lyhour project/lyhour/Pods/GoogleMaps/Maps/Frameworks/GoogleMaps.framework/Headers/GMSPanoramaLayer.h"
+- "/Users/user/Desktop/Lyhour project/lyhour/Pods/GoogleMaps/Maps/Frameworks/GoogleMaps.framework/Headers/GMSURLTileLayer.h"
+- "/Users/user/Desktop/Lyhour project/lyhour/Pods/GoogleMaps/Maps/Frameworks/GoogleMaps.framework/Headers/GMSTileLayer.h"
+- "/Users/user/Desktop/Lyhour project/lyhour/Pods/GoogleMaps/Maps/Frameworks/GoogleMaps.framework/Headers/GMSSyncTileLayer.h"
+- "/Users/user/Desktop/Lyhour project/lyhour/Pods/GoogleMaps/Maps/Frameworks/GoogleMaps.framework/Headers/GMSMapLayer.h"
+- "/Users/user/Desktop/Lyhour project/lyhour/Pods/GoogleMaps/Maps/Frameworks/GoogleMaps.framework/Headers/GMSMarkerLayer.h"
+- "/Users/user/Desktop/Lyhour project/lyhour/Pods/GoogleMaps/Maps/Frameworks/GoogleMaps.framework/Headers/GMSOverlayLayer.h"
+- "/Users/user/Desktop/Lyhour project/lyhour/Pods/GoogleMaps/Base/Frameworks/GoogleMapsBase.framework/Headers/GMSCoordinateBounds.h"
+- "/Users/user/Desktop/Lyhour project/lyhour/Pods/GooglePlaces/Frameworks/GooglePlaces.framework/Headers/GooglePlaces.h"
+- "/Users/user/Desktop/Lyhour project/lyhour/Pods/GoogleMaps/Maps/Frameworks/GoogleMaps.framework/Headers/GMSServices.h"
+- "/Users/user/Desktop/Lyhour project/lyhour/Pods/GooglePlaces/Frameworks/GooglePlaces.framework/Headers/GMSPlaceTypes.h"
+- "/Users/user/Desktop/Lyhour project/lyhour/Pods/GoogleMaps/Maps/Frameworks/GoogleMaps.framework/Headers/GMSUISettings.h"
+- "/Users/user/Desktop/Lyhour project/lyhour/Pods/GoogleMaps/Maps/Frameworks/GoogleMaps.framework/Headers/GMSGeometryUtils.h"
+- "/Users/user/Desktop/Lyhour project/lyhour/Pods/GoogleMaps/Base/Frameworks/GoogleMapsBase.framework/Headers/GMSDeprecationMacros.h"
+- "/Users/user/Desktop/Lyhour project/lyhour/Pods/GoogleMaps/Base/Frameworks/GoogleMapsBase.framework/Headers/GMSCompatabilityMacros.h"
+- "/Users/user/Desktop/Lyhour project/lyhour/Pods/GoogleMaps/Maps/Frameworks/GoogleMaps.framework/Headers/GMSCoordinateBounds+GoogleMaps.h"
+- "/Users/user/Desktop/Lyhour project/lyhour/Pods/GoogleMaps/Maps/Frameworks/GoogleMaps.framework/Headers/GoogleMaps.h"
+- "/Users/user/Desktop/Lyhour project/lyhour/Pods/GooglePlaces/Frameworks/GooglePlaces.framework/Headers/GMSPlacesErrors.h"
+- "/Users/user/Desktop/Lyhour project/lyhour/Pods/GoogleMaps/Maps/Frameworks/GoogleMaps.framework/Headers/GMSAddress.h"
+- "/Users/user/Desktop/Lyhour project/lyhour/Build/Products/Debug-iphonesimulator/Swinject/Swinject.framework/Headers/Swinject.h"
+- "/Users/user/Desktop/Lyhour project/lyhour/Build/Products/Debug-iphonesimulator/SwiftyJSON/SwiftyJSON.framework/Headers/SwiftyJSON-Swift.h"
+- "/Users/user/Desktop/Lyhour project/lyhour/Build/Products/Debug-iphonesimulator/SwinjectStoryboard/SwinjectStoryboard.framework/Headers/SwinjectStoryboard-Swift.h"
+- "/Users/user/Desktop/Lyhour project/lyhour/Build/Products/Debug-iphonesimulator/Alamofire/Alamofire.framework/Headers/Alamofire-Swift.h"
+- "/Users/user/Desktop/Lyhour project/lyhour/Build/Products/Debug-iphonesimulator/Material/Material.framework/Headers/Material-Swift.h"
+- "/Users/user/Desktop/Lyhour project/lyhour/Build/Products/Debug-iphonesimulator/Motion/Motion.framework/Headers/Motion-Swift.h"
+- "/Users/user/Desktop/Lyhour project/lyhour/Build/Products/Debug-iphonesimulator/Swinject/Swinject.framework/Headers/Swinject-Swift.h"
+- "/Users/user/Desktop/Lyhour project/lyhour/Build/Products/Debug-iphonesimulator/CryptoSwift/CryptoSwift.framework/Headers/CryptoSwift-Swift.h"
+- "/Users/user/Desktop/Lyhour project/lyhour/Build/Products/Debug-iphonesimulator/DeviceKit/DeviceKit.framework/Headers/DeviceKit-Swift.h"
+- "/Users/user/Desktop/Lyhour project/lyhour/Build/Products/Debug-iphonesimulator/PhoneNumberKit/PhoneNumberKit.framework/Headers/PhoneNumberKit-Swift.h"
+- "/Users/user/Desktop/Lyhour project/lyhour/Build/Products/Debug-iphonesimulator/SideMenu/SideMenu.framework/Headers/SideMenu-Swift.h"
+- "/Users/user/Desktop/Lyhour project/lyhour/Build/Products/Debug-iphonesimulator/NVActivityIndicatorView/NVActivityIndicatorView.framework/Headers/NVActivityIndicatorView-Swift.h"
+- "/Users/user/Desktop/Lyhour project/lyhour/Pods/GooglePlaces/Frameworks/GooglePlaces.framework/Headers/GMSPlacesClient.h"
+- "/Users/user/Desktop/Lyhour project/lyhour/Pods/GooglePlaces/Frameworks/GooglePlaces.framework/Headers/GMSAutocompleteMatchFragment.h"
+- "/Users/user/Desktop/Lyhour project/lyhour/Pods/GooglePlaces/Frameworks/GooglePlaces.framework/Headers/GMSAddressComponent.h"
+- "/Users/user/Desktop/Lyhour project/lyhour/Pods/GooglePlaces/Frameworks/GooglePlaces.framework/Headers/GMSPlacePhotoMetadataList.h"
+- "/Users/user/Desktop/Lyhour project/lyhour/Pods/GooglePlaces/Frameworks/GooglePlaces.framework/Headers/GMSPlaceLikelihoodList.h"
+- "/Users/user/Desktop/Lyhour project/lyhour/Pods/GoogleMaps/Maps/Frameworks/GoogleMaps.framework/Headers/GMSPanoramaView.h"
+- "/Users/user/Desktop/Lyhour project/lyhour/Build/Products/Debug-iphonesimulator/MXParallaxHeader/MXParallaxHeader.framework/Headers/MXScrollView.h"
+- "/Users/user/Desktop/Lyhour project/lyhour/Pods/GoogleMaps/Maps/Frameworks/GoogleMaps.framework/Headers/GMSMapView.h"
+- "/Users/user/Desktop/Lyhour project/lyhour/Build/Products/Debug-iphonesimulator/MXPagerView/MXPagerView.framework/Headers/MXPagerView.h"
+- "/Users/user/Desktop/Lyhour project/lyhour/Pods/GoogleMaps/Maps/Frameworks/GoogleMaps.framework/Headers/GMSIndoorDisplay.h"
+- "/Users/user/Desktop/Lyhour project/lyhour/Pods/GoogleMaps/Maps/Frameworks/GoogleMaps.framework/Headers/GMSOverlay.h"
+- "/Users/user/Desktop/Lyhour project/lyhour/Pods/GoogleMaps/Maps/Frameworks/GoogleMaps.framework/Headers/GMSGroundOverlay.h"
+- "/Users/user/Desktop/Lyhour project/lyhour/Build/Products/Debug-iphonesimulator/SwiftyJSON/SwiftyJSON.framework/Modules/module.modulemap"
+- "/Users/user/Desktop/Lyhour project/lyhour/Build/Products/Debug-iphonesimulator/SwinjectStoryboard/SwinjectStoryboard.framework/Modules/module.modulemap"
+- "/Users/user/Desktop/Lyhour project/lyhour/Build/Products/Debug-iphonesimulator/Alamofire/Alamofire.framework/Modules/module.modulemap"
+- "/Users/user/Desktop/Lyhour project/lyhour/Pods/GoogleMaps/Base/Frameworks/GoogleMapsBase.framework/Modules/module.modulemap"
+- "/Users/user/Desktop/Lyhour project/lyhour/Build/Products/Debug-iphonesimulator/Material/Material.framework/Modules/module.modulemap"
+- "/Users/user/Desktop/Lyhour project/lyhour/Build/Products/Debug-iphonesimulator/HMSegmentedControl/HMSegmentedControl.framework/Modules/module.modulemap"
+- "/Users/user/Desktop/Lyhour project/lyhour/Build/Products/Debug-iphonesimulator/Motion/Motion.framework/Modules/module.modulemap"
+- "/Users/user/Desktop/Lyhour project/lyhour/Build/Products/Debug-iphonesimulator/MXParallaxHeader/MXParallaxHeader.framework/Modules/module.modulemap"
+- "/Users/user/Desktop/Lyhour project/lyhour/Build/Products/Debug-iphonesimulator/MXSegmentedPager/MXSegmentedPager.framework/Modules/module.modulemap"
+- "/Users/user/Desktop/Lyhour project/lyhour/Pods/GooglePlaces/Frameworks/GooglePlaces.framework/Modules/module.modulemap"
+- "/Users/user/Desktop/Lyhour project/lyhour/Pods/GoogleMaps/Maps/Frameworks/GoogleMaps.framework/Modules/module.modulemap"
+- "/Users/user/Desktop/Lyhour project/lyhour/Build/Products/Debug-iphonesimulator/Swinject/Swinject.framework/Modules/module.modulemap"
+- "/Users/user/Desktop/Lyhour project/lyhour/Build/Products/Debug-iphonesimulator/CryptoSwift/CryptoSwift.framework/Modules/module.modulemap"
+- "/Users/user/Desktop/Lyhour project/lyhour/Build/Products/Debug-iphonesimulator/DeviceKit/DeviceKit.framework/Modules/module.modulemap"
+- "/Users/user/Desktop/Lyhour project/lyhour/Build/Products/Debug-iphonesimulator/PhoneNumberKit/PhoneNumberKit.framework/Modules/module.modulemap"
+- "/Users/user/Desktop/Lyhour project/lyhour/Build/Products/Debug-iphonesimulator/SideMenu/SideMenu.framework/Modules/module.modulemap"
+- "/Users/user/Desktop/Lyhour project/lyhour/Build/Products/Debug-iphonesimulator/MXPagerView/MXPagerView.framework/Modules/module.modulemap"
+- "/Users/user/Desktop/Lyhour project/lyhour/Build/Products/Debug-iphonesimulator/NVActivityIndicatorView/NVActivityIndicatorView.framework/Modules/module.modulemap"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.0.sdk/usr/include/objc/ObjectiveC.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.0.sdk/System/Library/Frameworks/ModelIO.framework/Headers/ModelIO.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.0.sdk/System/Library/Frameworks/OpenGLES.framework/Headers/OpenGLES.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.0.sdk/System/Library/Frameworks/CoreMedia.framework/Headers/CoreMedia.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.0.sdk/System/Library/Frameworks/CoreImage.framework/Headers/CoreImage.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.0.sdk/System/Library/Frameworks/QuartzCore.framework/Headers/QuartzCore.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.0.sdk/System/Library/Frameworks/Accelerate.framework/Headers/Accelerate.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.0.sdk/System/Library/Frameworks/Metal.framework/Headers/Metal.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.0.sdk/usr/include/Darwin.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.0.sdk/System/Library/Frameworks/CoreLocation.framework/Headers/CoreLocation.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.0.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.0.sdk/System/Library/Frameworks/AVFoundation.framework/Headers/AVFoundation.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.0.sdk/System/Library/Frameworks/CoreGraphics.framework/Headers/CoreGraphics.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.0.sdk/System/Library/Frameworks/Contacts.framework/Headers/Contacts.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.0.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.0.sdk/System/Library/Frameworks/MetalKit.framework/Headers/MetalKit.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.0.sdk/System/Library/Frameworks/CoreText.framework/Headers/CoreText.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.0.sdk/System/Library/Frameworks/MediaToolbox.framework/Headers/MediaToolbox.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.0.sdk/System/Library/Frameworks/AudioToolbox.framework/Headers/AudioToolbox.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.0.sdk/System/Library/Frameworks/Security.framework/Headers/Security.apinotes"
+interface-hash: "82e5925d972774faea1b530d3fd12f90"

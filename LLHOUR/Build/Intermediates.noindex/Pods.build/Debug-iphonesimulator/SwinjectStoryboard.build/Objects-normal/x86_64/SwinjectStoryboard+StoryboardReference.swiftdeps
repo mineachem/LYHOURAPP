@@ -1,0 +1,266 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+provides-nominal:
+provides-member:
+- ["18SwinjectStoryboardAAC", ""]
+- ["18SwinjectStoryboardAAC", "pushInstantiatingStoryboard"]
+- ["18SwinjectStoryboardAAC", "popInstantiatingStoryboard"]
+- ["18SwinjectStoryboardAAC", "isCreatingStoryboardReference"]
+- ["18SwinjectStoryboardAAC", "referencingStoryboard"]
+- ["18SwinjectStoryboardAAC", "createReferenced"]
+provides-dynamic-lookup:
+- "createReferenced"
+- "isCreatingStoryboardReference"
+- "popInstantiatingStoryboard"
+- "pushInstantiatingStoryboard"
+- "referencingStoryboard"
+depends-top-level:
+- !private "!="
+- "Bool"
+- "Bundle"
+- "String"
+- "SwinjectStoryboard"
+- !private "storyboardStack"
+depends-member:
+- !private ["Sa", "append"]
+- ["Sa", "init"]
+- !private ["Sa", "last"]
+- !private ["Sa", "popLast"]
+- !private ["s13ArrayProtocolP", "append"]
+- ["s13ArrayProtocolP", "init"]
+- !private ["s13ArrayProtocolP", "last"]
+- !private ["s13ArrayProtocolP", "popLast"]
+- !private ["SK", "append"]
+- ["SK", "init"]
+- !private ["SK", "last"]
+- !private ["SK", "popLast"]
+- !private ["18SwinjectStoryboard3BoxC", "value"]
+- !private ["s7CVarArgP", "append"]
+- !private ["s7CVarArgP", "container"]
+- !private ["s7CVarArgP", "create"]
+- ["s7CVarArgP", "init"]
+- !private ["s7CVarArgP", "last"]
+- !private ["s7CVarArgP", "popLast"]
+- !private ["s7CVarArgP", "referencingStoryboard"]
+- !private ["s7CVarArgP", "storyboardStack"]
+- !private ["Sl", "append"]
+- ["Sl", "init"]
+- !private ["Sl", "last"]
+- !private ["Sl", "popLast"]
+- !private ["s28CustomDebugStringConvertibleP", "append"]
+- !private ["s28CustomDebugStringConvertibleP", "container"]
+- !private ["s28CustomDebugStringConvertibleP", "create"]
+- ["s28CustomDebugStringConvertibleP", "init"]
+- !private ["s28CustomDebugStringConvertibleP", "last"]
+- !private ["s28CustomDebugStringConvertibleP", "popLast"]
+- !private ["s28CustomDebugStringConvertibleP", "referencingStoryboard"]
+- !private ["s28CustomDebugStringConvertibleP", "storyboardStack"]
+- !private ["s28CustomDebugStringConvertibleP", "value"]
+- !private ["s17CustomReflectableP", "append"]
+- ["s17CustomReflectableP", "init"]
+- !private ["s17CustomReflectableP", "last"]
+- !private ["s17CustomReflectableP", "popLast"]
+- !private ["s17CustomReflectableP", "value"]
+- !private ["s23CustomStringConvertibleP", "append"]
+- !private ["s23CustomStringConvertibleP", "container"]
+- !private ["s23CustomStringConvertibleP", "create"]
+- ["s23CustomStringConvertibleP", "init"]
+- !private ["s23CustomStringConvertibleP", "last"]
+- !private ["s23CustomStringConvertibleP", "popLast"]
+- !private ["s23CustomStringConvertibleP", "referencingStoryboard"]
+- !private ["s23CustomStringConvertibleP", "storyboardStack"]
+- !private ["Se", "append"]
+- ["Se", "init"]
+- !private ["Se", "last"]
+- !private ["Se", "popLast"]
+- !private ["Se", "value"]
+- !private ["SE", "append"]
+- ["SE", "init"]
+- !private ["SE", "last"]
+- !private ["SE", "popLast"]
+- !private ["SE", "value"]
+- !private ["SQ", "append"]
+- !private ["SQ", "container"]
+- !private ["SQ", "create"]
+- ["SQ", "init"]
+- !private ["SQ", "last"]
+- !private ["SQ", "popLast"]
+- !private ["SQ", "referencingStoryboard"]
+- !private ["SQ", "storyboardStack"]
+- !private ["SQ", "value"]
+- !private ["s25ExpressibleByArrayLiteralP", "append"]
+- ["s25ExpressibleByArrayLiteralP", "init"]
+- !private ["s25ExpressibleByArrayLiteralP", "last"]
+- !private ["s25ExpressibleByArrayLiteralP", "popLast"]
+- !private ["s23ExpressibleByNilLiteralP", "value"]
+- !private ["SH", "append"]
+- !private ["SH", "container"]
+- !private ["SH", "create"]
+- ["SH", "init"]
+- !private ["SH", "last"]
+- !private ["SH", "popLast"]
+- !private ["SH", "referencingStoryboard"]
+- !private ["SH", "storyboardStack"]
+- !private ["SH", "value"]
+- !private ["8Swinject15InstanceWrapperP", "value"]
+- !private ["SM", "append"]
+- ["SM", "init"]
+- !private ["SM", "last"]
+- !private ["SM", "popLast"]
+- ["So8NSObjectC", "Bool"]
+- ["So8NSObjectC", "Bundle"]
+- ["So8NSObjectC", "String"]
+- ["So8NSObjectC", "SwinjectStoryboard"]
+- !private ["So8NSObjectC", "container"]
+- !private ["So8NSObjectC", "create"]
+- ["So8NSObjectC", "createReferenced"]
+- ["So8NSObjectC", "isCreatingStoryboardReference"]
+- ["So8NSObjectC", "popInstantiatingStoryboard"]
+- ["So8NSObjectC", "pushInstantiatingStoryboard"]
+- ["So8NSObjectC", "referencingStoryboard"]
+- !private ["So8NSObjectC", "storyboardStack"]
+- !private ["So8NSObjectP", "container"]
+- !private ["So8NSObjectP", "create"]
+- !private ["So8NSObjectP", "referencingStoryboard"]
+- !private ["So8NSObjectP", "storyboardStack"]
+- !private ["Sq", "value"]
+- !private ["Sk", "append"]
+- ["Sk", "init"]
+- !private ["Sk", "last"]
+- !private ["Sk", "popLast"]
+- !private ["Sm", "append"]
+- ["Sm", "init"]
+- !private ["Sm", "last"]
+- !private ["Sm", "popLast"]
+- !private ["ST", "append"]
+- ["ST", "init"]
+- !private ["ST", "last"]
+- !private ["ST", "popLast"]
+- ["18SwinjectStoryboardAAC", "Bool"]
+- ["18SwinjectStoryboardAAC", "Bundle"]
+- ["18SwinjectStoryboardAAC", "String"]
+- ["18SwinjectStoryboardAAC", "SwinjectStoryboard"]
+- !private ["18SwinjectStoryboardAAC", "container"]
+- !private ["18SwinjectStoryboardAAC", "create"]
+- ["18SwinjectStoryboardAAC", "createReferenced"]
+- !private ["18SwinjectStoryboardAAC", "deinit"]
+- ["18SwinjectStoryboardAAC", "isCreatingStoryboardReference"]
+- ["18SwinjectStoryboardAAC", "popInstantiatingStoryboard"]
+- ["18SwinjectStoryboardAAC", "pushInstantiatingStoryboard"]
+- ["18SwinjectStoryboardAAC", "referencingStoryboard"]
+- !private ["18SwinjectStoryboardAAC", "storyboardStack"]
+- !private ["So26SwinjectStoryboardProtocolP", "container"]
+- !private ["So26SwinjectStoryboardProtocolP", "create"]
+- !private ["So26SwinjectStoryboardProtocolP", "referencingStoryboard"]
+- !private ["So26SwinjectStoryboardProtocolP", "storyboardStack"]
+- ["So12UIStoryboardC", "Bool"]
+- ["So12UIStoryboardC", "Bundle"]
+- ["So12UIStoryboardC", "String"]
+- ["So12UIStoryboardC", "SwinjectStoryboard"]
+- !private ["So12UIStoryboardC", "container"]
+- !private ["So12UIStoryboardC", "create"]
+- ["So12UIStoryboardC", "createReferenced"]
+- ["So12UIStoryboardC", "isCreatingStoryboardReference"]
+- ["So12UIStoryboardC", "popInstantiatingStoryboard"]
+- ["So12UIStoryboardC", "pushInstantiatingStoryboard"]
+- ["So12UIStoryboardC", "referencingStoryboard"]
+- !private ["So12UIStoryboardC", "storyboardStack"]
+- !private ["s24_DestructorSafeContainerP", "append"]
+- ["s24_DestructorSafeContainerP", "init"]
+- !private ["s24_DestructorSafeContainerP", "last"]
+- !private ["s24_DestructorSafeContainerP", "popLast"]
+- !private ["s35_HasCustomAnyHashableRepresentationP", "append"]
+- ["s35_HasCustomAnyHashableRepresentationP", "init"]
+- !private ["s35_HasCustomAnyHashableRepresentationP", "last"]
+- !private ["s35_HasCustomAnyHashableRepresentationP", "popLast"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "container"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "create"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "referencingStoryboard"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "storyboardStack"]
+- !private ["s21_ObjectiveCBridgeableP", "append"]
+- ["s21_ObjectiveCBridgeableP", "init"]
+- !private ["s21_ObjectiveCBridgeableP", "last"]
+- !private ["s21_ObjectiveCBridgeableP", "popLast"]
+- !private ["s21_ObjectiveCBridgeableP", "value"]
+- ["So23_SwinjectStoryboardBaseC", "Bool"]
+- ["So23_SwinjectStoryboardBaseC", "Bundle"]
+- ["So23_SwinjectStoryboardBaseC", "String"]
+- ["So23_SwinjectStoryboardBaseC", "SwinjectStoryboard"]
+- !private ["So23_SwinjectStoryboardBaseC", "container"]
+- !private ["So23_SwinjectStoryboardBaseC", "create"]
+- ["So23_SwinjectStoryboardBaseC", "createReferenced"]
+- ["So23_SwinjectStoryboardBaseC", "isCreatingStoryboardReference"]
+- ["So23_SwinjectStoryboardBaseC", "popInstantiatingStoryboard"]
+- ["So23_SwinjectStoryboardBaseC", "pushInstantiatingStoryboard"]
+- ["So23_SwinjectStoryboardBaseC", "referencingStoryboard"]
+- !private ["So23_SwinjectStoryboardBaseC", "storyboardStack"]
+depends-nominal:
+- "Sa"
+- "s13ArrayProtocolP"
+- "SK"
+- !private "18SwinjectStoryboard3BoxC"
+- "s7CVarArgP"
+- "Sl"
+- "s28CustomDebugStringConvertibleP"
+- "s17CustomReflectableP"
+- "s23CustomStringConvertibleP"
+- "Se"
+- "SE"
+- "SQ"
+- "s25ExpressibleByArrayLiteralP"
+- !private "s23ExpressibleByNilLiteralP"
+- "SH"
+- !private "8Swinject15InstanceWrapperP"
+- "SM"
+- "So8NSObjectC"
+- !private "So8NSObjectP"
+- !private "Sq"
+- "Sk"
+- "Sm"
+- "ST"
+- "18SwinjectStoryboardAAC"
+- !private "So26SwinjectStoryboardProtocolP"
+- "So12UIStoryboardC"
+- "s24_DestructorSafeContainerP"
+- "s35_HasCustomAnyHashableRepresentationP"
+- !private "10Foundation27_KeyValueCodingAndObservingP"
+- "s21_ObjectiveCBridgeableP"
+- "So23_SwinjectStoryboardBaseC"
+depends-dynamic-lookup:
+depends-external:
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Dispatch.apinotesc"
+- "/Users/user/Desktop/Lyhour project/lyhour/Build/Products/Debug-iphonesimulator/Swinject/Swinject.framework/Modules/Swinject.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/ObjectiveC.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreImage.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/QuartzCore.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Dispatch.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Metal.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Darwin.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Foundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreFoundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreGraphics.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Swift.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/UIKit.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/SwiftOnoneSupport.swiftmodule"
+- "/Users/user/Desktop/Lyhour project/lyhour/Pods/Target Support Files/SwinjectStoryboard/SwinjectStoryboard-umbrella.h"
+- "/Users/user/Desktop/Lyhour project/lyhour/Pods/Target Support Files/Swinject/Swinject-umbrella.h"
+- "/Users/user/Desktop/Lyhour project/lyhour/Pods/SwinjectStoryboard/Sources/SwinjectStoryboard.h"
+- "/Users/user/Desktop/Lyhour project/lyhour/Pods/SwinjectStoryboard/Sources/iOS-tvOS/_SwinjectStoryboardBase.h"
+- "/Users/user/Desktop/Lyhour project/lyhour/Pods/SwinjectStoryboard/Sources/iOS-tvOS/UIStoryboard+Swizzling.h"
+- "/Users/user/Desktop/Lyhour project/lyhour/Pods/SwinjectStoryboard/Sources/SwinjectStoryboardProtocol.h"
+- "/Users/user/Desktop/Lyhour project/lyhour/Pods/Swinject/Sources/Swinject.h"
+- "/Users/user/Desktop/Lyhour project/lyhour/Build/Products/Debug-iphonesimulator/Swinject/Swinject.framework/Headers/Swinject-Swift.h"
+- "/Users/user/Desktop/Lyhour project/lyhour/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/SwinjectStoryboard.build/unextended-module.modulemap"
+- "/Users/user/Desktop/Lyhour project/lyhour/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/Swinject.build/module.modulemap"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.0.sdk/usr/include/objc/ObjectiveC.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.0.sdk/System/Library/Frameworks/OpenGLES.framework/Headers/OpenGLES.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.0.sdk/System/Library/Frameworks/CoreImage.framework/Headers/CoreImage.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.0.sdk/System/Library/Frameworks/QuartzCore.framework/Headers/QuartzCore.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.0.sdk/System/Library/Frameworks/Metal.framework/Headers/Metal.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.0.sdk/usr/include/Darwin.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.0.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.0.sdk/System/Library/Frameworks/CoreGraphics.framework/Headers/CoreGraphics.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.0.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.0.sdk/System/Library/Frameworks/CoreText.framework/Headers/CoreText.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.0.sdk/System/Library/Frameworks/Security.framework/Headers/Security.apinotes"
+interface-hash: "1d9204888cff85fd5fa7fc65bc6ef79f"

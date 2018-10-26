@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.Storyboard.XIB" version="3.0" toolsVersion="14313.18" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" useSafeAreas="YES" colorMatched="YES" initialViewController="Anx-eC-6mC">
+    <device id="retina4_7" orientation="portrait">
+        <adaptation id="fullscreen"/>
+    </device>
+    <dependencies>
+        <deployment identifier="iOS"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="14283.14"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
+    </dependencies>
+    <scenes>
+        <!--Notification Table View Controller-->
+        <scene sceneID="FI3-6L-ijZ">
+            <objects>
+                <tableViewController storyboardIdentifier="NotificationController" id="QaI-hV-syo" customClass="NotificationTableViewController" customModule="LHPPWallet" customModuleProvider="target" sceneMemberID="viewController">
+                    <tableView key="view" clipsSubviews="YES" contentMode="scaleToFill" alwaysBounceVertical="YES" dataMode="prototypes" style="plain" separatorStyle="none" rowHeight="-1" estimatedRowHeight="-1" sectionHeaderHeight="28" sectionFooterHeight="28" id="oCS-gm-eQP">
+                        <rect key="frame" x="0.0" y="0.0" width="375" height="667"/>
+                        <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+                        <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                        <prototypes>
+                            <tableViewCell clipsSubviews="YES" contentMode="scaleToFill" preservesSuperviewLayoutMargins="YES" selectionStyle="default" indentationWidth="10" reuseIdentifier="notificationCell" rowHeight="110" id="a3E-BW-MiB" customClass="NotificationCell" customModule="LHPPWallet" customModuleProvider="target">
+                                <rect key="frame" x="0.0" y="28" width="375" height="110"/>
+                                <autoresizingMask key="autoresizingMask"/>
+                                <tableViewCellContentView key="contentView" opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center" preservesSuperviewLayoutMargins="YES" insetsLayoutMarginsFromSafeArea="NO" tableViewCell="a3E-BW-MiB" id="E81-8b-hxE">
+                                    <rect key="frame" x="0.0" y="0.0" width="375" height="110"/>
+                                    <autoresizingMask key="autoresizingMask"/>
+                                    <subviews>
+                                        <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="ZJc-j4-Ttt" customClass="CustomUIView" customModule="LHPPWallet" customModuleProvider="target">
+                                            <rect key="frame" x="0.0" y="11.5" width="375" height="87.5"/>
+                                            <subviews>
+                                                <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="20% Discount on Toul les Jours" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" minimumScaleFactor="0.5" translatesAutoresizingMaskIntoConstraints="NO" id="tls-Qm-Yi0">
+                                                    <rect key="frame" x="56" y="9" width="207" height="17"/>
+                                                    <fontDescription key="fontDescription" type="system" weight="medium" pointSize="14"/>
+                                                    <nil key="textColor"/>
+                                                    <nil key="highlightedColor"/>
+                                                </label>
+                                                <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Pay at any outlet using Ly Wallet and get a flat discount" lineBreakMode="tailTruncation" numberOfLines="2" baselineAdjustment="alignBaselines" minimumScaleFactor="0.5" translatesAutoresizingMaskIntoConstraints="NO" id="eDb-5D-UmJ">
+                                                    <rect key="frame" x="56" y="28" width="279" height="33.5"/>
+                                                    <fontDescription key="fontDescription" type="system" pointSize="14"/>
+                                                    <color key="textColor" white="0.66666666669999997" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                                                    <color key="highlightedColor" white="0.66666666669999997" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                                                </label>
+                                                <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="10 Dec 2017 03:45PM" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="lqy-hh-HyY">
+                                                    <rect key="frame" x="56" y="66.5" width="277" height="15"/>
+                                                    <fontDescription key="fontDescription" type="system" pointSize="12"/>
+                                                    <color key="textColor" white="0.66666666669999997" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                                                    <nil key="highlightedColor"/>
+                                                </label>
+                                                <imageView userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="tousles_jourslogo" translatesAutoresizingMaskIntoConstraints="NO" id="4r3-uY-6tx">
+                                                    <rect key="frame" x="8" y="19" width="40" height="40"/>
+                                                    <constraints>
+                                                        <constraint firstAttribute="height" constant="40" id="EAj-EF-KCd"/>
+                                                        <constraint firstAttribute="width" constant="40" id="aR1-Kc-rzY"/>
+                                                    </constraints>
+                                                </imageView>
+                                            </subviews>
+                                            <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                                            <constraints>
+                                                <constraint firstItem="4r3-uY-6tx" firstAttribute="leading" secondItem="ZJc-j4-Ttt" secondAttribute="leading" constant="8" id="79C-3C-zAo"/>
+                                                <constraint firstAttribute="bottom" secondItem="4r3-uY-6tx" secondAttribute="bottom" constant="18.5" id="Bu6-0Z-2bj"/>
+                                                <constraint firstItem="eDb-5D-UmJ" firstAttribute="top" secondItem="tls-Qm-Yi0" secondAttribute="bottom" constant="2" id="C7o-d6-pGa"/>
+                                                <constraint firstItem="lqy-hh-HyY" firstAttribute="leading" secondItem="ZJc-j4-Ttt" secondAttribute="leading" constant="56" id="Uvc-0e-gPx"/>
+                                                <constraint firstItem="eDb-5D-UmJ" firstAttribute="leading" secondItem="4r3-uY-6tx" secondAttribute="trailing" constant="8" id="VGR-u7-znZ"/>
+                                                <constraint firstItem="tls-Qm-Yi0" firstAttribute="leading" secondItem="4r3-uY-6tx" secondAttribute="trailing" constant="8" id="eXN-6I-n3y"/>
+                                                <constraint firstAttribute="bottom" secondItem="lqy-hh-HyY" secondAttribute="bottom" constant="6" id="eaF-4y-hVX"/>
+                                                <constraint firstAttribute="trailing" secondItem="eDb-5D-UmJ" secondAttribute="trailing" constant="40" id="k4N-Pd-Gno"/>
+                                                <constraint firstItem="lqy-hh-HyY" firstAttribute="top" secondItem="eDb-5D-UmJ" secondAttribute="bottom" constant="5" id="n58-hD-3QN"/>
+                                                <constraint firstAttribute="trailing" secondItem="lqy-hh-HyY" secondAttribute="trailing" constant="42" id="sBu-8N-fcX"/>
+                                                <constraint firstItem="4r3-uY-6tx" firstAttribute="top" secondItem="ZJc-j4-Ttt" secondAttribute="top" constant="19" id="sC6-aW-19S"/>
+                                                <constraint firstItem="tls-Qm-Yi0" firstAttribute="top" secondItem="ZJc-j4-Ttt" secondAttribute="top" constant="9" id="zlu-He-72M"/>
+                                            </constraints>
+                                            <userDefinedRuntimeAttributes>
+                                                <userDefinedRuntimeAttribute type="color" keyPath="bordersColor">
+                                                    <color key="value" white="0.33333333329999998" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                                                </userDefinedRuntimeAttribute>
+                                                <userDefinedRuntimeAttribute type="color" keyPath="shadowsColor">
+                                                    <color key="value" white="0.33333333329999998" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                                                </userDefinedRuntimeAttribute>
+                                                <userDefinedRuntimeAttribute type="number" keyPath="shadowOpacity">
+                                                    <real key="value" value="1"/>
+                                                </userDefinedRuntimeAttribute>
+                                                <userDefinedRuntimeAttribute type="size" keyPath="shadowOffset">
+                                                    <size key="value" width="1" height="1"/>
+                                                </userDefinedRuntimeAttribute>
+                                                <userDefinedRuntimeAttribute type="number" keyPath="shadowRadius">
+                                                    <real key="value" value="5"/>
+                                                </userDefinedRuntimeAttribute>
+                                            </userDefinedRuntimeAttributes>
+                                        </view>
+                                    </subviews>
+                                    <color key="backgroundColor" red="0.93323183059692383" green="0.9333917498588562" blue="0.93322181701660156" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                                    <constraints>
+                                        <constraint firstAttribute="trailing" secondItem="ZJc-j4-Ttt" secondAttribute="trailing" id="93t-oo-Oze"/>
+                                        <constraint firstItem="ZJc-j4-Ttt" firstAttribute="top" secondItem="E81-8b-hxE" secondAttribute="top" constant="11.5" id="LU4-Yx-Mb4"/>
+                                        <constraint firstAttribute="bottom" secondItem="ZJc-j4-Ttt" secondAttribute="bottom" id="T1i-F5-pVc"/>
+                                        <constraint firstItem="ZJc-j4-Ttt" firstAttribute="leading" secondItem="E81-8b-hxE" secondAttribute="leading" id="zUI-0Y-n7m"/>
+                                    </constraints>
+                                </tableViewCellContentView>
+                                <connections>
+                                    <outlet property="dateTimeLabel" destination="lqy-hh-HyY" id="9d3-RI-QWD"/>
+                                    <outlet property="descriptionLabel" destination="eDb-5D-UmJ" id="DI8-QM-OOV"/>
+                                    <outlet property="logoImageView" destination="4r3-uY-6tx" id="vXG-K3-OZ6"/>
+                                    <outlet property="titleLabel" destination="tls-Qm-Yi0" id="ywT-60-4EO"/>
+                                </connections>
+                            </tableViewCell>
+                        </prototypes>
+                        <connections>
+                            <outlet property="dataSource" destination="QaI-hV-syo" id="pNY-OD-nwq"/>
+                            <outlet property="delegate" destination="QaI-hV-syo" id="ObO-Ks-ToM"/>
+                        </connections>
+                    </tableView>
+                    <navigationItem key="navigationItem" id="Szp-z8-Aid">
+                        <barButtonItem key="leftBarButtonItem" image="backspace_white_24pt" id="Uqo-fD-Mym">
+                            <color key="tintColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                            <connections>
+                                <action selector="backButtonTapped:" destination="QaI-hV-syo" id="hBo-ve-YOH"/>
+                            </connections>
+                        </barButtonItem>
+                    </navigationItem>
+                </tableViewController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="ZpY-dV-1mI" userLabel="First Responder" sceneMemberID="firstResponder"/>
+            </objects>
+            <point key="canvasLocation" x="-316" y="-161.46926536731635"/>
+        </scene>
+        <!--Navigation Controller-->
+        <scene sceneID="zvk-4M-l6C">
+            <objects>
+                <navigationController automaticallyAdjustsScrollViewInsets="NO" id="Anx-eC-6mC" sceneMemberID="viewController">
+                    <toolbarItems/>
+                    <navigationBar key="navigationBar" contentMode="scaleToFill" insetsLayoutMarginsFromSafeArea="NO" id="SDU-gl-jxm">
+                        <rect key="frame" x="0.0" y="20" width="375" height="44"/>
+                        <autoresizingMask key="autoresizingMask"/>
+                        <color key="barTintColor" red="0.14905288820000001" green="0.40270382170000002" blue="0.64353340859999997" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                    </navigationBar>
+                    <nil name="viewControllers"/>
+                    <connections>
+                        <segue destination="QaI-hV-syo" kind="relationship" relationship="rootViewController" id="MVP-Lf-aK2"/>
+                    </connections>
+                </navigationController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="gTi-B6-tNa" userLabel="First Responder" sceneMemberID="firstResponder"/>
+            </objects>
+            <point key="canvasLocation" x="-1127.2" y="-160.56971514242881"/>
+        </scene>
+    </scenes>
+    <resources>
+        <image name="backspace_white_24pt" width="48" height="48"/>
+        <image name="tousles_jourslogo" width="120" height="120"/>
+    </resources>
+</document>

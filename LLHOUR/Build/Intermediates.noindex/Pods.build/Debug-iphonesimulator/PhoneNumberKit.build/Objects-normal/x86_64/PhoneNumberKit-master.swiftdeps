@@ -1,0 +1,16 @@
+version: "Apple Swift version 4.2 (swiftlang-1000.11.37.1 clang-1000.11.45.1)"
+options: "a468836faba4557594b67d3ff26c8870"
+build_time: [1540552183, 283807000]
+inputs:
+  "/Users/user/Desktop/Lyhour project/lyhour/Pods/PhoneNumberKit/PhoneNumberKit/Constants.swift": [1540179176, 0]
+  "/Users/user/Desktop/Lyhour project/lyhour/Pods/PhoneNumberKit/PhoneNumberKit/Formatter.swift": [1540179176, 0]
+  "/Users/user/Desktop/Lyhour project/lyhour/Pods/PhoneNumberKit/PhoneNumberKit/MetadataManager.swift": [1540179176, 0]
+  "/Users/user/Desktop/Lyhour project/lyhour/Pods/PhoneNumberKit/PhoneNumberKit/MetadataTypes.swift": [1540179176, 0]
+  "/Users/user/Desktop/Lyhour project/lyhour/Pods/PhoneNumberKit/PhoneNumberKit/NSRegularExpression+Swift.swift": [1540179176, 0]
+  "/Users/user/Desktop/Lyhour project/lyhour/Pods/PhoneNumberKit/PhoneNumberKit/ParseManager.swift": [1540179176, 0]
+  "/Users/user/Desktop/Lyhour project/lyhour/Pods/PhoneNumberKit/PhoneNumberKit/PartialFormatter.swift": [1540179176, 0]
+  "/Users/user/Desktop/Lyhour project/lyhour/Pods/PhoneNumberKit/PhoneNumberKit/PhoneNumber.swift": [1540179176, 0]
+  "/Users/user/Desktop/Lyhour project/lyhour/Pods/PhoneNumberKit/PhoneNumberKit/PhoneNumberKit.swift": [1540179176, 0]
+  "/Users/user/Desktop/Lyhour project/lyhour/Pods/PhoneNumberKit/PhoneNumberKit/PhoneNumberParser.swift": [1540179176, 0]
+  "/Users/user/Desktop/Lyhour project/lyhour/Pods/PhoneNumberKit/PhoneNumberKit/RegexManager.swift": [1540179176, 0]
+  "/Users/user/Desktop/Lyhour project/lyhour/Pods/PhoneNumberKit/PhoneNumberKit/UI/TextField.swift": [1540179176, 0]

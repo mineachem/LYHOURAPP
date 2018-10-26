@@ -1,0 +1,830 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+- "MotionTransitionAnimationType"
+- "TransitionPreprocessor"
+provides-nominal:
+- "6Motion0A23TransitionAnimationTypeO"
+- "6Motion0A23TransitionAnimationTypeO9DirectionO"
+- "6Motion22TransitionPreprocessorC"
+provides-member:
+- ["6Motion0A23TransitionAnimationTypeO", ""]
+- ["6Motion0A23TransitionAnimationTypeO9DirectionO", ""]
+- ["6Motion22TransitionPreprocessorC", ""]
+provides-dynamic-lookup:
+depends-top-level:
+- !private "!"
+- !private "&&"
+- !private "-"
+- !private "/"
+- !private "<"
+- "=="
+- !private "??"
+- !private "Array"
+- "AssignmentPrecedence"
+- "Bool"
+- !private "BooleanLiteralType"
+- "CGPoint"
+- "CGSize"
+- !private "FloatLiteralType"
+- !private "IntegerLiteralType"
+- "MotionCorePreprocessor"
+- !private "MotionModifier"
+- "MotionTransitionAnimationType"
+- !private "StringLiteralType"
+- "TernaryPrecedence"
+- "TransitionPreprocessor"
+- "UIView"
+- !private "fatalError"
+- !private "||"
+depends-member:
+- !private ["Sa", "contains"]
+- !private ["s13ArrayProtocolP", "contains"]
+- !private ["SK", "contains"]
+- !private ["SK", "init"]
+- !private ["SK", "init"]
+- !private ["Sb", "_getBuiltinLogicValue"]
+- !private ["So15CALayerDelegateP", "backgroundColor"]
+- !private ["So15CALayerDelegateP", "bounds"]
+- !private ["So15CALayerDelegateP", "isOpaque"]
+- !private ["So21CAMediaTimingFunctionC", "deceleration"]
+- !private ["So21CAMediaTimingFunctionC", "standard"]
+- !private ["So7CGPointV", "init"]
+- !private ["So7CGPointV", "x"]
+- !private ["So7CGPointV", "y"]
+- !private ["So6CGRectV", "size"]
+- !private ["So6CGSizeV", "height"]
+- !private ["So6CGSizeV", "width"]
+- !private ["So6CGSizeV", "zero"]
+- !private ["s7CVarArgP", "_getBuiltinLogicValue"]
+- !private ["s7CVarArgP", "alphaComponent"]
+- !private ["s7CVarArgP", "animators"]
+- !private ["s7CVarArgP", "backgroundColor"]
+- !private ["s7CVarArgP", "black"]
+- !private ["s7CVarArgP", "bounds"]
+- !private ["s7CVarArgP", "contains"]
+- !private ["s7CVarArgP", "deceleration"]
+- !private ["s7CVarArgP", "defaultAnimation"]
+- !private ["s7CVarArgP", "fromOverFullScreen"]
+- !private ["s7CVarArgP", "fromView"]
+- !private ["s7CVarArgP", "fromViewController"]
+- !private ["s7CVarArgP", "init"]
+- !private ["s7CVarArgP", "init"]
+- !private ["s7CVarArgP", "isNavigationController"]
+- !private ["s7CVarArgP", "isOpaque"]
+- !private ["s7CVarArgP", "isPresenting"]
+- !private ["s7CVarArgP", "isTabBarController"]
+- !private ["s7CVarArgP", "motionNavigationTransitionType"]
+- !private ["s7CVarArgP", "motionTabBarTransitionType"]
+- !private ["s7CVarArgP", "motionTransitionType"]
+- !private ["s7CVarArgP", "navigationController"]
+- !private ["s7CVarArgP", "standard"]
+- !private ["s7CVarArgP", "tabBarController"]
+- !private ["s7CVarArgP", "toOverFullScreen"]
+- !private ["s7CVarArgP", "toView"]
+- !private ["s7CVarArgP", "toViewController"]
+- !private ["Sl", "contains"]
+- !private ["Sl", "init"]
+- !private ["Sl", "init"]
+- !private ["SL", "init"]
+- !private ["SL", "init"]
+- !private ["s28CustomDebugStringConvertibleP", "alphaComponent"]
+- !private ["s28CustomDebugStringConvertibleP", "animators"]
+- !private ["s28CustomDebugStringConvertibleP", "backgroundColor"]
+- !private ["s28CustomDebugStringConvertibleP", "black"]
+- !private ["s28CustomDebugStringConvertibleP", "bounds"]
+- !private ["s28CustomDebugStringConvertibleP", "container"]
+- !private ["s28CustomDebugStringConvertibleP", "contains"]
+- !private ["s28CustomDebugStringConvertibleP", "deceleration"]
+- !private ["s28CustomDebugStringConvertibleP", "defaultAnimation"]
+- !private ["s28CustomDebugStringConvertibleP", "fromOverFullScreen"]
+- !private ["s28CustomDebugStringConvertibleP", "fromView"]
+- !private ["s28CustomDebugStringConvertibleP", "fromViewController"]
+- !private ["s28CustomDebugStringConvertibleP", "height"]
+- !private ["s28CustomDebugStringConvertibleP", "init"]
+- !private ["s28CustomDebugStringConvertibleP", "init"]
+- !private ["s28CustomDebugStringConvertibleP", "insertToViewFirst"]
+- !private ["s28CustomDebugStringConvertibleP", "isNavigationController"]
+- !private ["s28CustomDebugStringConvertibleP", "isOpaque"]
+- !private ["s28CustomDebugStringConvertibleP", "isPresenting"]
+- !private ["s28CustomDebugStringConvertibleP", "isTabBarController"]
+- !private ["s28CustomDebugStringConvertibleP", "motionNavigationTransitionType"]
+- !private ["s28CustomDebugStringConvertibleP", "motionTabBarTransitionType"]
+- !private ["s28CustomDebugStringConvertibleP", "motionTransitionType"]
+- !private ["s28CustomDebugStringConvertibleP", "navigationController"]
+- !private ["s28CustomDebugStringConvertibleP", "size"]
+- !private ["s28CustomDebugStringConvertibleP", "standard"]
+- !private ["s28CustomDebugStringConvertibleP", "subscript"]
+- !private ["s28CustomDebugStringConvertibleP", "tabBarController"]
+- !private ["s28CustomDebugStringConvertibleP", "toOverFullScreen"]
+- !private ["s28CustomDebugStringConvertibleP", "toView"]
+- !private ["s28CustomDebugStringConvertibleP", "toViewController"]
+- !private ["s28CustomDebugStringConvertibleP", "width"]
+- !private ["s28CustomDebugStringConvertibleP", "x"]
+- !private ["s28CustomDebugStringConvertibleP", "y"]
+- !private ["s28CustomDebugStringConvertibleP", "zero"]
+- !private ["s29CustomPlaygroundQuickLookableP", "_getBuiltinLogicValue"]
+- !private ["s29CustomPlaygroundQuickLookableP", "height"]
+- !private ["s29CustomPlaygroundQuickLookableP", "init"]
+- !private ["s29CustomPlaygroundQuickLookableP", "init"]
+- !private ["s29CustomPlaygroundQuickLookableP", "size"]
+- !private ["s29CustomPlaygroundQuickLookableP", "width"]
+- !private ["s29CustomPlaygroundQuickLookableP", "x"]
+- !private ["s29CustomPlaygroundQuickLookableP", "y"]
+- !private ["s29CustomPlaygroundQuickLookableP", "zero"]
+- !private ["s17CustomReflectableP", "_getBuiltinLogicValue"]
+- !private ["s17CustomReflectableP", "container"]
+- !private ["s17CustomReflectableP", "contains"]
+- !private ["s17CustomReflectableP", "height"]
+- !private ["s17CustomReflectableP", "init"]
+- !private ["s17CustomReflectableP", "init"]
+- !private ["s17CustomReflectableP", "insertToViewFirst"]
+- !private ["s17CustomReflectableP", "size"]
+- !private ["s17CustomReflectableP", "subscript"]
+- !private ["s17CustomReflectableP", "width"]
+- !private ["s17CustomReflectableP", "x"]
+- !private ["s17CustomReflectableP", "y"]
+- !private ["s17CustomReflectableP", "zero"]
+- !private ["s23CustomStringConvertibleP", "_getBuiltinLogicValue"]
+- !private ["s23CustomStringConvertibleP", "alphaComponent"]
+- !private ["s23CustomStringConvertibleP", "animators"]
+- !private ["s23CustomStringConvertibleP", "backgroundColor"]
+- !private ["s23CustomStringConvertibleP", "black"]
+- !private ["s23CustomStringConvertibleP", "bounds"]
+- !private ["s23CustomStringConvertibleP", "contains"]
+- !private ["s23CustomStringConvertibleP", "deceleration"]
+- !private ["s23CustomStringConvertibleP", "defaultAnimation"]
+- !private ["s23CustomStringConvertibleP", "fromOverFullScreen"]
+- !private ["s23CustomStringConvertibleP", "fromView"]
+- !private ["s23CustomStringConvertibleP", "fromViewController"]
+- !private ["s23CustomStringConvertibleP", "init"]
+- !private ["s23CustomStringConvertibleP", "init"]
+- !private ["s23CustomStringConvertibleP", "isNavigationController"]
+- !private ["s23CustomStringConvertibleP", "isOpaque"]
+- !private ["s23CustomStringConvertibleP", "isPresenting"]
+- !private ["s23CustomStringConvertibleP", "isTabBarController"]
+- !private ["s23CustomStringConvertibleP", "motionNavigationTransitionType"]
+- !private ["s23CustomStringConvertibleP", "motionTabBarTransitionType"]
+- !private ["s23CustomStringConvertibleP", "motionTransitionType"]
+- !private ["s23CustomStringConvertibleP", "navigationController"]
+- !private ["s23CustomStringConvertibleP", "standard"]
+- !private ["s23CustomStringConvertibleP", "tabBarController"]
+- !private ["s23CustomStringConvertibleP", "toOverFullScreen"]
+- !private ["s23CustomStringConvertibleP", "toView"]
+- !private ["s23CustomStringConvertibleP", "toViewController"]
+- !private ["Se", "_getBuiltinLogicValue"]
+- !private ["Se", "container"]
+- !private ["Se", "contains"]
+- !private ["Se", "height"]
+- !private ["Se", "init"]
+- !private ["Se", "init"]
+- !private ["Se", "insertToViewFirst"]
+- !private ["Se", "size"]
+- !private ["Se", "subscript"]
+- !private ["Se", "width"]
+- !private ["Se", "x"]
+- !private ["Se", "y"]
+- !private ["Se", "zero"]
+- ["6Motion0A23TransitionAnimationTypeO9DirectionO", "__derived_enum_equals"]
+- ["6Motion0A23TransitionAnimationTypeO9DirectionO", "deinit"]
+- ["6Motion0A23TransitionAnimationTypeO9DirectionO", "down"]
+- ["6Motion0A23TransitionAnimationTypeO9DirectionO", "hash"]
+- ["6Motion0A23TransitionAnimationTypeO9DirectionO", "hashValue"]
+- ["6Motion0A23TransitionAnimationTypeO9DirectionO", "left"]
+- ["6Motion0A23TransitionAnimationTypeO9DirectionO", "right"]
+- ["6Motion0A23TransitionAnimationTypeO9DirectionO", "up"]
+- !private ["SE", "_getBuiltinLogicValue"]
+- !private ["SE", "container"]
+- !private ["SE", "contains"]
+- !private ["SE", "height"]
+- !private ["SE", "init"]
+- !private ["SE", "init"]
+- !private ["SE", "insertToViewFirst"]
+- !private ["SE", "size"]
+- !private ["SE", "subscript"]
+- !private ["SE", "width"]
+- !private ["SE", "x"]
+- !private ["SE", "y"]
+- !private ["SE", "zero"]
+- ["SQ", ""]
+- !private ["SQ", "_getBuiltinLogicValue"]
+- !private ["SQ", "alphaComponent"]
+- !private ["SQ", "animators"]
+- !private ["SQ", "backgroundColor"]
+- !private ["SQ", "black"]
+- !private ["SQ", "bounds"]
+- !private ["SQ", "container"]
+- !private ["SQ", "contains"]
+- !private ["SQ", "deceleration"]
+- !private ["SQ", "defaultAnimation"]
+- ["SQ", "down"]
+- !private ["SQ", "fromOverFullScreen"]
+- !private ["SQ", "fromView"]
+- !private ["SQ", "fromViewController"]
+- ["SQ", "hash"]
+- ["SQ", "hashValue"]
+- !private ["SQ", "height"]
+- !private ["SQ", "init"]
+- !private ["SQ", "init"]
+- !private ["SQ", "insertToViewFirst"]
+- !private ["SQ", "isNavigationController"]
+- !private ["SQ", "isOpaque"]
+- !private ["SQ", "isPresenting"]
+- !private ["SQ", "isTabBarController"]
+- ["SQ", "left"]
+- !private ["SQ", "motionNavigationTransitionType"]
+- !private ["SQ", "motionTabBarTransitionType"]
+- !private ["SQ", "motionTransitionType"]
+- !private ["SQ", "navigationController"]
+- ["SQ", "right"]
+- !private ["SQ", "size"]
+- !private ["SQ", "standard"]
+- !private ["SQ", "subscript"]
+- !private ["SQ", "tabBarController"]
+- !private ["SQ", "toOverFullScreen"]
+- !private ["SQ", "toView"]
+- !private ["SQ", "toViewController"]
+- ["SQ", "up"]
+- !private ["SQ", "width"]
+- !private ["SQ", "x"]
+- !private ["SQ", "y"]
+- !private ["SQ", "zero"]
+- !private ["s25ExpressibleByArrayLiteralP", "append"]
+- !private ["s25ExpressibleByArrayLiteralP", "contains"]
+- !private ["s27ExpressibleByBooleanLiteralP", "_getBuiltinLogicValue"]
+- !private ["s43ExpressibleByExtendedGraphemeClusterLiteralP", "init"]
+- !private ["s43ExpressibleByExtendedGraphemeClusterLiteralP", "init"]
+- !private ["s23ExpressibleByNilLiteralP", "container"]
+- !private ["s23ExpressibleByNilLiteralP", "insertToViewFirst"]
+- !private ["s23ExpressibleByNilLiteralP", "subscript"]
+- !private ["s26ExpressibleByStringLiteralP", "init"]
+- !private ["s26ExpressibleByStringLiteralP", "init"]
+- !private ["s33ExpressibleByUnicodeScalarLiteralP", "init"]
+- !private ["s33ExpressibleByUnicodeScalarLiteralP", "init"]
+- ["SH", ""]
+- !private ["SH", "_getBuiltinLogicValue"]
+- !private ["SH", "alphaComponent"]
+- !private ["SH", "animators"]
+- !private ["SH", "backgroundColor"]
+- !private ["SH", "black"]
+- !private ["SH", "bounds"]
+- !private ["SH", "container"]
+- !private ["SH", "contains"]
+- !private ["SH", "deceleration"]
+- !private ["SH", "defaultAnimation"]
+- ["SH", "down"]
+- !private ["SH", "fromOverFullScreen"]
+- !private ["SH", "fromView"]
+- !private ["SH", "fromViewController"]
+- ["SH", "hash"]
+- ["SH", "hashValue"]
+- !private ["SH", "init"]
+- !private ["SH", "init"]
+- !private ["SH", "insertToViewFirst"]
+- !private ["SH", "isNavigationController"]
+- !private ["SH", "isOpaque"]
+- !private ["SH", "isPresenting"]
+- !private ["SH", "isTabBarController"]
+- ["SH", "left"]
+- !private ["SH", "motionNavigationTransitionType"]
+- !private ["SH", "motionTabBarTransitionType"]
+- !private ["SH", "motionTransitionType"]
+- !private ["SH", "navigationController"]
+- ["SH", "right"]
+- !private ["SH", "standard"]
+- !private ["SH", "subscript"]
+- !private ["SH", "tabBarController"]
+- !private ["SH", "toOverFullScreen"]
+- !private ["SH", "toView"]
+- !private ["SH", "toViewController"]
+- ["SH", "up"]
+- !private ["s6HasherV", "combine"]
+- !private ["s25LosslessStringConvertibleP", "_getBuiltinLogicValue"]
+- !private ["s25LosslessStringConvertibleP", "init"]
+- !private ["s25LosslessStringConvertibleP", "init"]
+- !private ["s10MirrorPathP", "init"]
+- !private ["s10MirrorPathP", "init"]
+- !private ["6Motion0A8AnimatorP", "canAnimate"]
+- !private ["6Motion0A7ContextC", "container"]
+- !private ["6Motion0A7ContextC", "insertToViewFirst"]
+- !private ["6Motion0A7ContextC", "subscript"]
+- ["6Motion0A16CorePreprocessorC", "Bool"]
+- ["6Motion0A16CorePreprocessorC", "CGPoint"]
+- ["6Motion0A16CorePreprocessorC", "CGSize"]
+- !private ["6Motion0A16CorePreprocessorC", "MotionModifier"]
+- ["6Motion0A16CorePreprocessorC", "MotionTransitionAnimationType"]
+- ["6Motion0A16CorePreprocessorC", "UIView"]
+- ["6Motion0A16CorePreprocessorC", ""]
+- !private ["6Motion0A16CorePreprocessorC", "context"]
+- !private ["6Motion0A16CorePreprocessorC", "fatalError"]
+- ["6Motion0A16CorePreprocessorC", "init"]
+- !private ["6Motion0A16CorePreprocessorC", "init"]
+- !private ["6Motion0A16CorePreprocessorC", "motion"]
+- ["6Motion0A16CorePreprocessorC", "process"]
+- ["6Motion0A16CorePreprocessorC", "shift"]
+- !private ["6Motion0A8ModifierC", "beginWith"]
+- !private ["6Motion0A8ModifierC", "duration"]
+- !private ["6Motion0A8ModifierC", "durationMatchLongest"]
+- !private ["6Motion0A8ModifierC", "fadeOut"]
+- !private ["6Motion0A8ModifierC", "masksToBounds"]
+- !private ["6Motion0A8ModifierC", "overlay"]
+- !private ["6Motion0A8ModifierC", "scale"]
+- !private ["6Motion0A8ModifierC", "shadow"]
+- !private ["6Motion0A8ModifierC", "timingFunction"]
+- !private ["6Motion0A8ModifierC", "translate"]
+- !private ["6Motion0A12PreprocessorP", "CGPoint"]
+- ["6Motion0A12PreprocessorP", ""]
+- !private ["6Motion0A12PreprocessorP", "context"]
+- !private ["6Motion0A12PreprocessorP", "fatalError"]
+- !private ["6Motion0A12PreprocessorP", "init"]
+- !private ["6Motion0A12PreprocessorP", "init"]
+- !private ["6Motion0A12PreprocessorP", "motion"]
+- !private ["6Motion0A12PreprocessorP", "shift"]
+- !private ["6Motion0A22ProgressRunnerDelegateP", "animators"]
+- !private ["6Motion0A22ProgressRunnerDelegateP", "defaultAnimation"]
+- !private ["6Motion0A22ProgressRunnerDelegateP", "fromOverFullScreen"]
+- !private ["6Motion0A22ProgressRunnerDelegateP", "fromView"]
+- !private ["6Motion0A22ProgressRunnerDelegateP", "fromViewController"]
+- !private ["6Motion0A22ProgressRunnerDelegateP", "isNavigationController"]
+- !private ["6Motion0A22ProgressRunnerDelegateP", "isPresenting"]
+- !private ["6Motion0A22ProgressRunnerDelegateP", "isTabBarController"]
+- !private ["6Motion0A22ProgressRunnerDelegateP", "toOverFullScreen"]
+- !private ["6Motion0A22ProgressRunnerDelegateP", "toView"]
+- !private ["6Motion0A22ProgressRunnerDelegateP", "toViewController"]
+- !private ["6Motion0A11TargetStateV", "append"]
+- !private ["6Motion0A11TargetStateV", "deinit"]
+- !private ["6Motion0A10TransitionC", "animators"]
+- !private ["6Motion0A10TransitionC", "defaultAnimation"]
+- !private ["6Motion0A10TransitionC", "fromOverFullScreen"]
+- !private ["6Motion0A10TransitionC", "fromView"]
+- !private ["6Motion0A10TransitionC", "fromViewController"]
+- !private ["6Motion0A10TransitionC", "isNavigationController"]
+- !private ["6Motion0A10TransitionC", "isPresenting"]
+- !private ["6Motion0A10TransitionC", "isTabBarController"]
+- !private ["6Motion0A10TransitionC", "toOverFullScreen"]
+- !private ["6Motion0A10TransitionC", "toView"]
+- !private ["6Motion0A10TransitionC", "toViewController"]
+- ["6Motion0A23TransitionAnimationTypeO", "Direction"]
+- ["6Motion0A23TransitionAnimationTypeO", "MotionTransitionAnimationType"]
+- ["6Motion0A23TransitionAnimationTypeO", "auto"]
+- ["6Motion0A23TransitionAnimationTypeO", "autoReverse"]
+- ["6Motion0A23TransitionAnimationTypeO", "cover"]
+- ["6Motion0A23TransitionAnimationTypeO", "fade"]
+- ["6Motion0A23TransitionAnimationTypeO", "none"]
+- ["6Motion0A23TransitionAnimationTypeO", "pageIn"]
+- ["6Motion0A23TransitionAnimationTypeO", "pageOut"]
+- ["6Motion0A23TransitionAnimationTypeO", "pull"]
+- ["6Motion0A23TransitionAnimationTypeO", "push"]
+- ["6Motion0A23TransitionAnimationTypeO", "reversed"]
+- ["6Motion0A23TransitionAnimationTypeO", "selectBy"]
+- ["6Motion0A23TransitionAnimationTypeO", "slide"]
+- ["6Motion0A23TransitionAnimationTypeO", "uncover"]
+- ["6Motion0A23TransitionAnimationTypeO", "zoom"]
+- ["6Motion0A23TransitionAnimationTypeO", "zoomOut"]
+- ["6Motion0A23TransitionAnimationTypeO", "zoomSlide"]
+- !private ["SM", "contains"]
+- !private ["So8NSCodingP", "alphaComponent"]
+- !private ["So8NSCodingP", "backgroundColor"]
+- !private ["So8NSCodingP", "black"]
+- !private ["So8NSCodingP", "bounds"]
+- !private ["So8NSCodingP", "deceleration"]
+- !private ["So8NSCodingP", "isOpaque"]
+- !private ["So8NSCodingP", "motionNavigationTransitionType"]
+- !private ["So8NSCodingP", "motionTabBarTransitionType"]
+- !private ["So8NSCodingP", "motionTransitionType"]
+- !private ["So8NSCodingP", "navigationController"]
+- !private ["So8NSCodingP", "standard"]
+- !private ["So8NSCodingP", "tabBarController"]
+- !private ["So9NSCopyingP", "alphaComponent"]
+- !private ["So9NSCopyingP", "black"]
+- !private ["So26NSExtensionRequestHandlingP", "motionNavigationTransitionType"]
+- !private ["So26NSExtensionRequestHandlingP", "motionTabBarTransitionType"]
+- !private ["So26NSExtensionRequestHandlingP", "motionTransitionType"]
+- !private ["So26NSExtensionRequestHandlingP", "navigationController"]
+- !private ["So26NSExtensionRequestHandlingP", "tabBarController"]
+- !private ["So21NSItemProviderReadingP", "alphaComponent"]
+- !private ["So21NSItemProviderReadingP", "black"]
+- !private ["So21NSItemProviderWritingP", "alphaComponent"]
+- !private ["So21NSItemProviderWritingP", "black"]
+- !private ["So8NSObjectC", "alphaComponent"]
+- !private ["So8NSObjectC", "animators"]
+- !private ["So8NSObjectC", "backgroundColor"]
+- !private ["So8NSObjectC", "black"]
+- !private ["So8NSObjectC", "bounds"]
+- !private ["So8NSObjectC", "deceleration"]
+- !private ["So8NSObjectC", "defaultAnimation"]
+- !private ["So8NSObjectC", "fromOverFullScreen"]
+- !private ["So8NSObjectC", "fromView"]
+- !private ["So8NSObjectC", "fromViewController"]
+- !private ["So8NSObjectC", "isNavigationController"]
+- !private ["So8NSObjectC", "isOpaque"]
+- !private ["So8NSObjectC", "isPresenting"]
+- !private ["So8NSObjectC", "isTabBarController"]
+- !private ["So8NSObjectC", "motionNavigationTransitionType"]
+- !private ["So8NSObjectC", "motionTabBarTransitionType"]
+- !private ["So8NSObjectC", "motionTransitionType"]
+- !private ["So8NSObjectC", "navigationController"]
+- !private ["So8NSObjectC", "standard"]
+- !private ["So8NSObjectC", "tabBarController"]
+- !private ["So8NSObjectC", "toOverFullScreen"]
+- !private ["So8NSObjectC", "toView"]
+- !private ["So8NSObjectC", "toViewController"]
+- !private ["So8NSObjectP", "alphaComponent"]
+- !private ["So8NSObjectP", "animators"]
+- !private ["So8NSObjectP", "backgroundColor"]
+- !private ["So8NSObjectP", "black"]
+- !private ["So8NSObjectP", "bounds"]
+- !private ["So8NSObjectP", "deceleration"]
+- !private ["So8NSObjectP", "defaultAnimation"]
+- !private ["So8NSObjectP", "fromOverFullScreen"]
+- !private ["So8NSObjectP", "fromView"]
+- !private ["So8NSObjectP", "fromViewController"]
+- !private ["So8NSObjectP", "isNavigationController"]
+- !private ["So8NSObjectP", "isOpaque"]
+- !private ["So8NSObjectP", "isPresenting"]
+- !private ["So8NSObjectP", "isTabBarController"]
+- !private ["So8NSObjectP", "motionNavigationTransitionType"]
+- !private ["So8NSObjectP", "motionTabBarTransitionType"]
+- !private ["So8NSObjectP", "motionTransitionType"]
+- !private ["So8NSObjectP", "navigationController"]
+- !private ["So8NSObjectP", "standard"]
+- !private ["So8NSObjectP", "tabBarController"]
+- !private ["So8NSObjectP", "toOverFullScreen"]
+- !private ["So8NSObjectP", "toView"]
+- !private ["So8NSObjectP", "toViewController"]
+- !private ["So14NSSecureCodingP", "alphaComponent"]
+- !private ["So14NSSecureCodingP", "black"]
+- !private ["So14NSSecureCodingP", "deceleration"]
+- !private ["So14NSSecureCodingP", "standard"]
+- !private ["Sq", "container"]
+- !private ["Sq", "insertToViewFirst"]
+- !private ["Sq", "subscript"]
+- !private ["Sk", "contains"]
+- !private ["Sm", "contains"]
+- !private ["Sm", "init"]
+- !private ["Sm", "init"]
+- !private ["ST", "contains"]
+- !private ["ST", "init"]
+- !private ["ST", "init"]
+- !private ["s12StaticStringV", "init"]
+- !private ["s12StaticStringV", "init"]
+- !private ["SS", "init"]
+- !private ["SS", "init"]
+- !private ["Sy", "init"]
+- !private ["Sy", "init"]
+- !private ["s16TextOutputStreamP", "init"]
+- !private ["s16TextOutputStreamP", "init"]
+- !private ["s20TextOutputStreamableP", "init"]
+- !private ["s20TextOutputStreamableP", "init"]
+- ["6Motion22TransitionPreprocessorC", "Bool"]
+- ["6Motion22TransitionPreprocessorC", "CGPoint"]
+- ["6Motion22TransitionPreprocessorC", "CGSize"]
+- !private ["6Motion22TransitionPreprocessorC", "MotionModifier"]
+- ["6Motion22TransitionPreprocessorC", "MotionTransitionAnimationType"]
+- ["6Motion22TransitionPreprocessorC", "UIView"]
+- !private ["6Motion22TransitionPreprocessorC", "context"]
+- ["6Motion22TransitionPreprocessorC", "deinit"]
+- !private ["6Motion22TransitionPreprocessorC", "fatalError"]
+- ["6Motion22TransitionPreprocessorC", "init"]
+- !private ["6Motion22TransitionPreprocessorC", "motion"]
+- ["6Motion22TransitionPreprocessorC", "process"]
+- ["6Motion22TransitionPreprocessorC", "shift"]
+- !private ["So29UIAccessibilityIdentificationP", "backgroundColor"]
+- !private ["So29UIAccessibilityIdentificationP", "bounds"]
+- !private ["So29UIAccessibilityIdentificationP", "isOpaque"]
+- !private ["So12UIAppearanceP", "backgroundColor"]
+- !private ["So12UIAppearanceP", "bounds"]
+- !private ["So12UIAppearanceP", "isOpaque"]
+- !private ["So21UIAppearanceContainerP", "backgroundColor"]
+- !private ["So21UIAppearanceContainerP", "bounds"]
+- !private ["So21UIAppearanceContainerP", "isOpaque"]
+- !private ["So21UIAppearanceContainerP", "motionNavigationTransitionType"]
+- !private ["So21UIAppearanceContainerP", "motionTabBarTransitionType"]
+- !private ["So21UIAppearanceContainerP", "motionTransitionType"]
+- !private ["So21UIAppearanceContainerP", "navigationController"]
+- !private ["So21UIAppearanceContainerP", "tabBarController"]
+- !private ["So7UIColorC", "alphaComponent"]
+- !private ["So7UIColorC", "black"]
+- !private ["So18UIContentContainerP", "motionNavigationTransitionType"]
+- !private ["So18UIContentContainerP", "motionTabBarTransitionType"]
+- !private ["So18UIContentContainerP", "motionTransitionType"]
+- !private ["So18UIContentContainerP", "navigationController"]
+- !private ["So18UIContentContainerP", "tabBarController"]
+- !private ["So17UICoordinateSpaceP", "backgroundColor"]
+- !private ["So17UICoordinateSpaceP", "bounds"]
+- !private ["So17UICoordinateSpaceP", "isOpaque"]
+- !private ["So13UIDynamicItemP", "backgroundColor"]
+- !private ["So13UIDynamicItemP", "bounds"]
+- !private ["So13UIDynamicItemP", "isOpaque"]
+- !private ["So18UIFocusEnvironmentP", "backgroundColor"]
+- !private ["So18UIFocusEnvironmentP", "bounds"]
+- !private ["So18UIFocusEnvironmentP", "isOpaque"]
+- !private ["So18UIFocusEnvironmentP", "motionNavigationTransitionType"]
+- !private ["So18UIFocusEnvironmentP", "motionTabBarTransitionType"]
+- !private ["So18UIFocusEnvironmentP", "motionTransitionType"]
+- !private ["So18UIFocusEnvironmentP", "navigationController"]
+- !private ["So18UIFocusEnvironmentP", "tabBarController"]
+- !private ["So11UIFocusItemP", "backgroundColor"]
+- !private ["So11UIFocusItemP", "bounds"]
+- !private ["So11UIFocusItemP", "isOpaque"]
+- !private ["So20UIFocusItemContainerP", "backgroundColor"]
+- !private ["So20UIFocusItemContainerP", "bounds"]
+- !private ["So20UIFocusItemContainerP", "isOpaque"]
+- !private ["So22UINavigationControllerC", "motionNavigationTransitionType"]
+- !private ["So30UINavigationControllerDelegateP", "animators"]
+- !private ["So30UINavigationControllerDelegateP", "defaultAnimation"]
+- !private ["So30UINavigationControllerDelegateP", "fromOverFullScreen"]
+- !private ["So30UINavigationControllerDelegateP", "fromView"]
+- !private ["So30UINavigationControllerDelegateP", "fromViewController"]
+- !private ["So30UINavigationControllerDelegateP", "isNavigationController"]
+- !private ["So30UINavigationControllerDelegateP", "isPresenting"]
+- !private ["So30UINavigationControllerDelegateP", "isTabBarController"]
+- !private ["So30UINavigationControllerDelegateP", "toOverFullScreen"]
+- !private ["So30UINavigationControllerDelegateP", "toView"]
+- !private ["So30UINavigationControllerDelegateP", "toViewController"]
+- !private ["So30UIPasteConfigurationSupportingP", "backgroundColor"]
+- !private ["So30UIPasteConfigurationSupportingP", "bounds"]
+- !private ["So30UIPasteConfigurationSupportingP", "isOpaque"]
+- !private ["So30UIPasteConfigurationSupportingP", "motionNavigationTransitionType"]
+- !private ["So30UIPasteConfigurationSupportingP", "motionTabBarTransitionType"]
+- !private ["So30UIPasteConfigurationSupportingP", "motionTransitionType"]
+- !private ["So30UIPasteConfigurationSupportingP", "navigationController"]
+- !private ["So30UIPasteConfigurationSupportingP", "tabBarController"]
+- !private ["So11UIResponderC", "backgroundColor"]
+- !private ["So11UIResponderC", "bounds"]
+- !private ["So11UIResponderC", "isOpaque"]
+- !private ["So11UIResponderC", "motionNavigationTransitionType"]
+- !private ["So11UIResponderC", "motionTabBarTransitionType"]
+- !private ["So11UIResponderC", "motionTransitionType"]
+- !private ["So11UIResponderC", "navigationController"]
+- !private ["So11UIResponderC", "tabBarController"]
+- !private ["So30UIResponderStandardEditActionsP", "backgroundColor"]
+- !private ["So30UIResponderStandardEditActionsP", "bounds"]
+- !private ["So30UIResponderStandardEditActionsP", "isOpaque"]
+- !private ["So30UIResponderStandardEditActionsP", "motionNavigationTransitionType"]
+- !private ["So30UIResponderStandardEditActionsP", "motionTabBarTransitionType"]
+- !private ["So30UIResponderStandardEditActionsP", "motionTransitionType"]
+- !private ["So30UIResponderStandardEditActionsP", "navigationController"]
+- !private ["So30UIResponderStandardEditActionsP", "tabBarController"]
+- !private ["So16UIStateRestoringP", "motionNavigationTransitionType"]
+- !private ["So16UIStateRestoringP", "motionTabBarTransitionType"]
+- !private ["So16UIStateRestoringP", "motionTransitionType"]
+- !private ["So16UIStateRestoringP", "navigationController"]
+- !private ["So16UIStateRestoringP", "tabBarController"]
+- !private ["So18UITabBarControllerC", "motionTabBarTransitionType"]
+- !private ["So26UITabBarControllerDelegateP", "animators"]
+- !private ["So26UITabBarControllerDelegateP", "defaultAnimation"]
+- !private ["So26UITabBarControllerDelegateP", "fromOverFullScreen"]
+- !private ["So26UITabBarControllerDelegateP", "fromView"]
+- !private ["So26UITabBarControllerDelegateP", "fromViewController"]
+- !private ["So26UITabBarControllerDelegateP", "isNavigationController"]
+- !private ["So26UITabBarControllerDelegateP", "isPresenting"]
+- !private ["So26UITabBarControllerDelegateP", "isTabBarController"]
+- !private ["So26UITabBarControllerDelegateP", "toOverFullScreen"]
+- !private ["So26UITabBarControllerDelegateP", "toView"]
+- !private ["So26UITabBarControllerDelegateP", "toViewController"]
+- !private ["So16UITabBarDelegateP", "motionTabBarTransitionType"]
+- !private ["So18UITraitEnvironmentP", "backgroundColor"]
+- !private ["So18UITraitEnvironmentP", "bounds"]
+- !private ["So18UITraitEnvironmentP", "isOpaque"]
+- !private ["So18UITraitEnvironmentP", "motionNavigationTransitionType"]
+- !private ["So18UITraitEnvironmentP", "motionTabBarTransitionType"]
+- !private ["So18UITraitEnvironmentP", "motionTransitionType"]
+- !private ["So18UITraitEnvironmentP", "navigationController"]
+- !private ["So18UITraitEnvironmentP", "tabBarController"]
+- !private ["So23UIUserActivityRestoringP", "backgroundColor"]
+- !private ["So23UIUserActivityRestoringP", "bounds"]
+- !private ["So23UIUserActivityRestoringP", "isOpaque"]
+- !private ["So23UIUserActivityRestoringP", "motionNavigationTransitionType"]
+- !private ["So23UIUserActivityRestoringP", "motionTabBarTransitionType"]
+- !private ["So23UIUserActivityRestoringP", "motionTransitionType"]
+- !private ["So23UIUserActivityRestoringP", "navigationController"]
+- !private ["So23UIUserActivityRestoringP", "tabBarController"]
+- !private ["So6UIViewC", "backgroundColor"]
+- !private ["So6UIViewC", "bounds"]
+- !private ["So6UIViewC", "isOpaque"]
+- !private ["So16UIViewControllerC", "motionNavigationTransitionType"]
+- !private ["So16UIViewControllerC", "motionTabBarTransitionType"]
+- !private ["So16UIViewControllerC", "motionTransitionType"]
+- !private ["So16UIViewControllerC", "navigationController"]
+- !private ["So16UIViewControllerC", "tabBarController"]
+- !private ["So37UIViewControllerAnimatedTransitioningP", "animators"]
+- !private ["So37UIViewControllerAnimatedTransitioningP", "defaultAnimation"]
+- !private ["So37UIViewControllerAnimatedTransitioningP", "fromOverFullScreen"]
+- !private ["So37UIViewControllerAnimatedTransitioningP", "fromView"]
+- !private ["So37UIViewControllerAnimatedTransitioningP", "fromViewController"]
+- !private ["So37UIViewControllerAnimatedTransitioningP", "isNavigationController"]
+- !private ["So37UIViewControllerAnimatedTransitioningP", "isPresenting"]
+- !private ["So37UIViewControllerAnimatedTransitioningP", "isTabBarController"]
+- !private ["So37UIViewControllerAnimatedTransitioningP", "toOverFullScreen"]
+- !private ["So37UIViewControllerAnimatedTransitioningP", "toView"]
+- !private ["So37UIViewControllerAnimatedTransitioningP", "toViewController"]
+- !private ["So40UIViewControllerInteractiveTransitioningP", "animators"]
+- !private ["So40UIViewControllerInteractiveTransitioningP", "defaultAnimation"]
+- !private ["So40UIViewControllerInteractiveTransitioningP", "fromOverFullScreen"]
+- !private ["So40UIViewControllerInteractiveTransitioningP", "fromView"]
+- !private ["So40UIViewControllerInteractiveTransitioningP", "fromViewController"]
+- !private ["So40UIViewControllerInteractiveTransitioningP", "isNavigationController"]
+- !private ["So40UIViewControllerInteractiveTransitioningP", "isPresenting"]
+- !private ["So40UIViewControllerInteractiveTransitioningP", "isTabBarController"]
+- !private ["So40UIViewControllerInteractiveTransitioningP", "toOverFullScreen"]
+- !private ["So40UIViewControllerInteractiveTransitioningP", "toView"]
+- !private ["So40UIViewControllerInteractiveTransitioningP", "toViewController"]
+- !private ["So37UIViewControllerTransitioningDelegateP", "animators"]
+- !private ["So37UIViewControllerTransitioningDelegateP", "defaultAnimation"]
+- !private ["So37UIViewControllerTransitioningDelegateP", "fromOverFullScreen"]
+- !private ["So37UIViewControllerTransitioningDelegateP", "fromView"]
+- !private ["So37UIViewControllerTransitioningDelegateP", "fromViewController"]
+- !private ["So37UIViewControllerTransitioningDelegateP", "isNavigationController"]
+- !private ["So37UIViewControllerTransitioningDelegateP", "isPresenting"]
+- !private ["So37UIViewControllerTransitioningDelegateP", "isTabBarController"]
+- !private ["So37UIViewControllerTransitioningDelegateP", "toOverFullScreen"]
+- !private ["So37UIViewControllerTransitioningDelegateP", "toView"]
+- !private ["So37UIViewControllerTransitioningDelegateP", "toViewController"]
+- !private ["s37_DefaultCustomPlaygroundQuickLookableP", "backgroundColor"]
+- !private ["s37_DefaultCustomPlaygroundQuickLookableP", "bounds"]
+- !private ["s37_DefaultCustomPlaygroundQuickLookableP", "isOpaque"]
+- !private ["s24_DestructorSafeContainerP", "contains"]
+- !private ["s35_ExpressibleByBuiltinBooleanLiteralP", "_getBuiltinLogicValue"]
+- !private ["s51_ExpressibleByBuiltinExtendedGraphemeClusterLiteralP", "init"]
+- !private ["s51_ExpressibleByBuiltinExtendedGraphemeClusterLiteralP", "init"]
+- !private ["s34_ExpressibleByBuiltinStringLiteralP", "init"]
+- !private ["s34_ExpressibleByBuiltinStringLiteralP", "init"]
+- !private ["s39_ExpressibleByBuiltinUTF16StringLiteralP", "init"]
+- !private ["s39_ExpressibleByBuiltinUTF16StringLiteralP", "init"]
+- !private ["s41_ExpressibleByBuiltinUnicodeScalarLiteralP", "init"]
+- !private ["s41_ExpressibleByBuiltinUnicodeScalarLiteralP", "init"]
+- !private ["s26_ExpressibleByColorLiteralP", "alphaComponent"]
+- !private ["s26_ExpressibleByColorLiteralP", "black"]
+- !private ["s33_ExpressibleByStringInterpolationP", "init"]
+- !private ["s33_ExpressibleByStringInterpolationP", "init"]
+- !private ["s35_HasCustomAnyHashableRepresentationP", "contains"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "alphaComponent"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "animators"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "backgroundColor"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "black"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "bounds"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "deceleration"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "defaultAnimation"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "fromOverFullScreen"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "fromView"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "fromViewController"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "isNavigationController"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "isOpaque"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "isPresenting"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "isTabBarController"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "motionNavigationTransitionType"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "motionTabBarTransitionType"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "motionTransitionType"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "navigationController"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "standard"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "tabBarController"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "toOverFullScreen"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "toView"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "toViewController"]
+- !private ["s21_ObjectiveCBridgeableP", "_getBuiltinLogicValue"]
+- !private ["s21_ObjectiveCBridgeableP", "container"]
+- !private ["s21_ObjectiveCBridgeableP", "contains"]
+- !private ["s21_ObjectiveCBridgeableP", "height"]
+- !private ["s21_ObjectiveCBridgeableP", "init"]
+- !private ["s21_ObjectiveCBridgeableP", "init"]
+- !private ["s21_ObjectiveCBridgeableP", "insertToViewFirst"]
+- !private ["s21_ObjectiveCBridgeableP", "size"]
+- !private ["s21_ObjectiveCBridgeableP", "subscript"]
+- !private ["s21_ObjectiveCBridgeableP", "width"]
+- !private ["s21_ObjectiveCBridgeableP", "x"]
+- !private ["s21_ObjectiveCBridgeableP", "y"]
+- !private ["s21_ObjectiveCBridgeableP", "zero"]
+- !private ["s16_SwiftStringViewP", "init"]
+- !private ["s16_SwiftStringViewP", "init"]
+depends-nominal:
+- !private "Sa"
+- !private "s13ArrayProtocolP"
+- !private "SK"
+- !private "Sb"
+- !private "So15CALayerDelegateP"
+- !private "So21CAMediaTimingFunctionC"
+- !private "So7CGPointV"
+- !private "So6CGRectV"
+- !private "So6CGSizeV"
+- !private "s7CVarArgP"
+- !private "Sl"
+- !private "SL"
+- !private "s28CustomDebugStringConvertibleP"
+- !private "s29CustomPlaygroundQuickLookableP"
+- !private "s17CustomReflectableP"
+- !private "s23CustomStringConvertibleP"
+- !private "Se"
+- "6Motion0A23TransitionAnimationTypeO9DirectionO"
+- !private "SE"
+- "SQ"
+- !private "s25ExpressibleByArrayLiteralP"
+- !private "s27ExpressibleByBooleanLiteralP"
+- !private "s43ExpressibleByExtendedGraphemeClusterLiteralP"
+- !private "s23ExpressibleByNilLiteralP"
+- !private "s26ExpressibleByStringLiteralP"
+- !private "s33ExpressibleByUnicodeScalarLiteralP"
+- "SH"
+- !private "s6HasherV"
+- !private "s25LosslessStringConvertibleP"
+- !private "s10MirrorPathP"
+- !private "6Motion0A8AnimatorP"
+- !private "6Motion0A7ContextC"
+- "6Motion0A16CorePreprocessorC"
+- !private "6Motion0A8ModifierC"
+- "6Motion0A12PreprocessorP"
+- !private "6Motion0A22ProgressRunnerDelegateP"
+- !private "6Motion0A11TargetStateV"
+- !private "6Motion0A10TransitionC"
+- "6Motion0A23TransitionAnimationTypeO"
+- !private "SM"
+- !private "So8NSCodingP"
+- !private "So9NSCopyingP"
+- !private "So26NSExtensionRequestHandlingP"
+- !private "So21NSItemProviderReadingP"
+- !private "So21NSItemProviderWritingP"
+- !private "So8NSObjectC"
+- !private "So8NSObjectP"
+- !private "So14NSSecureCodingP"
+- !private "Sq"
+- !private "Sk"
+- !private "Sm"
+- !private "ST"
+- !private "s12StaticStringV"
+- !private "SS"
+- !private "Sy"
+- !private "s16TextOutputStreamP"
+- !private "s20TextOutputStreamableP"
+- "6Motion22TransitionPreprocessorC"
+- !private "So29UIAccessibilityIdentificationP"
+- !private "So12UIAppearanceP"
+- !private "So21UIAppearanceContainerP"
+- !private "So7UIColorC"
+- !private "So18UIContentContainerP"
+- !private "So17UICoordinateSpaceP"
+- !private "So13UIDynamicItemP"
+- !private "So18UIFocusEnvironmentP"
+- !private "So11UIFocusItemP"
+- !private "So20UIFocusItemContainerP"
+- !private "So22UINavigationControllerC"
+- !private "So30UINavigationControllerDelegateP"
+- !private "So30UIPasteConfigurationSupportingP"
+- !private "So11UIResponderC"
+- !private "So30UIResponderStandardEditActionsP"
+- !private "So16UIStateRestoringP"
+- !private "So18UITabBarControllerC"
+- !private "So26UITabBarControllerDelegateP"
+- !private "So16UITabBarDelegateP"
+- !private "So18UITraitEnvironmentP"
+- !private "So23UIUserActivityRestoringP"
+- !private "So6UIViewC"
+- !private "So16UIViewControllerC"
+- !private "So37UIViewControllerAnimatedTransitioningP"
+- !private "So40UIViewControllerInteractiveTransitioningP"
+- !private "So37UIViewControllerTransitioningDelegateP"
+- !private "s37_DefaultCustomPlaygroundQuickLookableP"
+- !private "s24_DestructorSafeContainerP"
+- !private "s35_ExpressibleByBuiltinBooleanLiteralP"
+- !private "s51_ExpressibleByBuiltinExtendedGraphemeClusterLiteralP"
+- !private "s34_ExpressibleByBuiltinStringLiteralP"
+- !private "s39_ExpressibleByBuiltinUTF16StringLiteralP"
+- !private "s41_ExpressibleByBuiltinUnicodeScalarLiteralP"
+- !private "s26_ExpressibleByColorLiteralP"
+- !private "s33_ExpressibleByStringInterpolationP"
+- !private "s35_HasCustomAnyHashableRepresentationP"
+- !private "10Foundation27_KeyValueCodingAndObservingP"
+- !private "s21_ObjectiveCBridgeableP"
+- !private "s16_SwiftStringViewP"
+depends-dynamic-lookup:
+depends-external:
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Dispatch.apinotesc"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/ObjectiveC.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/ModelIO.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/simd.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreImage.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/QuartzCore.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Dispatch.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Metal.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Darwin.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Foundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreFoundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreGraphics.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Swift.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/UIKit.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/MetalKit.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/SwiftOnoneSupport.swiftmodule"
+- "/Users/user/Desktop/Lyhour project/lyhour/Pods/Target Support Files/Motion/Motion-umbrella.h"
+- "/Users/user/Desktop/Lyhour project/lyhour/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/Motion.build/unextended-module.modulemap"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.0.sdk/usr/include/objc/ObjectiveC.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.0.sdk/System/Library/Frameworks/ModelIO.framework/Headers/ModelIO.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.0.sdk/System/Library/Frameworks/OpenGLES.framework/Headers/OpenGLES.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.0.sdk/System/Library/Frameworks/CoreImage.framework/Headers/CoreImage.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.0.sdk/System/Library/Frameworks/QuartzCore.framework/Headers/QuartzCore.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.0.sdk/System/Library/Frameworks/Metal.framework/Headers/Metal.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.0.sdk/usr/include/Darwin.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.0.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.0.sdk/System/Library/Frameworks/CoreGraphics.framework/Headers/CoreGraphics.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.0.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.0.sdk/System/Library/Frameworks/MetalKit.framework/Headers/MetalKit.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.0.sdk/System/Library/Frameworks/CoreText.framework/Headers/CoreText.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.0.sdk/System/Library/Frameworks/Security.framework/Headers/Security.apinotes"
+interface-hash: "cb921d63d19cd5cc4cba55ad4392ca63"

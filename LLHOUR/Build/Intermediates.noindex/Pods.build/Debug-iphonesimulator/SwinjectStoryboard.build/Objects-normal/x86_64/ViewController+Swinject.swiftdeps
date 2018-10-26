@@ -1,0 +1,435 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+provides-nominal:
+- "So16UIViewControllerC"
+provides-member:
+- ["So16UIViewControllerC", ""]
+provides-dynamic-lookup:
+- "swinjectRegistrationName"
+- "wasInjected"
+depends-top-level:
+- !private "??"
+- "Bool"
+- !private "BooleanLiteralType"
+- "CastingPrecedence"
+- "InjectionVerifiable"
+- !private "NSNumber"
+- "NSObject"
+- "RegistrationNameAssociatable"
+- "String"
+- "StringLiteralType"
+- "UIViewController"
+- "UnsafeRawPointer"
+- !private "objc_AssociationPolicy"
+- !private "objc_getAssociatedObject"
+- !private "objc_setAssociatedObject"
+- !private "uivcRegistrationNameKey"
+- !private "uivcWasInjectedKey"
+depends-member:
+- ["SK", "init"]
+- ["SK", "init"]
+- !private ["s7CVarArgP", "NSNumber"]
+- !private ["s7CVarArgP", "boolValue"]
+- !private ["s7CVarArgP", "getAssociatedBool"]
+- !private ["s7CVarArgP", "getAssociatedString"]
+- ["s7CVarArgP", "init"]
+- ["s7CVarArgP", "init"]
+- !private ["s7CVarArgP", "objc_AssociationPolicy"]
+- !private ["s7CVarArgP", "objc_getAssociatedObject"]
+- !private ["s7CVarArgP", "objc_setAssociatedObject"]
+- !private ["s7CVarArgP", "setAssociatedBool"]
+- !private ["s7CVarArgP", "setAssociatedString"]
+- ["s7CVarArgP", "swinjectRegistrationName"]
+- !private ["s7CVarArgP", "uivcRegistrationNameKey"]
+- !private ["s7CVarArgP", "uivcWasInjectedKey"]
+- ["s7CVarArgP", "wasInjected"]
+- ["Sl", "init"]
+- ["Sl", "init"]
+- ["SL", "init"]
+- ["SL", "init"]
+- !private ["s28CustomDebugStringConvertibleP", "NSNumber"]
+- !private ["s28CustomDebugStringConvertibleP", "boolValue"]
+- !private ["s28CustomDebugStringConvertibleP", "getAssociatedBool"]
+- !private ["s28CustomDebugStringConvertibleP", "getAssociatedString"]
+- ["s28CustomDebugStringConvertibleP", "init"]
+- ["s28CustomDebugStringConvertibleP", "init"]
+- !private ["s28CustomDebugStringConvertibleP", "objc_AssociationPolicy"]
+- !private ["s28CustomDebugStringConvertibleP", "objc_getAssociatedObject"]
+- !private ["s28CustomDebugStringConvertibleP", "objc_setAssociatedObject"]
+- !private ["s28CustomDebugStringConvertibleP", "setAssociatedBool"]
+- !private ["s28CustomDebugStringConvertibleP", "setAssociatedString"]
+- ["s28CustomDebugStringConvertibleP", "swinjectRegistrationName"]
+- !private ["s28CustomDebugStringConvertibleP", "uivcRegistrationNameKey"]
+- !private ["s28CustomDebugStringConvertibleP", "uivcWasInjectedKey"]
+- ["s28CustomDebugStringConvertibleP", "wasInjected"]
+- ["s29CustomPlaygroundQuickLookableP", "init"]
+- ["s29CustomPlaygroundQuickLookableP", "init"]
+- ["s17CustomReflectableP", "init"]
+- ["s17CustomReflectableP", "init"]
+- !private ["s23CustomStringConvertibleP", "NSNumber"]
+- !private ["s23CustomStringConvertibleP", "boolValue"]
+- !private ["s23CustomStringConvertibleP", "getAssociatedBool"]
+- !private ["s23CustomStringConvertibleP", "getAssociatedString"]
+- ["s23CustomStringConvertibleP", "init"]
+- ["s23CustomStringConvertibleP", "init"]
+- !private ["s23CustomStringConvertibleP", "objc_AssociationPolicy"]
+- !private ["s23CustomStringConvertibleP", "objc_getAssociatedObject"]
+- !private ["s23CustomStringConvertibleP", "objc_setAssociatedObject"]
+- !private ["s23CustomStringConvertibleP", "setAssociatedBool"]
+- !private ["s23CustomStringConvertibleP", "setAssociatedString"]
+- ["s23CustomStringConvertibleP", "swinjectRegistrationName"]
+- !private ["s23CustomStringConvertibleP", "uivcRegistrationNameKey"]
+- !private ["s23CustomStringConvertibleP", "uivcWasInjectedKey"]
+- ["s23CustomStringConvertibleP", "wasInjected"]
+- ["Se", "init"]
+- ["Se", "init"]
+- ["SE", "init"]
+- ["SE", "init"]
+- !private ["SQ", "NSNumber"]
+- !private ["SQ", "OBJC_ASSOCIATION_COPY"]
+- !private ["SQ", "boolValue"]
+- !private ["SQ", "getAssociatedBool"]
+- !private ["SQ", "getAssociatedString"]
+- ["SQ", "init"]
+- ["SQ", "init"]
+- !private ["SQ", "objc_AssociationPolicy"]
+- !private ["SQ", "objc_getAssociatedObject"]
+- !private ["SQ", "objc_setAssociatedObject"]
+- !private ["SQ", "setAssociatedBool"]
+- !private ["SQ", "setAssociatedString"]
+- ["SQ", "swinjectRegistrationName"]
+- !private ["SQ", "uivcRegistrationNameKey"]
+- !private ["SQ", "uivcWasInjectedKey"]
+- ["SQ", "wasInjected"]
+- !private ["s27ExpressibleByBooleanLiteralP", "boolValue"]
+- !private ["s27ExpressibleByBooleanLiteralP", "init"]
+- ["s43ExpressibleByExtendedGraphemeClusterLiteralP", "init"]
+- ["s43ExpressibleByExtendedGraphemeClusterLiteralP", "init"]
+- !private ["s25ExpressibleByFloatLiteralP", "boolValue"]
+- !private ["s25ExpressibleByFloatLiteralP", "init"]
+- !private ["s27ExpressibleByIntegerLiteralP", "boolValue"]
+- !private ["s27ExpressibleByIntegerLiteralP", "init"]
+- ["s26ExpressibleByStringLiteralP", "init"]
+- ["s26ExpressibleByStringLiteralP", "init"]
+- ["s33ExpressibleByUnicodeScalarLiteralP", "init"]
+- ["s33ExpressibleByUnicodeScalarLiteralP", "init"]
+- !private ["SH", "NSNumber"]
+- !private ["SH", "OBJC_ASSOCIATION_COPY"]
+- !private ["SH", "boolValue"]
+- !private ["SH", "getAssociatedBool"]
+- !private ["SH", "getAssociatedString"]
+- ["SH", "init"]
+- ["SH", "init"]
+- !private ["SH", "objc_AssociationPolicy"]
+- !private ["SH", "objc_getAssociatedObject"]
+- !private ["SH", "objc_setAssociatedObject"]
+- !private ["SH", "setAssociatedBool"]
+- !private ["SH", "setAssociatedString"]
+- ["SH", "swinjectRegistrationName"]
+- !private ["SH", "uivcRegistrationNameKey"]
+- !private ["SH", "uivcWasInjectedKey"]
+- ["SH", "wasInjected"]
+- ["18SwinjectStoryboard19InjectionVerifiableP", ""]
+- !private ["18SwinjectStoryboard19InjectionVerifiableP", "getAssociatedBool"]
+- !private ["18SwinjectStoryboard19InjectionVerifiableP", "getAssociatedString"]
+- !private ["18SwinjectStoryboard19InjectionVerifiableP", "setAssociatedBool"]
+- !private ["18SwinjectStoryboard19InjectionVerifiableP", "setAssociatedString"]
+- ["18SwinjectStoryboard19InjectionVerifiableP", "swinjectRegistrationName"]
+- !private ["18SwinjectStoryboard19InjectionVerifiableP", "uivcRegistrationNameKey"]
+- !private ["18SwinjectStoryboard19InjectionVerifiableP", "uivcWasInjectedKey"]
+- ["18SwinjectStoryboard19InjectionVerifiableP", "wasInjected"]
+- ["s25LosslessStringConvertibleP", "init"]
+- ["s25LosslessStringConvertibleP", "init"]
+- ["s10MirrorPathP", "init"]
+- ["s10MirrorPathP", "init"]
+- !private ["So8NSCodingP", "boolValue"]
+- !private ["So8NSCodingP", "getAssociatedBool"]
+- !private ["So8NSCodingP", "getAssociatedString"]
+- !private ["So8NSCodingP", "init"]
+- !private ["So8NSCodingP", "setAssociatedBool"]
+- !private ["So8NSCodingP", "setAssociatedString"]
+- ["So8NSCodingP", "swinjectRegistrationName"]
+- !private ["So8NSCodingP", "uivcRegistrationNameKey"]
+- !private ["So8NSCodingP", "uivcWasInjectedKey"]
+- ["So8NSCodingP", "wasInjected"]
+- !private ["So9NSCopyingP", "boolValue"]
+- !private ["So9NSCopyingP", "init"]
+- !private ["So26NSExtensionRequestHandlingP", "getAssociatedBool"]
+- !private ["So26NSExtensionRequestHandlingP", "getAssociatedString"]
+- !private ["So26NSExtensionRequestHandlingP", "setAssociatedBool"]
+- !private ["So26NSExtensionRequestHandlingP", "setAssociatedString"]
+- ["So26NSExtensionRequestHandlingP", "swinjectRegistrationName"]
+- !private ["So26NSExtensionRequestHandlingP", "uivcRegistrationNameKey"]
+- !private ["So26NSExtensionRequestHandlingP", "uivcWasInjectedKey"]
+- ["So26NSExtensionRequestHandlingP", "wasInjected"]
+- !private ["So8NSNumberC", "boolValue"]
+- !private ["So8NSNumberC", "init"]
+- ["So8NSObjectC", "Bool"]
+- !private ["So8NSObjectC", "NSNumber"]
+- ["So8NSObjectC", "String"]
+- ["So8NSObjectC", "UnsafeRawPointer"]
+- !private ["So8NSObjectC", "boolValue"]
+- !private ["So8NSObjectC", "getAssociatedBool"]
+- !private ["So8NSObjectC", "getAssociatedString"]
+- !private ["So8NSObjectC", "init"]
+- !private ["So8NSObjectC", "objc_AssociationPolicy"]
+- !private ["So8NSObjectC", "objc_getAssociatedObject"]
+- !private ["So8NSObjectC", "objc_setAssociatedObject"]
+- !private ["So8NSObjectC", "setAssociatedBool"]
+- !private ["So8NSObjectC", "setAssociatedString"]
+- ["So8NSObjectC", "swinjectRegistrationName"]
+- !private ["So8NSObjectC", "uivcRegistrationNameKey"]
+- !private ["So8NSObjectC", "uivcWasInjectedKey"]
+- ["So8NSObjectC", "wasInjected"]
+- !private ["So8NSObjectP", "NSNumber"]
+- !private ["So8NSObjectP", "boolValue"]
+- !private ["So8NSObjectP", "getAssociatedBool"]
+- !private ["So8NSObjectP", "getAssociatedString"]
+- !private ["So8NSObjectP", "init"]
+- !private ["So8NSObjectP", "objc_AssociationPolicy"]
+- !private ["So8NSObjectP", "objc_getAssociatedObject"]
+- !private ["So8NSObjectP", "objc_setAssociatedObject"]
+- !private ["So8NSObjectP", "setAssociatedBool"]
+- !private ["So8NSObjectP", "setAssociatedString"]
+- ["So8NSObjectP", "swinjectRegistrationName"]
+- !private ["So8NSObjectP", "uivcRegistrationNameKey"]
+- !private ["So8NSObjectP", "uivcWasInjectedKey"]
+- ["So8NSObjectP", "wasInjected"]
+- !private ["So14NSSecureCodingP", "boolValue"]
+- !private ["So14NSSecureCodingP", "init"]
+- !private ["So7NSValueC", "boolValue"]
+- !private ["So7NSValueC", "init"]
+- ["Sm", "init"]
+- ["Sm", "init"]
+- !private ["SY", "OBJC_ASSOCIATION_COPY"]
+- ["18SwinjectStoryboard28RegistrationNameAssociatableP", ""]
+- !private ["18SwinjectStoryboard28RegistrationNameAssociatableP", "getAssociatedBool"]
+- !private ["18SwinjectStoryboard28RegistrationNameAssociatableP", "getAssociatedString"]
+- !private ["18SwinjectStoryboard28RegistrationNameAssociatableP", "setAssociatedBool"]
+- !private ["18SwinjectStoryboard28RegistrationNameAssociatableP", "setAssociatedString"]
+- ["18SwinjectStoryboard28RegistrationNameAssociatableP", "swinjectRegistrationName"]
+- !private ["18SwinjectStoryboard28RegistrationNameAssociatableP", "uivcRegistrationNameKey"]
+- !private ["18SwinjectStoryboard28RegistrationNameAssociatableP", "uivcWasInjectedKey"]
+- ["18SwinjectStoryboard28RegistrationNameAssociatableP", "wasInjected"]
+- ["ST", "init"]
+- ["ST", "init"]
+- ["SS", "init"]
+- ["SS", "init"]
+- ["Sy", "init"]
+- ["Sy", "init"]
+- ["s16TextOutputStreamP", "init"]
+- ["s16TextOutputStreamP", "init"]
+- ["s20TextOutputStreamableP", "init"]
+- ["s20TextOutputStreamableP", "init"]
+- !private ["So21UIAppearanceContainerP", "getAssociatedBool"]
+- !private ["So21UIAppearanceContainerP", "getAssociatedString"]
+- !private ["So21UIAppearanceContainerP", "setAssociatedBool"]
+- !private ["So21UIAppearanceContainerP", "setAssociatedString"]
+- ["So21UIAppearanceContainerP", "swinjectRegistrationName"]
+- !private ["So21UIAppearanceContainerP", "uivcRegistrationNameKey"]
+- !private ["So21UIAppearanceContainerP", "uivcWasInjectedKey"]
+- ["So21UIAppearanceContainerP", "wasInjected"]
+- !private ["So18UIContentContainerP", "getAssociatedBool"]
+- !private ["So18UIContentContainerP", "getAssociatedString"]
+- !private ["So18UIContentContainerP", "setAssociatedBool"]
+- !private ["So18UIContentContainerP", "setAssociatedString"]
+- ["So18UIContentContainerP", "swinjectRegistrationName"]
+- !private ["So18UIContentContainerP", "uivcRegistrationNameKey"]
+- !private ["So18UIContentContainerP", "uivcWasInjectedKey"]
+- ["So18UIContentContainerP", "wasInjected"]
+- !private ["So18UIFocusEnvironmentP", "getAssociatedBool"]
+- !private ["So18UIFocusEnvironmentP", "getAssociatedString"]
+- !private ["So18UIFocusEnvironmentP", "setAssociatedBool"]
+- !private ["So18UIFocusEnvironmentP", "setAssociatedString"]
+- ["So18UIFocusEnvironmentP", "swinjectRegistrationName"]
+- !private ["So18UIFocusEnvironmentP", "uivcRegistrationNameKey"]
+- !private ["So18UIFocusEnvironmentP", "uivcWasInjectedKey"]
+- ["So18UIFocusEnvironmentP", "wasInjected"]
+- !private ["So30UIPasteConfigurationSupportingP", "getAssociatedBool"]
+- !private ["So30UIPasteConfigurationSupportingP", "getAssociatedString"]
+- !private ["So30UIPasteConfigurationSupportingP", "setAssociatedBool"]
+- !private ["So30UIPasteConfigurationSupportingP", "setAssociatedString"]
+- ["So30UIPasteConfigurationSupportingP", "swinjectRegistrationName"]
+- !private ["So30UIPasteConfigurationSupportingP", "uivcRegistrationNameKey"]
+- !private ["So30UIPasteConfigurationSupportingP", "uivcWasInjectedKey"]
+- ["So30UIPasteConfigurationSupportingP", "wasInjected"]
+- ["So11UIResponderC", "Bool"]
+- ["So11UIResponderC", "String"]
+- !private ["So11UIResponderC", "getAssociatedBool"]
+- !private ["So11UIResponderC", "getAssociatedString"]
+- !private ["So11UIResponderC", "setAssociatedBool"]
+- !private ["So11UIResponderC", "setAssociatedString"]
+- ["So11UIResponderC", "swinjectRegistrationName"]
+- !private ["So11UIResponderC", "uivcRegistrationNameKey"]
+- !private ["So11UIResponderC", "uivcWasInjectedKey"]
+- ["So11UIResponderC", "wasInjected"]
+- !private ["So30UIResponderStandardEditActionsP", "getAssociatedBool"]
+- !private ["So30UIResponderStandardEditActionsP", "getAssociatedString"]
+- !private ["So30UIResponderStandardEditActionsP", "setAssociatedBool"]
+- !private ["So30UIResponderStandardEditActionsP", "setAssociatedString"]
+- ["So30UIResponderStandardEditActionsP", "swinjectRegistrationName"]
+- !private ["So30UIResponderStandardEditActionsP", "uivcRegistrationNameKey"]
+- !private ["So30UIResponderStandardEditActionsP", "uivcWasInjectedKey"]
+- ["So30UIResponderStandardEditActionsP", "wasInjected"]
+- !private ["So16UIStateRestoringP", "getAssociatedBool"]
+- !private ["So16UIStateRestoringP", "getAssociatedString"]
+- !private ["So16UIStateRestoringP", "setAssociatedBool"]
+- !private ["So16UIStateRestoringP", "setAssociatedString"]
+- ["So16UIStateRestoringP", "swinjectRegistrationName"]
+- !private ["So16UIStateRestoringP", "uivcRegistrationNameKey"]
+- !private ["So16UIStateRestoringP", "uivcWasInjectedKey"]
+- ["So16UIStateRestoringP", "wasInjected"]
+- !private ["So18UITraitEnvironmentP", "getAssociatedBool"]
+- !private ["So18UITraitEnvironmentP", "getAssociatedString"]
+- !private ["So18UITraitEnvironmentP", "setAssociatedBool"]
+- !private ["So18UITraitEnvironmentP", "setAssociatedString"]
+- ["So18UITraitEnvironmentP", "swinjectRegistrationName"]
+- !private ["So18UITraitEnvironmentP", "uivcRegistrationNameKey"]
+- !private ["So18UITraitEnvironmentP", "uivcWasInjectedKey"]
+- ["So18UITraitEnvironmentP", "wasInjected"]
+- !private ["So23UIUserActivityRestoringP", "getAssociatedBool"]
+- !private ["So23UIUserActivityRestoringP", "getAssociatedString"]
+- !private ["So23UIUserActivityRestoringP", "setAssociatedBool"]
+- !private ["So23UIUserActivityRestoringP", "setAssociatedString"]
+- ["So23UIUserActivityRestoringP", "swinjectRegistrationName"]
+- !private ["So23UIUserActivityRestoringP", "uivcRegistrationNameKey"]
+- !private ["So23UIUserActivityRestoringP", "uivcWasInjectedKey"]
+- ["So23UIUserActivityRestoringP", "wasInjected"]
+- ["So16UIViewControllerC", "Bool"]
+- ["So16UIViewControllerC", "String"]
+- ["So16UIViewControllerC", "deinit"]
+- !private ["So16UIViewControllerC", "getAssociatedBool"]
+- !private ["So16UIViewControllerC", "getAssociatedString"]
+- !private ["So16UIViewControllerC", "setAssociatedBool"]
+- !private ["So16UIViewControllerC", "setAssociatedString"]
+- ["So16UIViewControllerC", "swinjectRegistrationName"]
+- !private ["So16UIViewControllerC", "uivcRegistrationNameKey"]
+- !private ["So16UIViewControllerC", "uivcWasInjectedKey"]
+- ["So16UIViewControllerC", "wasInjected"]
+- ["s51_ExpressibleByBuiltinExtendedGraphemeClusterLiteralP", "init"]
+- ["s51_ExpressibleByBuiltinExtendedGraphemeClusterLiteralP", "init"]
+- ["s34_ExpressibleByBuiltinStringLiteralP", "init"]
+- ["s34_ExpressibleByBuiltinStringLiteralP", "init"]
+- ["s39_ExpressibleByBuiltinUTF16StringLiteralP", "init"]
+- ["s39_ExpressibleByBuiltinUTF16StringLiteralP", "init"]
+- ["s41_ExpressibleByBuiltinUnicodeScalarLiteralP", "init"]
+- ["s41_ExpressibleByBuiltinUnicodeScalarLiteralP", "init"]
+- ["s33_ExpressibleByStringInterpolationP", "init"]
+- ["s33_ExpressibleByStringInterpolationP", "init"]
+- !private ["s35_HasCustomAnyHashableRepresentationP", "boolValue"]
+- !private ["s35_HasCustomAnyHashableRepresentationP", "init"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "NSNumber"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "boolValue"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "getAssociatedBool"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "getAssociatedString"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "init"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "objc_AssociationPolicy"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "objc_getAssociatedObject"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "objc_setAssociatedObject"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "setAssociatedBool"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "setAssociatedString"]
+- ["10Foundation27_KeyValueCodingAndObservingP", "swinjectRegistrationName"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "uivcRegistrationNameKey"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "uivcWasInjectedKey"]
+- ["10Foundation27_KeyValueCodingAndObservingP", "wasInjected"]
+- ["s21_ObjectiveCBridgeableP", "init"]
+- ["s21_ObjectiveCBridgeableP", "init"]
+- ["s16_SwiftStringViewP", "init"]
+- ["s16_SwiftStringViewP", "init"]
+- !private ["So22objc_AssociationPolicyV", "OBJC_ASSOCIATION_COPY"]
+depends-nominal:
+- "SK"
+- "s7CVarArgP"
+- "Sl"
+- "SL"
+- "s28CustomDebugStringConvertibleP"
+- "s29CustomPlaygroundQuickLookableP"
+- "s17CustomReflectableP"
+- "s23CustomStringConvertibleP"
+- "Se"
+- "SE"
+- "SQ"
+- !private "s27ExpressibleByBooleanLiteralP"
+- "s43ExpressibleByExtendedGraphemeClusterLiteralP"
+- !private "s25ExpressibleByFloatLiteralP"
+- !private "s27ExpressibleByIntegerLiteralP"
+- "s26ExpressibleByStringLiteralP"
+- "s33ExpressibleByUnicodeScalarLiteralP"
+- "SH"
+- "18SwinjectStoryboard19InjectionVerifiableP"
+- "s25LosslessStringConvertibleP"
+- "s10MirrorPathP"
+- "So8NSCodingP"
+- !private "So9NSCopyingP"
+- "So26NSExtensionRequestHandlingP"
+- !private "So8NSNumberC"
+- "So8NSObjectC"
+- "So8NSObjectP"
+- !private "So14NSSecureCodingP"
+- !private "So7NSValueC"
+- "Sm"
+- !private "SY"
+- "18SwinjectStoryboard28RegistrationNameAssociatableP"
+- "ST"
+- "SS"
+- "Sy"
+- "s16TextOutputStreamP"
+- "s20TextOutputStreamableP"
+- "So21UIAppearanceContainerP"
+- "So18UIContentContainerP"
+- "So18UIFocusEnvironmentP"
+- "So30UIPasteConfigurationSupportingP"
+- "So11UIResponderC"
+- "So30UIResponderStandardEditActionsP"
+- "So16UIStateRestoringP"
+- "So18UITraitEnvironmentP"
+- "So23UIUserActivityRestoringP"
+- "So16UIViewControllerC"
+- "s51_ExpressibleByBuiltinExtendedGraphemeClusterLiteralP"
+- "s34_ExpressibleByBuiltinStringLiteralP"
+- "s39_ExpressibleByBuiltinUTF16StringLiteralP"
+- "s41_ExpressibleByBuiltinUnicodeScalarLiteralP"
+- "s33_ExpressibleByStringInterpolationP"
+- !private "s35_HasCustomAnyHashableRepresentationP"
+- "10Foundation27_KeyValueCodingAndObservingP"
+- "s21_ObjectiveCBridgeableP"
+- "s16_SwiftStringViewP"
+- !private "So22objc_AssociationPolicyV"
+depends-dynamic-lookup:
+depends-external:
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Dispatch.apinotesc"
+- "/Users/user/Desktop/Lyhour project/lyhour/Build/Products/Debug-iphonesimulator/Swinject/Swinject.framework/Modules/Swinject.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/ObjectiveC.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreImage.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/QuartzCore.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Dispatch.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Metal.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Darwin.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Foundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreFoundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreGraphics.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Swift.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/UIKit.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/SwiftOnoneSupport.swiftmodule"
+- "/Users/user/Desktop/Lyhour project/lyhour/Pods/Target Support Files/SwinjectStoryboard/SwinjectStoryboard-umbrella.h"
+- "/Users/user/Desktop/Lyhour project/lyhour/Pods/Target Support Files/Swinject/Swinject-umbrella.h"
+- "/Users/user/Desktop/Lyhour project/lyhour/Pods/SwinjectStoryboard/Sources/SwinjectStoryboard.h"
+- "/Users/user/Desktop/Lyhour project/lyhour/Pods/SwinjectStoryboard/Sources/iOS-tvOS/_SwinjectStoryboardBase.h"
+- "/Users/user/Desktop/Lyhour project/lyhour/Pods/SwinjectStoryboard/Sources/iOS-tvOS/UIStoryboard+Swizzling.h"
+- "/Users/user/Desktop/Lyhour project/lyhour/Pods/SwinjectStoryboard/Sources/SwinjectStoryboardProtocol.h"
+- "/Users/user/Desktop/Lyhour project/lyhour/Pods/Swinject/Sources/Swinject.h"
+- "/Users/user/Desktop/Lyhour project/lyhour/Build/Products/Debug-iphonesimulator/Swinject/Swinject.framework/Headers/Swinject-Swift.h"
+- "/Users/user/Desktop/Lyhour project/lyhour/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/SwinjectStoryboard.build/unextended-module.modulemap"
+- "/Users/user/Desktop/Lyhour project/lyhour/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/Swinject.build/module.modulemap"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.0.sdk/usr/include/objc/ObjectiveC.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.0.sdk/System/Library/Frameworks/OpenGLES.framework/Headers/OpenGLES.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.0.sdk/System/Library/Frameworks/CoreImage.framework/Headers/CoreImage.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.0.sdk/System/Library/Frameworks/QuartzCore.framework/Headers/QuartzCore.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.0.sdk/System/Library/Frameworks/Metal.framework/Headers/Metal.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.0.sdk/usr/include/Darwin.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.0.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.0.sdk/System/Library/Frameworks/CoreGraphics.framework/Headers/CoreGraphics.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.0.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.0.sdk/System/Library/Frameworks/CoreText.framework/Headers/CoreText.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.0.sdk/System/Library/Frameworks/Security.framework/Headers/Security.apinotes"
+interface-hash: "53d657bff6852d00bb1b4cb5c47ebbeb"

@@ -1,0 +1,656 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+- "TextStorageDelegate"
+- "TextStorage"
+provides-nominal:
+- "8Material19TextStorageDelegateP"
+- "8Material11TextStorageC"
+provides-member:
+- ["8Material19TextStorageDelegateP", ""]
+- ["8Material11TextStorageC", ""]
+- ["8Material11TextStorageC", "string"]
+- ["8Material11TextStorageC", "processEditing"]
+- ["8Material11TextStorageC", "attributes"]
+- ["8Material11TextStorageC", "replaceCharacters"]
+- ["8Material11TextStorageC", "setAttributes"]
+- ["8Material11TextStorageC", "addAttribute"]
+- ["8Material11TextStorageC", "removeAttribute"]
+provides-dynamic-lookup:
+- "addAttribute"
+- "attributes"
+- "processEditing"
+- "removeAttribute"
+- "replaceCharacters"
+- "setAttributes"
+- "string"
+- "textStorage"
+depends-top-level:
+- !private "-"
+- !private "Array"
+- "CastingPrecedence"
+- !private "FloatLiteralType"
+- "Int"
+- !private "IntegerLiteralType"
+- "NSAttributedStringKey"
+- "NSCoder"
+- "NSMutableAttributedString"
+- "NSRange"
+- "NSRangePointer"
+- "NSRegularExpression"
+- !private "NSString"
+- "NSTextCheckingResult"
+- "NSTextStorage"
+- "NSTextStorageDelegate"
+- "ObjCBool"
+- "String"
+- !private "StringLiteralType"
+- "TextStorage"
+- "TextStorageDelegate"
+- "UnsafeMutablePointer"
+- !private "Void"
+depends-member:
+- !private ["SK", "count"]
+- !private ["SK", "utf16"]
+- ["s7CVarArgP", "MatchingFlags"]
+- ["s7CVarArgP", "NSMutableAttributedString"]
+- ["s7CVarArgP", ""]
+- !private ["s7CVarArgP", "addAttribute"]
+- !private ["s7CVarArgP", "attributes"]
+- !private ["s7CVarArgP", "delegate"]
+- !private ["s7CVarArgP", "edited"]
+- !private ["s7CVarArgP", "editedRange"]
+- !private ["s7CVarArgP", "enumerateMatches"]
+- !private ["s7CVarArgP", "expression"]
+- !private ["s7CVarArgP", "fixAttributes"]
+- ["s7CVarArgP", "init"]
+- !private ["s7CVarArgP", "paragraphRange"]
+- !private ["s7CVarArgP", "processEditing"]
+- !private ["s7CVarArgP", "removeAttribute"]
+- !private ["s7CVarArgP", "replaceCharacters"]
+- !private ["s7CVarArgP", "setAttributes"]
+- !private ["s7CVarArgP", "storage"]
+- !private ["s7CVarArgP", "string"]
+- !private ["s7CVarArgP", "utf16"]
+- !private ["Sl", "count"]
+- !private ["Sl", "utf16"]
+- !private ["SL", "utf16"]
+- ["s28CustomDebugStringConvertibleP", "MatchingFlags"]
+- ["s28CustomDebugStringConvertibleP", "NSMutableAttributedString"]
+- ["s28CustomDebugStringConvertibleP", ""]
+- !private ["s28CustomDebugStringConvertibleP", "addAttribute"]
+- !private ["s28CustomDebugStringConvertibleP", "attributes"]
+- !private ["s28CustomDebugStringConvertibleP", "count"]
+- !private ["s28CustomDebugStringConvertibleP", "delegate"]
+- !private ["s28CustomDebugStringConvertibleP", "edited"]
+- !private ["s28CustomDebugStringConvertibleP", "editedRange"]
+- !private ["s28CustomDebugStringConvertibleP", "enumerateMatches"]
+- !private ["s28CustomDebugStringConvertibleP", "expression"]
+- !private ["s28CustomDebugStringConvertibleP", "fixAttributes"]
+- ["s28CustomDebugStringConvertibleP", "init"]
+- !private ["s28CustomDebugStringConvertibleP", "init"]
+- !private ["s28CustomDebugStringConvertibleP", "length"]
+- !private ["s28CustomDebugStringConvertibleP", "paragraphRange"]
+- !private ["s28CustomDebugStringConvertibleP", "processEditing"]
+- !private ["s28CustomDebugStringConvertibleP", "removeAttribute"]
+- !private ["s28CustomDebugStringConvertibleP", "replaceCharacters"]
+- !private ["s28CustomDebugStringConvertibleP", "setAttributes"]
+- !private ["s28CustomDebugStringConvertibleP", "storage"]
+- !private ["s28CustomDebugStringConvertibleP", "string"]
+- !private ["s28CustomDebugStringConvertibleP", "utf16"]
+- !private ["s29CustomPlaygroundQuickLookableP", "count"]
+- !private ["s29CustomPlaygroundQuickLookableP", "length"]
+- !private ["s29CustomPlaygroundQuickLookableP", "paragraphRange"]
+- !private ["s29CustomPlaygroundQuickLookableP", "utf16"]
+- !private ["s17CustomReflectableP", "count"]
+- !private ["s17CustomReflectableP", "init"]
+- !private ["s17CustomReflectableP", "init"]
+- !private ["s17CustomReflectableP", "length"]
+- !private ["s17CustomReflectableP", "utf16"]
+- ["s23CustomStringConvertibleP", "MatchingFlags"]
+- ["s23CustomStringConvertibleP", "NSMutableAttributedString"]
+- ["s23CustomStringConvertibleP", ""]
+- !private ["s23CustomStringConvertibleP", "addAttribute"]
+- !private ["s23CustomStringConvertibleP", "attributes"]
+- !private ["s23CustomStringConvertibleP", "count"]
+- !private ["s23CustomStringConvertibleP", "delegate"]
+- !private ["s23CustomStringConvertibleP", "edited"]
+- !private ["s23CustomStringConvertibleP", "editedRange"]
+- !private ["s23CustomStringConvertibleP", "enumerateMatches"]
+- !private ["s23CustomStringConvertibleP", "expression"]
+- !private ["s23CustomStringConvertibleP", "fixAttributes"]
+- ["s23CustomStringConvertibleP", "init"]
+- !private ["s23CustomStringConvertibleP", "init"]
+- !private ["s23CustomStringConvertibleP", "length"]
+- !private ["s23CustomStringConvertibleP", "paragraphRange"]
+- !private ["s23CustomStringConvertibleP", "processEditing"]
+- !private ["s23CustomStringConvertibleP", "removeAttribute"]
+- !private ["s23CustomStringConvertibleP", "replaceCharacters"]
+- !private ["s23CustomStringConvertibleP", "setAttributes"]
+- !private ["s23CustomStringConvertibleP", "storage"]
+- !private ["s23CustomStringConvertibleP", "string"]
+- !private ["s23CustomStringConvertibleP", "utf16"]
+- !private ["Se", "length"]
+- !private ["Se", "utf16"]
+- !private ["So24NSTextStorageEditActionsV", "editedAttributes"]
+- !private ["So24NSTextStorageEditActionsV", "editedCharacters"]
+- !private ["SE", "length"]
+- !private ["SE", "utf16"]
+- ["SQ", "MatchingFlags"]
+- ["SQ", "NSMutableAttributedString"]
+- ["SQ", ""]
+- !private ["SQ", "addAttribute"]
+- !private ["SQ", "attributes"]
+- !private ["SQ", "delegate"]
+- !private ["SQ", "edited"]
+- !private ["SQ", "editedAttributes"]
+- !private ["SQ", "editedCharacters"]
+- !private ["SQ", "editedRange"]
+- !private ["SQ", "enumerateMatches"]
+- !private ["SQ", "expression"]
+- !private ["SQ", "fixAttributes"]
+- ["SQ", "init"]
+- !private ["SQ", "length"]
+- !private ["SQ", "paragraphRange"]
+- !private ["SQ", "processEditing"]
+- !private ["SQ", "removeAttribute"]
+- !private ["SQ", "replaceCharacters"]
+- !private ["SQ", "setAttributes"]
+- !private ["SQ", "storage"]
+- !private ["SQ", "string"]
+- !private ["SQ", "utf16"]
+- !private ["s25ExpressibleByArrayLiteralP", "editedAttributes"]
+- !private ["s25ExpressibleByArrayLiteralP", "editedCharacters"]
+- !private ["s43ExpressibleByExtendedGraphemeClusterLiteralP", "init"]
+- !private ["s43ExpressibleByExtendedGraphemeClusterLiteralP", "init"]
+- !private ["s43ExpressibleByExtendedGraphemeClusterLiteralP", "paragraphRange"]
+- !private ["s43ExpressibleByExtendedGraphemeClusterLiteralP", "utf16"]
+- !private ["s26ExpressibleByStringLiteralP", "init"]
+- !private ["s26ExpressibleByStringLiteralP", "init"]
+- !private ["s26ExpressibleByStringLiteralP", "paragraphRange"]
+- !private ["s26ExpressibleByStringLiteralP", "utf16"]
+- !private ["s33ExpressibleByUnicodeScalarLiteralP", "init"]
+- !private ["s33ExpressibleByUnicodeScalarLiteralP", "init"]
+- !private ["s33ExpressibleByUnicodeScalarLiteralP", "paragraphRange"]
+- !private ["s33ExpressibleByUnicodeScalarLiteralP", "utf16"]
+- ["SH", "MatchingFlags"]
+- ["SH", "NSMutableAttributedString"]
+- ["SH", ""]
+- !private ["SH", "addAttribute"]
+- !private ["SH", "attributes"]
+- !private ["SH", "delegate"]
+- !private ["SH", "edited"]
+- !private ["SH", "editedRange"]
+- !private ["SH", "enumerateMatches"]
+- !private ["SH", "expression"]
+- !private ["SH", "fixAttributes"]
+- ["SH", "init"]
+- !private ["SH", "length"]
+- !private ["SH", "paragraphRange"]
+- !private ["SH", "processEditing"]
+- !private ["SH", "removeAttribute"]
+- !private ["SH", "replaceCharacters"]
+- !private ["SH", "setAttributes"]
+- !private ["SH", "storage"]
+- !private ["SH", "string"]
+- !private ["SH", "utf16"]
+- !private ["s25LosslessStringConvertibleP", "utf16"]
+- !private ["s10MirrorPathP", "utf16"]
+- ["So18NSAttributedStringC", "Int"]
+- ["So18NSAttributedStringC", "NSAttributedStringKey"]
+- ["So18NSAttributedStringC", "NSCoder"]
+- ["So18NSAttributedStringC", "NSMutableAttributedString"]
+- ["So18NSAttributedStringC", "NSRange"]
+- ["So18NSAttributedStringC", "NSRangePointer"]
+- ["So18NSAttributedStringC", "NSRegularExpression"]
+- !private ["So18NSAttributedStringC", "NSString"]
+- !private ["So18NSAttributedStringC", "NSTextCheckingResult"]
+- !private ["So18NSAttributedStringC", "ObjCBool"]
+- ["So18NSAttributedStringC", "String"]
+- !private ["So18NSAttributedStringC", "TextStorageDelegate"]
+- !private ["So18NSAttributedStringC", "UnsafeMutablePointer"]
+- !private ["So18NSAttributedStringC", "Void"]
+- ["So18NSAttributedStringC", "addAttribute"]
+- ["So18NSAttributedStringC", "attributes"]
+- !private ["So18NSAttributedStringC", "delegate"]
+- !private ["So18NSAttributedStringC", "edited"]
+- !private ["So18NSAttributedStringC", "editedRange"]
+- ["So18NSAttributedStringC", "expression"]
+- !private ["So18NSAttributedStringC", "fixAttributes"]
+- ["So18NSAttributedStringC", "init"]
+- ["So18NSAttributedStringC", "processEditing"]
+- ["So18NSAttributedStringC", "removeAttribute"]
+- ["So18NSAttributedStringC", "replaceCharacters"]
+- ["So18NSAttributedStringC", "setAttributes"]
+- ["So18NSAttributedStringC", "storage"]
+- ["So18NSAttributedStringC", "string"]
+- ["So8NSCodingP", "MatchingFlags"]
+- ["So8NSCodingP", "NSMutableAttributedString"]
+- ["So8NSCodingP", ""]
+- !private ["So8NSCodingP", "addAttribute"]
+- !private ["So8NSCodingP", "attributes"]
+- !private ["So8NSCodingP", "delegate"]
+- !private ["So8NSCodingP", "edited"]
+- !private ["So8NSCodingP", "editedRange"]
+- !private ["So8NSCodingP", "enumerateMatches"]
+- !private ["So8NSCodingP", "expression"]
+- !private ["So8NSCodingP", "fixAttributes"]
+- ["So8NSCodingP", "init"]
+- !private ["So8NSCodingP", "paragraphRange"]
+- !private ["So8NSCodingP", "processEditing"]
+- !private ["So8NSCodingP", "removeAttribute"]
+- !private ["So8NSCodingP", "replaceCharacters"]
+- !private ["So8NSCodingP", "setAttributes"]
+- !private ["So8NSCodingP", "storage"]
+- !private ["So8NSCodingP", "string"]
+- !private ["So8NSCodingP", "utf16"]
+- ["So9NSCopyingP", "MatchingFlags"]
+- ["So9NSCopyingP", "NSMutableAttributedString"]
+- ["So9NSCopyingP", ""]
+- !private ["So9NSCopyingP", "addAttribute"]
+- !private ["So9NSCopyingP", "attributes"]
+- !private ["So9NSCopyingP", "delegate"]
+- !private ["So9NSCopyingP", "edited"]
+- !private ["So9NSCopyingP", "editedRange"]
+- !private ["So9NSCopyingP", "enumerateMatches"]
+- !private ["So9NSCopyingP", "expression"]
+- !private ["So9NSCopyingP", "fixAttributes"]
+- ["So9NSCopyingP", "init"]
+- !private ["So9NSCopyingP", "paragraphRange"]
+- !private ["So9NSCopyingP", "processEditing"]
+- !private ["So9NSCopyingP", "removeAttribute"]
+- !private ["So9NSCopyingP", "replaceCharacters"]
+- !private ["So9NSCopyingP", "setAttributes"]
+- !private ["So9NSCopyingP", "storage"]
+- !private ["So9NSCopyingP", "string"]
+- !private ["So9NSCopyingP", "utf16"]
+- ["So21NSItemProviderReadingP", "NSMutableAttributedString"]
+- ["So21NSItemProviderReadingP", ""]
+- !private ["So21NSItemProviderReadingP", "addAttribute"]
+- !private ["So21NSItemProviderReadingP", "attributes"]
+- !private ["So21NSItemProviderReadingP", "delegate"]
+- !private ["So21NSItemProviderReadingP", "edited"]
+- !private ["So21NSItemProviderReadingP", "editedRange"]
+- !private ["So21NSItemProviderReadingP", "expression"]
+- !private ["So21NSItemProviderReadingP", "fixAttributes"]
+- ["So21NSItemProviderReadingP", "init"]
+- !private ["So21NSItemProviderReadingP", "paragraphRange"]
+- !private ["So21NSItemProviderReadingP", "processEditing"]
+- !private ["So21NSItemProviderReadingP", "removeAttribute"]
+- !private ["So21NSItemProviderReadingP", "replaceCharacters"]
+- !private ["So21NSItemProviderReadingP", "setAttributes"]
+- !private ["So21NSItemProviderReadingP", "storage"]
+- !private ["So21NSItemProviderReadingP", "string"]
+- !private ["So21NSItemProviderReadingP", "utf16"]
+- ["So21NSItemProviderWritingP", "NSMutableAttributedString"]
+- ["So21NSItemProviderWritingP", ""]
+- !private ["So21NSItemProviderWritingP", "addAttribute"]
+- !private ["So21NSItemProviderWritingP", "attributes"]
+- !private ["So21NSItemProviderWritingP", "delegate"]
+- !private ["So21NSItemProviderWritingP", "edited"]
+- !private ["So21NSItemProviderWritingP", "editedRange"]
+- !private ["So21NSItemProviderWritingP", "expression"]
+- !private ["So21NSItemProviderWritingP", "fixAttributes"]
+- ["So21NSItemProviderWritingP", "init"]
+- !private ["So21NSItemProviderWritingP", "paragraphRange"]
+- !private ["So21NSItemProviderWritingP", "processEditing"]
+- !private ["So21NSItemProviderWritingP", "removeAttribute"]
+- !private ["So21NSItemProviderWritingP", "replaceCharacters"]
+- !private ["So21NSItemProviderWritingP", "setAttributes"]
+- !private ["So21NSItemProviderWritingP", "storage"]
+- !private ["So21NSItemProviderWritingP", "string"]
+- !private ["So21NSItemProviderWritingP", "utf16"]
+- ["So25NSMutableAttributedStringC", "Int"]
+- ["So25NSMutableAttributedStringC", "NSAttributedStringKey"]
+- ["So25NSMutableAttributedStringC", "NSCoder"]
+- ["So25NSMutableAttributedStringC", "NSMutableAttributedString"]
+- ["So25NSMutableAttributedStringC", "NSRange"]
+- ["So25NSMutableAttributedStringC", "NSRangePointer"]
+- ["So25NSMutableAttributedStringC", "NSRegularExpression"]
+- !private ["So25NSMutableAttributedStringC", "NSString"]
+- !private ["So25NSMutableAttributedStringC", "NSTextCheckingResult"]
+- !private ["So25NSMutableAttributedStringC", "ObjCBool"]
+- ["So25NSMutableAttributedStringC", "String"]
+- !private ["So25NSMutableAttributedStringC", "TextStorageDelegate"]
+- !private ["So25NSMutableAttributedStringC", "UnsafeMutablePointer"]
+- !private ["So25NSMutableAttributedStringC", "Void"]
+- ["So25NSMutableAttributedStringC", "addAttribute"]
+- ["So25NSMutableAttributedStringC", "attributes"]
+- !private ["So25NSMutableAttributedStringC", "delegate"]
+- !private ["So25NSMutableAttributedStringC", "edited"]
+- !private ["So25NSMutableAttributedStringC", "editedRange"]
+- ["So25NSMutableAttributedStringC", "expression"]
+- !private ["So25NSMutableAttributedStringC", "fixAttributes"]
+- ["So25NSMutableAttributedStringC", "init"]
+- ["So25NSMutableAttributedStringC", "processEditing"]
+- ["So25NSMutableAttributedStringC", "removeAttribute"]
+- ["So25NSMutableAttributedStringC", "replaceCharacters"]
+- ["So25NSMutableAttributedStringC", "setAttributes"]
+- ["So25NSMutableAttributedStringC", "storage"]
+- ["So25NSMutableAttributedStringC", "string"]
+- ["So16NSMutableCopyingP", "NSMutableAttributedString"]
+- ["So16NSMutableCopyingP", ""]
+- !private ["So16NSMutableCopyingP", "addAttribute"]
+- !private ["So16NSMutableCopyingP", "attributes"]
+- !private ["So16NSMutableCopyingP", "delegate"]
+- !private ["So16NSMutableCopyingP", "edited"]
+- !private ["So16NSMutableCopyingP", "editedRange"]
+- !private ["So16NSMutableCopyingP", "expression"]
+- !private ["So16NSMutableCopyingP", "fixAttributes"]
+- ["So16NSMutableCopyingP", "init"]
+- !private ["So16NSMutableCopyingP", "paragraphRange"]
+- !private ["So16NSMutableCopyingP", "processEditing"]
+- !private ["So16NSMutableCopyingP", "removeAttribute"]
+- !private ["So16NSMutableCopyingP", "replaceCharacters"]
+- !private ["So16NSMutableCopyingP", "setAttributes"]
+- !private ["So16NSMutableCopyingP", "storage"]
+- !private ["So16NSMutableCopyingP", "string"]
+- !private ["So16NSMutableCopyingP", "utf16"]
+- ["So8NSObjectC", "Int"]
+- ["So8NSObjectC", "MatchingFlags"]
+- ["So8NSObjectC", "NSAttributedStringKey"]
+- ["So8NSObjectC", "NSCoder"]
+- ["So8NSObjectC", "NSMutableAttributedString"]
+- ["So8NSObjectC", "NSRange"]
+- ["So8NSObjectC", "NSRangePointer"]
+- ["So8NSObjectC", "NSRegularExpression"]
+- !private ["So8NSObjectC", "NSString"]
+- !private ["So8NSObjectC", "NSTextCheckingResult"]
+- !private ["So8NSObjectC", "ObjCBool"]
+- ["So8NSObjectC", "String"]
+- !private ["So8NSObjectC", "TextStorageDelegate"]
+- !private ["So8NSObjectC", "UnsafeMutablePointer"]
+- !private ["So8NSObjectC", "Void"]
+- ["So8NSObjectC", "addAttribute"]
+- ["So8NSObjectC", "attributes"]
+- !private ["So8NSObjectC", "delegate"]
+- !private ["So8NSObjectC", "edited"]
+- !private ["So8NSObjectC", "editedRange"]
+- !private ["So8NSObjectC", "enumerateMatches"]
+- ["So8NSObjectC", "expression"]
+- !private ["So8NSObjectC", "fixAttributes"]
+- ["So8NSObjectC", "init"]
+- !private ["So8NSObjectC", "paragraphRange"]
+- ["So8NSObjectC", "processEditing"]
+- ["So8NSObjectC", "removeAttribute"]
+- ["So8NSObjectC", "replaceCharacters"]
+- ["So8NSObjectC", "setAttributes"]
+- ["So8NSObjectC", "storage"]
+- ["So8NSObjectC", "string"]
+- !private ["So8NSObjectC", "utf16"]
+- ["So8NSObjectP", "MatchingFlags"]
+- ["So8NSObjectP", "NSMutableAttributedString"]
+- ["So8NSObjectP", "NSRange"]
+- ["So8NSObjectP", "NSRegularExpression"]
+- ["So8NSObjectP", "NSTextCheckingResult"]
+- ["So8NSObjectP", "ObjCBool"]
+- ["So8NSObjectP", "String"]
+- ["So8NSObjectP", "TextStorage"]
+- ["So8NSObjectP", "UnsafeMutablePointer"]
+- ["So8NSObjectP", ""]
+- !private ["So8NSObjectP", "addAttribute"]
+- !private ["So8NSObjectP", "attributes"]
+- !private ["So8NSObjectP", "delegate"]
+- !private ["So8NSObjectP", "edited"]
+- !private ["So8NSObjectP", "editedRange"]
+- !private ["So8NSObjectP", "enumerateMatches"]
+- !private ["So8NSObjectP", "expression"]
+- !private ["So8NSObjectP", "fixAttributes"]
+- ["So8NSObjectP", "init"]
+- !private ["So8NSObjectP", "paragraphRange"]
+- !private ["So8NSObjectP", "processEditing"]
+- !private ["So8NSObjectP", "removeAttribute"]
+- !private ["So8NSObjectP", "replaceCharacters"]
+- !private ["So8NSObjectP", "setAttributes"]
+- !private ["So8NSObjectP", "storage"]
+- !private ["So8NSObjectP", "string"]
+- !private ["So8NSObjectP", "textStorage"]
+- !private ["So8NSObjectP", "utf16"]
+- ["So19NSRegularExpressionC", "MatchingFlags"]
+- !private ["So19NSRegularExpressionC", "enumerateMatches"]
+- ["So14NSSecureCodingP", "MatchingFlags"]
+- ["So14NSSecureCodingP", "NSMutableAttributedString"]
+- ["So14NSSecureCodingP", ""]
+- !private ["So14NSSecureCodingP", "addAttribute"]
+- !private ["So14NSSecureCodingP", "attributes"]
+- !private ["So14NSSecureCodingP", "delegate"]
+- !private ["So14NSSecureCodingP", "edited"]
+- !private ["So14NSSecureCodingP", "editedRange"]
+- !private ["So14NSSecureCodingP", "enumerateMatches"]
+- !private ["So14NSSecureCodingP", "expression"]
+- !private ["So14NSSecureCodingP", "fixAttributes"]
+- ["So14NSSecureCodingP", "init"]
+- !private ["So14NSSecureCodingP", "paragraphRange"]
+- !private ["So14NSSecureCodingP", "processEditing"]
+- !private ["So14NSSecureCodingP", "removeAttribute"]
+- !private ["So14NSSecureCodingP", "replaceCharacters"]
+- !private ["So14NSSecureCodingP", "setAttributes"]
+- !private ["So14NSSecureCodingP", "storage"]
+- !private ["So14NSSecureCodingP", "string"]
+- !private ["So14NSSecureCodingP", "utf16"]
+- !private ["So8NSStringC", "paragraphRange"]
+- !private ["So8NSStringC", "utf16"]
+- ["So13NSTextStorageC", "Int"]
+- ["So13NSTextStorageC", "NSAttributedStringKey"]
+- ["So13NSTextStorageC", "NSCoder"]
+- ["So13NSTextStorageC", "NSMutableAttributedString"]
+- ["So13NSTextStorageC", "NSRange"]
+- ["So13NSTextStorageC", "NSRangePointer"]
+- ["So13NSTextStorageC", "NSRegularExpression"]
+- !private ["So13NSTextStorageC", "NSString"]
+- !private ["So13NSTextStorageC", "NSTextCheckingResult"]
+- !private ["So13NSTextStorageC", "ObjCBool"]
+- ["So13NSTextStorageC", "String"]
+- !private ["So13NSTextStorageC", "TextStorageDelegate"]
+- !private ["So13NSTextStorageC", "UnsafeMutablePointer"]
+- !private ["So13NSTextStorageC", "Void"]
+- ["So13NSTextStorageC", ""]
+- ["So13NSTextStorageC", "addAttribute"]
+- ["So13NSTextStorageC", "attributes"]
+- !private ["So13NSTextStorageC", "delegate"]
+- !private ["So13NSTextStorageC", "edited"]
+- !private ["So13NSTextStorageC", "editedRange"]
+- ["So13NSTextStorageC", "expression"]
+- ["So13NSTextStorageC", "init"]
+- ["So13NSTextStorageC", "processEditing"]
+- ["So13NSTextStorageC", "removeAttribute"]
+- ["So13NSTextStorageC", "replaceCharacters"]
+- ["So13NSTextStorageC", "setAttributes"]
+- ["So13NSTextStorageC", "storage"]
+- ["So13NSTextStorageC", "string"]
+- ["So21NSTextStorageDelegateP", "NSRange"]
+- ["So21NSTextStorageDelegateP", "NSRegularExpression"]
+- ["So21NSTextStorageDelegateP", "NSTextCheckingResult"]
+- ["So21NSTextStorageDelegateP", "ObjCBool"]
+- ["So21NSTextStorageDelegateP", "String"]
+- ["So21NSTextStorageDelegateP", "TextStorage"]
+- ["So21NSTextStorageDelegateP", "UnsafeMutablePointer"]
+- ["So21NSTextStorageDelegateP", ""]
+- !private ["So21NSTextStorageDelegateP", "textStorage"]
+- !private ["s9OptionSetP", "editedAttributes"]
+- !private ["s9OptionSetP", "editedCharacters"]
+- !private ["Sm", "utf16"]
+- !private ["SY", "editedAttributes"]
+- !private ["SY", "editedCharacters"]
+- !private ["ST", "count"]
+- !private ["ST", "utf16"]
+- !private ["s10SetAlgebraP", "editedAttributes"]
+- !private ["s10SetAlgebraP", "editedCharacters"]
+- !private ["s12StaticStringV", "init"]
+- !private ["s12StaticStringV", "init"]
+- !private ["SS", "utf16"]
+- !private ["Sy", "utf16"]
+- !private ["s16TextOutputStreamP", "utf16"]
+- !private ["s20TextOutputStreamableP", "utf16"]
+- ["8Material11TextStorageC", "Int"]
+- ["8Material11TextStorageC", "NSAttributedStringKey"]
+- ["8Material11TextStorageC", "NSCoder"]
+- ["8Material11TextStorageC", "NSMutableAttributedString"]
+- ["8Material11TextStorageC", "NSRange"]
+- ["8Material11TextStorageC", "NSRangePointer"]
+- ["8Material11TextStorageC", "NSRegularExpression"]
+- !private ["8Material11TextStorageC", "NSString"]
+- !private ["8Material11TextStorageC", "NSTextCheckingResult"]
+- !private ["8Material11TextStorageC", "ObjCBool"]
+- ["8Material11TextStorageC", "String"]
+- !private ["8Material11TextStorageC", "TextStorageDelegate"]
+- !private ["8Material11TextStorageC", "UnsafeMutablePointer"]
+- !private ["8Material11TextStorageC", "Void"]
+- ["8Material11TextStorageC", "addAttribute"]
+- ["8Material11TextStorageC", "attributes"]
+- !private ["8Material11TextStorageC", "delegate"]
+- !private ["8Material11TextStorageC", "edited"]
+- !private ["8Material11TextStorageC", "editedRange"]
+- ["8Material11TextStorageC", "expression"]
+- ["8Material11TextStorageC", "init"]
+- ["8Material11TextStorageC", "processEditing"]
+- ["8Material11TextStorageC", "removeAttribute"]
+- ["8Material11TextStorageC", "replaceCharacters"]
+- ["8Material11TextStorageC", "setAttributes"]
+- ["8Material11TextStorageC", "storage"]
+- ["8Material11TextStorageC", "string"]
+- ["8Material19TextStorageDelegateP", "NSRange"]
+- ["8Material19TextStorageDelegateP", "NSRegularExpression"]
+- ["8Material19TextStorageDelegateP", "NSTextCheckingResult"]
+- ["8Material19TextStorageDelegateP", "ObjCBool"]
+- ["8Material19TextStorageDelegateP", "String"]
+- ["8Material19TextStorageDelegateP", "TextStorage"]
+- ["8Material19TextStorageDelegateP", "UnsafeMutablePointer"]
+- ["8Material19TextStorageDelegateP", "textStorage"]
+- !private ["SS9UTF16ViewV", "count"]
+- !private ["s51_ExpressibleByBuiltinExtendedGraphemeClusterLiteralP", "init"]
+- !private ["s51_ExpressibleByBuiltinExtendedGraphemeClusterLiteralP", "init"]
+- !private ["s51_ExpressibleByBuiltinExtendedGraphemeClusterLiteralP", "utf16"]
+- !private ["s34_ExpressibleByBuiltinStringLiteralP", "init"]
+- !private ["s34_ExpressibleByBuiltinStringLiteralP", "init"]
+- !private ["s34_ExpressibleByBuiltinStringLiteralP", "utf16"]
+- !private ["s39_ExpressibleByBuiltinUTF16StringLiteralP", "utf16"]
+- !private ["s41_ExpressibleByBuiltinUnicodeScalarLiteralP", "init"]
+- !private ["s41_ExpressibleByBuiltinUnicodeScalarLiteralP", "init"]
+- !private ["s41_ExpressibleByBuiltinUnicodeScalarLiteralP", "utf16"]
+- !private ["s33_ExpressibleByStringInterpolationP", "utf16"]
+- !private ["s35_HasCustomAnyHashableRepresentationP", "paragraphRange"]
+- !private ["s35_HasCustomAnyHashableRepresentationP", "utf16"]
+- ["10Foundation27_KeyValueCodingAndObservingP", "MatchingFlags"]
+- ["10Foundation27_KeyValueCodingAndObservingP", "NSMutableAttributedString"]
+- ["10Foundation27_KeyValueCodingAndObservingP", ""]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "addAttribute"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "attributes"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "delegate"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "edited"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "editedRange"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "enumerateMatches"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "expression"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "fixAttributes"]
+- ["10Foundation27_KeyValueCodingAndObservingP", "init"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "paragraphRange"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "processEditing"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "removeAttribute"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "replaceCharacters"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "setAttributes"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "storage"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "string"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "utf16"]
+- !private ["So8_NSRangeV", "length"]
+- !private ["s21_ObjectiveCBridgeableP", "length"]
+- !private ["s21_ObjectiveCBridgeableP", "utf16"]
+- !private ["s16_SwiftStringViewP", "count"]
+- !private ["s16_SwiftStringViewP", "utf16"]
+depends-nominal:
+- !private "SK"
+- "s7CVarArgP"
+- !private "Sl"
+- !private "SL"
+- "s28CustomDebugStringConvertibleP"
+- !private "s29CustomPlaygroundQuickLookableP"
+- !private "s17CustomReflectableP"
+- "s23CustomStringConvertibleP"
+- !private "Se"
+- !private "So24NSTextStorageEditActionsV"
+- !private "SE"
+- "SQ"
+- !private "s25ExpressibleByArrayLiteralP"
+- !private "s43ExpressibleByExtendedGraphemeClusterLiteralP"
+- !private "s26ExpressibleByStringLiteralP"
+- !private "s33ExpressibleByUnicodeScalarLiteralP"
+- "SH"
+- !private "s25LosslessStringConvertibleP"
+- !private "s10MirrorPathP"
+- "So18NSAttributedStringC"
+- "So8NSCodingP"
+- "So9NSCopyingP"
+- "So21NSItemProviderReadingP"
+- "So21NSItemProviderWritingP"
+- "So25NSMutableAttributedStringC"
+- "So16NSMutableCopyingP"
+- "So8NSObjectC"
+- "So8NSObjectP"
+- "So19NSRegularExpressionC"
+- "So14NSSecureCodingP"
+- !private "So8NSStringC"
+- "So13NSTextStorageC"
+- "So21NSTextStorageDelegateP"
+- !private "s9OptionSetP"
+- !private "Sm"
+- !private "SY"
+- !private "ST"
+- !private "s10SetAlgebraP"
+- !private "s12StaticStringV"
+- !private "SS"
+- !private "Sy"
+- !private "s16TextOutputStreamP"
+- !private "s20TextOutputStreamableP"
+- "8Material11TextStorageC"
+- "8Material19TextStorageDelegateP"
+- !private "SS9UTF16ViewV"
+- !private "s51_ExpressibleByBuiltinExtendedGraphemeClusterLiteralP"
+- !private "s34_ExpressibleByBuiltinStringLiteralP"
+- !private "s39_ExpressibleByBuiltinUTF16StringLiteralP"
+- !private "s41_ExpressibleByBuiltinUnicodeScalarLiteralP"
+- !private "s33_ExpressibleByStringInterpolationP"
+- !private "s35_HasCustomAnyHashableRepresentationP"
+- "10Foundation27_KeyValueCodingAndObservingP"
+- !private "So8_NSRangeV"
+- !private "s21_ObjectiveCBridgeableP"
+- !private "s16_SwiftStringViewP"
+depends-dynamic-lookup:
+depends-external:
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Dispatch.apinotesc"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/os.apinotesc"
+- "/Users/user/Desktop/Lyhour project/lyhour/Build/Products/Debug-iphonesimulator/Motion/Motion.framework/Modules/Motion.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/ObjectiveC.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/ModelIO.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/simd.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreImage.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/QuartzCore.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Accelerate.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Dispatch.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Metal.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Darwin.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Foundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreFoundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreGraphics.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/os.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Swift.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/UIKit.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/MetalKit.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/SwiftOnoneSupport.swiftmodule"
+- "/Users/user/Desktop/Lyhour project/lyhour/Pods/Target Support Files/Material/Material-umbrella.h"
+- "/Users/user/Desktop/Lyhour project/lyhour/Pods/Target Support Files/Motion/Motion-umbrella.h"
+- "/Users/user/Desktop/Lyhour project/lyhour/Build/Products/Debug-iphonesimulator/Motion/Motion.framework/Headers/Motion-Swift.h"
+- "/Users/user/Desktop/Lyhour project/lyhour/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/Material.build/unextended-module.modulemap"
+- "/Users/user/Desktop/Lyhour project/lyhour/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/Motion.build/module.modulemap"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.0.sdk/usr/include/objc/ObjectiveC.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.0.sdk/System/Library/Frameworks/ModelIO.framework/Headers/ModelIO.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.0.sdk/System/Library/Frameworks/OpenGLES.framework/Headers/OpenGLES.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.0.sdk/System/Library/Frameworks/CoreImage.framework/Headers/CoreImage.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.0.sdk/System/Library/Frameworks/QuartzCore.framework/Headers/QuartzCore.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.0.sdk/System/Library/Frameworks/Accelerate.framework/Headers/Accelerate.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.0.sdk/System/Library/Frameworks/Metal.framework/Headers/Metal.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.0.sdk/usr/include/Darwin.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.0.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.0.sdk/System/Library/Frameworks/CoreGraphics.framework/Headers/CoreGraphics.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.0.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.0.sdk/System/Library/Frameworks/MetalKit.framework/Headers/MetalKit.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.0.sdk/System/Library/Frameworks/CoreText.framework/Headers/CoreText.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.0.sdk/System/Library/Frameworks/Security.framework/Headers/Security.apinotes"
+interface-hash: "529d6e41c7bbeb41d558c462f1c978e2"

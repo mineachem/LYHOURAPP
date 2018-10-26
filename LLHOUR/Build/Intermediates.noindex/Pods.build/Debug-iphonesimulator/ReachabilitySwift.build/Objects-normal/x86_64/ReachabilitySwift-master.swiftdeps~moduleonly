@@ -1,0 +1,5 @@
+version: "Apple Swift version 4.2 (swiftlang-1000.11.37.1 clang-1000.11.45.1)"
+options: "bd6523b32f6426ae66961c1716eadb2b"
+build_time: [1540552182, 875583000]
+inputs:
+  "/Users/user/Desktop/Lyhour project/lyhour/Pods/ReachabilitySwift/Sources/Reachability.swift": [1540179469, 0]

@@ -1,0 +1,5 @@
+version: "Apple Swift version 4.2 (swiftlang-1000.11.37.1 clang-1000.11.45.1)"
+options: "3253d0fed6ed6d7520eab9e54a75151f"
+build_time: [1540552184, 838181000]
+inputs:
+  "/Users/user/Desktop/Lyhour project/lyhour/Pods/DeviceKit/Source/Device.generated.swift": [1540179176, 0]

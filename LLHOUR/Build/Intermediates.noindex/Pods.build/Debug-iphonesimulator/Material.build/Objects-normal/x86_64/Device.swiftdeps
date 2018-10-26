@@ -1,0 +1,427 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+- "DeviceModel"
+- "Device"
+- "=="
+- "!="
+provides-nominal:
+- "8Material11DeviceModelO"
+- "8Material6DeviceV"
+provides-member:
+- ["8Material11DeviceModelO", ""]
+- ["8Material6DeviceV", ""]
+provides-dynamic-lookup:
+depends-top-level:
+- "!="
+- !private "+"
+- "=="
+- "Bool"
+- !private "CastingPrecedence"
+- "Device"
+- "DeviceModel"
+- "FloatLiteralType"
+- "Int"
+- !private "Int8"
+- "IntegerLiteralType"
+- !private "Mirror"
+- "String"
+- !private "StringLiteralType"
+- !private "UIDevice"
+- "UIUserInterfaceIdiom"
+- !private "UInt8"
+- !private "UnicodeScalar"
+- !private "uname"
+- !private "unsafeBitCast"
+- !private "utsname"
+- !private "~="
+depends-member:
+- !private ["s13AnyCollectionV", "reduce"]
+- !private ["SK", "init"]
+- !private ["SK", "init"]
+- !private ["Sz", "init"]
+- !private ["Sb", "_getBuiltinLogicValue"]
+- !private ["s7CVarArgP", "_getBuiltinLogicValue"]
+- !private ["s7CVarArgP", "current"]
+- !private ["s7CVarArgP", "init"]
+- !private ["s7CVarArgP", "init"]
+- !private ["s7CVarArgP", "userInterfaceIdiom"]
+- !private ["Sl", "init"]
+- !private ["Sl", "init"]
+- !private ["Sl", "reduce"]
+- !private ["SL", "init"]
+- !private ["SL", "init"]
+- !private ["s28CustomDebugStringConvertibleP", "current"]
+- !private ["s28CustomDebugStringConvertibleP", "init"]
+- !private ["s28CustomDebugStringConvertibleP", "init"]
+- !private ["s28CustomDebugStringConvertibleP", "userInterfaceIdiom"]
+- !private ["s29CustomPlaygroundQuickLookableP", "_getBuiltinLogicValue"]
+- !private ["s29CustomPlaygroundQuickLookableP", "init"]
+- !private ["s29CustomPlaygroundQuickLookableP", "init"]
+- !private ["s17CustomReflectableP", "_getBuiltinLogicValue"]
+- !private ["s17CustomReflectableP", "children"]
+- !private ["s17CustomReflectableP", "init"]
+- !private ["s17CustomReflectableP", "init"]
+- !private ["s23CustomStringConvertibleP", "_getBuiltinLogicValue"]
+- !private ["s23CustomStringConvertibleP", "children"]
+- !private ["s23CustomStringConvertibleP", "current"]
+- !private ["s23CustomStringConvertibleP", "init"]
+- !private ["s23CustomStringConvertibleP", "init"]
+- !private ["s23CustomStringConvertibleP", "userInterfaceIdiom"]
+- !private ["Se", "_getBuiltinLogicValue"]
+- !private ["Se", "init"]
+- !private ["Se", "init"]
+- ["8Material6DeviceV", "DeviceModel"]
+- !private ["8Material6DeviceV", "Int8"]
+- !private ["8Material6DeviceV", "Mirror"]
+- ["8Material6DeviceV", "String"]
+- !private ["8Material6DeviceV", "UIDevice"]
+- ["8Material6DeviceV", "UIUserInterfaceIdiom"]
+- !private ["8Material6DeviceV", "UInt8"]
+- !private ["8Material6DeviceV", "UnicodeScalar"]
+- ["8Material6DeviceV", "identifier"]
+- ["8Material6DeviceV", "init"]
+- ["8Material6DeviceV", "model"]
+- !private ["8Material6DeviceV", "uname"]
+- ["8Material6DeviceV", "userInterfaceIdiom"]
+- !private ["8Material6DeviceV", "utsname"]
+- ["8Material11DeviceModelO", "RawValue"]
+- ["8Material11DeviceModelO", "_Default_RawValue"]
+- ["8Material11DeviceModelO", "deinit"]
+- ["8Material11DeviceModelO", "hash"]
+- ["8Material11DeviceModelO", "hashValue"]
+- ["8Material11DeviceModelO", "iPad2"]
+- ["8Material11DeviceModelO", "iPad3"]
+- ["8Material11DeviceModelO", "iPad4"]
+- ["8Material11DeviceModelO", "iPad5"]
+- ["8Material11DeviceModelO", "iPad6"]
+- ["8Material11DeviceModelO", "iPadAir"]
+- ["8Material11DeviceModelO", "iPadAir2"]
+- ["8Material11DeviceModelO", "iPadMini"]
+- ["8Material11DeviceModelO", "iPadMini2"]
+- ["8Material11DeviceModelO", "iPadMini3"]
+- ["8Material11DeviceModelO", "iPadMini4"]
+- ["8Material11DeviceModelO", "iPadPro"]
+- ["8Material11DeviceModelO", "iPadPro2"]
+- ["8Material11DeviceModelO", "iPadProLarge"]
+- ["8Material11DeviceModelO", "iPadProLarge2"]
+- ["8Material11DeviceModelO", "iPhone4s"]
+- ["8Material11DeviceModelO", "iPhone5"]
+- ["8Material11DeviceModelO", "iPhone5c"]
+- ["8Material11DeviceModelO", "iPhone5s"]
+- ["8Material11DeviceModelO", "iPhone6"]
+- ["8Material11DeviceModelO", "iPhone6Plus"]
+- ["8Material11DeviceModelO", "iPhone6s"]
+- ["8Material11DeviceModelO", "iPhone6sPlus"]
+- ["8Material11DeviceModelO", "iPhone7"]
+- ["8Material11DeviceModelO", "iPhone7Plus"]
+- ["8Material11DeviceModelO", "iPhone8"]
+- ["8Material11DeviceModelO", "iPhone8Plus"]
+- ["8Material11DeviceModelO", "iPhoneSE"]
+- ["8Material11DeviceModelO", "iPhoneX"]
+- ["8Material11DeviceModelO", "iPodTouch5"]
+- ["8Material11DeviceModelO", "iPodTouch6"]
+- ["8Material11DeviceModelO", "init"]
+- ["8Material11DeviceModelO", "rawValue"]
+- ["8Material11DeviceModelO", "simulator"]
+- ["8Material11DeviceModelO", "unknown"]
+- !private ["8Material11DeviceModelO", "unsafeBitCast"]
+- !private ["SE", "_getBuiltinLogicValue"]
+- !private ["SE", "init"]
+- !private ["SE", "init"]
+- ["SQ", "RawValue"]
+- ["SQ", ""]
+- ["SQ", "_Default_RawValue"]
+- !private ["SQ", "_getBuiltinLogicValue"]
+- !private ["SQ", "current"]
+- ["SQ", "hash"]
+- ["SQ", "hashValue"]
+- !private ["SQ", "iPad2"]
+- !private ["SQ", "iPad3"]
+- !private ["SQ", "iPad4"]
+- !private ["SQ", "iPad5"]
+- !private ["SQ", "iPad6"]
+- !private ["SQ", "iPadAir"]
+- !private ["SQ", "iPadAir2"]
+- !private ["SQ", "iPadMini"]
+- !private ["SQ", "iPadMini2"]
+- !private ["SQ", "iPadMini3"]
+- !private ["SQ", "iPadMini4"]
+- !private ["SQ", "iPadPro"]
+- !private ["SQ", "iPadPro2"]
+- !private ["SQ", "iPadProLarge"]
+- !private ["SQ", "iPadProLarge2"]
+- !private ["SQ", "iPhone4s"]
+- !private ["SQ", "iPhone5"]
+- !private ["SQ", "iPhone5c"]
+- !private ["SQ", "iPhone5s"]
+- !private ["SQ", "iPhone6"]
+- !private ["SQ", "iPhone6Plus"]
+- !private ["SQ", "iPhone6s"]
+- !private ["SQ", "iPhone6sPlus"]
+- !private ["SQ", "iPhone7"]
+- !private ["SQ", "iPhone7Plus"]
+- !private ["SQ", "iPhone8"]
+- !private ["SQ", "iPhone8Plus"]
+- !private ["SQ", "iPhoneSE"]
+- !private ["SQ", "iPhoneX"]
+- !private ["SQ", "iPodTouch5"]
+- !private ["SQ", "iPodTouch6"]
+- ["SQ", "init"]
+- !private ["SQ", "init"]
+- ["SQ", "rawValue"]
+- !private ["SQ", "simulator"]
+- !private ["SQ", "unknown"]
+- !private ["SQ", "unsafeBitCast"]
+- !private ["SQ", "userInterfaceIdiom"]
+- !private ["s27ExpressibleByBooleanLiteralP", "_getBuiltinLogicValue"]
+- !private ["s43ExpressibleByExtendedGraphemeClusterLiteralP", "init"]
+- !private ["s43ExpressibleByExtendedGraphemeClusterLiteralP", "init"]
+- !private ["s27ExpressibleByIntegerLiteralP", "init"]
+- !private ["s26ExpressibleByStringLiteralP", "init"]
+- !private ["s26ExpressibleByStringLiteralP", "init"]
+- !private ["s33ExpressibleByUnicodeScalarLiteralP", "init"]
+- !private ["s33ExpressibleByUnicodeScalarLiteralP", "init"]
+- !private ["s17FixedWidthIntegerP", "init"]
+- ["SH", "RawValue"]
+- ["SH", ""]
+- ["SH", "_Default_RawValue"]
+- !private ["SH", "_getBuiltinLogicValue"]
+- !private ["SH", "current"]
+- ["SH", "hash"]
+- ["SH", "hashValue"]
+- !private ["SH", "iPad2"]
+- !private ["SH", "iPad3"]
+- !private ["SH", "iPad4"]
+- !private ["SH", "iPad5"]
+- !private ["SH", "iPad6"]
+- !private ["SH", "iPadAir"]
+- !private ["SH", "iPadAir2"]
+- !private ["SH", "iPadMini"]
+- !private ["SH", "iPadMini2"]
+- !private ["SH", "iPadMini3"]
+- !private ["SH", "iPadMini4"]
+- !private ["SH", "iPadPro"]
+- !private ["SH", "iPadPro2"]
+- !private ["SH", "iPadProLarge"]
+- !private ["SH", "iPadProLarge2"]
+- !private ["SH", "iPhone4s"]
+- !private ["SH", "iPhone5"]
+- !private ["SH", "iPhone5c"]
+- !private ["SH", "iPhone5s"]
+- !private ["SH", "iPhone6"]
+- !private ["SH", "iPhone6Plus"]
+- !private ["SH", "iPhone6s"]
+- !private ["SH", "iPhone6sPlus"]
+- !private ["SH", "iPhone7"]
+- !private ["SH", "iPhone7Plus"]
+- !private ["SH", "iPhone8"]
+- !private ["SH", "iPhone8Plus"]
+- !private ["SH", "iPhoneSE"]
+- !private ["SH", "iPhoneX"]
+- !private ["SH", "iPodTouch5"]
+- !private ["SH", "iPodTouch6"]
+- ["SH", "init"]
+- !private ["SH", "init"]
+- ["SH", "rawValue"]
+- !private ["SH", "simulator"]
+- !private ["SH", "unknown"]
+- !private ["SH", "unsafeBitCast"]
+- !private ["SH", "userInterfaceIdiom"]
+- !private ["s6HasherV", "combine"]
+- !private ["s25LosslessStringConvertibleP", "_getBuiltinLogicValue"]
+- !private ["s25LosslessStringConvertibleP", "init"]
+- !private ["s25LosslessStringConvertibleP", "init"]
+- !private ["s6MirrorV", "children"]
+- !private ["s6MirrorV", "init"]
+- !private ["s10MirrorPathP", "init"]
+- !private ["s10MirrorPathP", "init"]
+- !private ["So8NSObjectC", "current"]
+- !private ["So8NSObjectC", "userInterfaceIdiom"]
+- !private ["So8NSObjectP", "current"]
+- !private ["So8NSObjectP", "userInterfaceIdiom"]
+- !private ["Sj", "init"]
+- !private ["Sm", "init"]
+- !private ["Sm", "init"]
+- ["SY", "RawValue"]
+- ["SY", ""]
+- ["SY", "_Default_RawValue"]
+- ["SY", "hash"]
+- ["SY", "hashValue"]
+- !private ["SY", "iPad2"]
+- !private ["SY", "iPad3"]
+- !private ["SY", "iPad4"]
+- !private ["SY", "iPad5"]
+- !private ["SY", "iPad6"]
+- !private ["SY", "iPadAir"]
+- !private ["SY", "iPadAir2"]
+- !private ["SY", "iPadMini"]
+- !private ["SY", "iPadMini2"]
+- !private ["SY", "iPadMini3"]
+- !private ["SY", "iPadMini4"]
+- !private ["SY", "iPadPro"]
+- !private ["SY", "iPadPro2"]
+- !private ["SY", "iPadProLarge"]
+- !private ["SY", "iPadProLarge2"]
+- !private ["SY", "iPhone4s"]
+- !private ["SY", "iPhone5"]
+- !private ["SY", "iPhone5c"]
+- !private ["SY", "iPhone5s"]
+- !private ["SY", "iPhone6"]
+- !private ["SY", "iPhone6Plus"]
+- !private ["SY", "iPhone6s"]
+- !private ["SY", "iPhone6sPlus"]
+- !private ["SY", "iPhone7"]
+- !private ["SY", "iPhone7Plus"]
+- !private ["SY", "iPhone8"]
+- !private ["SY", "iPhone8Plus"]
+- !private ["SY", "iPhoneSE"]
+- !private ["SY", "iPhoneX"]
+- !private ["SY", "iPodTouch5"]
+- !private ["SY", "iPodTouch6"]
+- ["SY", "init"]
+- ["SY", "rawValue"]
+- !private ["SY", "simulator"]
+- !private ["SY", "unknown"]
+- !private ["SY", "unsafeBitCast"]
+- !private ["s7UnicodeO6ScalarV", "init"]
+- !private ["ST", "init"]
+- !private ["ST", "init"]
+- !private ["ST", "reduce"]
+- !private ["Sx", "init"]
+- !private ["SS", "init"]
+- !private ["SS", "init"]
+- !private ["Sy", "init"]
+- !private ["Sy", "init"]
+- !private ["s16TextOutputStreamP", "init"]
+- !private ["s16TextOutputStreamP", "init"]
+- !private ["s20TextOutputStreamableP", "init"]
+- !private ["s20TextOutputStreamableP", "init"]
+- !private ["So8UIDeviceC", "current"]
+- !private ["So8UIDeviceC", "userInterfaceIdiom"]
+- !private ["s5UInt8V", "init"]
+- !private ["SU", "init"]
+- !private ["s22_AnyCollectionProtocolP", "reduce"]
+- !private ["s18_BitwiseOperationsP", "init"]
+- !private ["s35_ExpressibleByBuiltinBooleanLiteralP", "_getBuiltinLogicValue"]
+- !private ["s51_ExpressibleByBuiltinExtendedGraphemeClusterLiteralP", "init"]
+- !private ["s51_ExpressibleByBuiltinExtendedGraphemeClusterLiteralP", "init"]
+- !private ["s35_ExpressibleByBuiltinIntegerLiteralP", "init"]
+- !private ["s34_ExpressibleByBuiltinStringLiteralP", "init"]
+- !private ["s34_ExpressibleByBuiltinStringLiteralP", "init"]
+- !private ["s39_ExpressibleByBuiltinUTF16StringLiteralP", "init"]
+- !private ["s39_ExpressibleByBuiltinUTF16StringLiteralP", "init"]
+- !private ["s41_ExpressibleByBuiltinUnicodeScalarLiteralP", "init"]
+- !private ["s41_ExpressibleByBuiltinUnicodeScalarLiteralP", "init"]
+- !private ["s33_ExpressibleByStringInterpolationP", "init"]
+- !private ["s33_ExpressibleByStringInterpolationP", "init"]
+- !private ["s35_HasCustomAnyHashableRepresentationP", "init"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "current"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "userInterfaceIdiom"]
+- !private ["s21_ObjectiveCBridgeableP", "_getBuiltinLogicValue"]
+- !private ["s21_ObjectiveCBridgeableP", "init"]
+- !private ["s21_ObjectiveCBridgeableP", "init"]
+- !private ["s14_StringElementP", "init"]
+- !private ["s16_SwiftStringViewP", "init"]
+- !private ["s16_SwiftStringViewP", "init"]
+- !private ["So7utsnameV", "init"]
+- !private ["So7utsnameV", "machine"]
+depends-nominal:
+- !private "s13AnyCollectionV"
+- !private "SK"
+- !private "Sz"
+- !private "Sb"
+- !private "s7CVarArgP"
+- !private "Sl"
+- !private "SL"
+- !private "s28CustomDebugStringConvertibleP"
+- !private "s29CustomPlaygroundQuickLookableP"
+- !private "s17CustomReflectableP"
+- !private "s23CustomStringConvertibleP"
+- !private "Se"
+- "8Material6DeviceV"
+- "8Material11DeviceModelO"
+- !private "SE"
+- "SQ"
+- !private "s27ExpressibleByBooleanLiteralP"
+- !private "s43ExpressibleByExtendedGraphemeClusterLiteralP"
+- !private "s27ExpressibleByIntegerLiteralP"
+- !private "s26ExpressibleByStringLiteralP"
+- !private "s33ExpressibleByUnicodeScalarLiteralP"
+- !private "s17FixedWidthIntegerP"
+- "SH"
+- !private "s6HasherV"
+- !private "s25LosslessStringConvertibleP"
+- !private "s6MirrorV"
+- !private "s10MirrorPathP"
+- !private "So8NSObjectC"
+- !private "So8NSObjectP"
+- !private "Sj"
+- !private "Sm"
+- "SY"
+- !private "s7UnicodeO6ScalarV"
+- !private "ST"
+- !private "Sx"
+- !private "SS"
+- !private "Sy"
+- !private "s16TextOutputStreamP"
+- !private "s20TextOutputStreamableP"
+- !private "So8UIDeviceC"
+- !private "s5UInt8V"
+- !private "SU"
+- !private "s22_AnyCollectionProtocolP"
+- !private "s18_BitwiseOperationsP"
+- !private "s35_ExpressibleByBuiltinBooleanLiteralP"
+- !private "s51_ExpressibleByBuiltinExtendedGraphemeClusterLiteralP"
+- !private "s35_ExpressibleByBuiltinIntegerLiteralP"
+- !private "s34_ExpressibleByBuiltinStringLiteralP"
+- !private "s39_ExpressibleByBuiltinUTF16StringLiteralP"
+- !private "s41_ExpressibleByBuiltinUnicodeScalarLiteralP"
+- !private "s33_ExpressibleByStringInterpolationP"
+- !private "s35_HasCustomAnyHashableRepresentationP"
+- !private "10Foundation27_KeyValueCodingAndObservingP"
+- !private "s21_ObjectiveCBridgeableP"
+- !private "s14_StringElementP"
+- !private "s16_SwiftStringViewP"
+- !private "So7utsnameV"
+depends-dynamic-lookup:
+depends-external:
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Dispatch.apinotesc"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/os.apinotesc"
+- "/Users/user/Desktop/Lyhour project/lyhour/Build/Products/Debug-iphonesimulator/Motion/Motion.framework/Modules/Motion.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/ObjectiveC.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/ModelIO.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/simd.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreImage.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/QuartzCore.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Accelerate.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Dispatch.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Metal.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Darwin.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Foundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreFoundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreGraphics.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/os.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Swift.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/UIKit.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/MetalKit.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/SwiftOnoneSupport.swiftmodule"
+- "/Users/user/Desktop/Lyhour project/lyhour/Pods/Target Support Files/Material/Material-umbrella.h"
+- "/Users/user/Desktop/Lyhour project/lyhour/Pods/Target Support Files/Motion/Motion-umbrella.h"
+- "/Users/user/Desktop/Lyhour project/lyhour/Build/Products/Debug-iphonesimulator/Motion/Motion.framework/Headers/Motion-Swift.h"
+- "/Users/user/Desktop/Lyhour project/lyhour/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/Material.build/unextended-module.modulemap"
+- "/Users/user/Desktop/Lyhour project/lyhour/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/Motion.build/module.modulemap"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.0.sdk/usr/include/objc/ObjectiveC.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.0.sdk/System/Library/Frameworks/ModelIO.framework/Headers/ModelIO.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.0.sdk/System/Library/Frameworks/OpenGLES.framework/Headers/OpenGLES.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.0.sdk/System/Library/Frameworks/CoreImage.framework/Headers/CoreImage.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.0.sdk/System/Library/Frameworks/QuartzCore.framework/Headers/QuartzCore.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.0.sdk/System/Library/Frameworks/Accelerate.framework/Headers/Accelerate.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.0.sdk/System/Library/Frameworks/Metal.framework/Headers/Metal.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.0.sdk/usr/include/Darwin.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.0.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.0.sdk/System/Library/Frameworks/CoreGraphics.framework/Headers/CoreGraphics.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.0.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.0.sdk/System/Library/Frameworks/MetalKit.framework/Headers/MetalKit.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.0.sdk/System/Library/Frameworks/CoreText.framework/Headers/CoreText.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.0.sdk/System/Library/Frameworks/Security.framework/Headers/Security.apinotes"
+interface-hash: "8255ba7317a12fcb36def3230e43f21e"

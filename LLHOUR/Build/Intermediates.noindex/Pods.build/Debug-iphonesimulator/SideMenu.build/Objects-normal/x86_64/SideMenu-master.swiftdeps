@@ -1,0 +1,8 @@
+version: "Apple Swift version 4.2 (swiftlang-1000.11.37.1 clang-1000.11.45.1)"
+options: "26f884b5dddcbb3972a9483d16bf9dae"
+build_time: [1540552182, 579314000]
+inputs:
+  "/Users/user/Desktop/Lyhour project/lyhour/Pods/SideMenu/Pod/Classes/SideMenuManager.swift": [1540179469, 0]
+  "/Users/user/Desktop/Lyhour project/lyhour/Pods/SideMenu/Pod/Classes/SideMenuTransition.swift": [1540179469, 0]
+  "/Users/user/Desktop/Lyhour project/lyhour/Pods/SideMenu/Pod/Classes/UISideMenuNavigationController.swift": [1540179469, 0]
+  "/Users/user/Desktop/Lyhour project/lyhour/Pods/SideMenu/Pod/Classes/UITableViewVibrantCell.swift": [1540179469, 0]

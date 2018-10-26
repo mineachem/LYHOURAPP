@@ -1,0 +1,685 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+- "UserAuthAPIParameters"
+provides-nominal:
+- "10LHPPWallet21UserAuthAPIParametersO"
+- "10LHPPWallet21UserAuthAPIParametersO7RequestO"
+- "10LHPPWallet21UserAuthAPIParametersO7RequestO4InitO"
+- "10LHPPWallet21UserAuthAPIParametersO7RequestO9ChallengeO"
+- "10LHPPWallet21UserAuthAPIParametersO7RequestO8RegisterO"
+- "10LHPPWallet21UserAuthAPIParametersO7RequestO0C0O"
+- "10LHPPWallet21UserAuthAPIParametersO7RequestO16UpdateCredentialO"
+- "10LHPPWallet21UserAuthAPIParametersO8ResponseO"
+- "10LHPPWallet21UserAuthAPIParametersO8ResponseO4InitO"
+- "10LHPPWallet21UserAuthAPIParametersO8ResponseO9ChallengeO"
+- "10LHPPWallet21UserAuthAPIParametersO8ResponseO8RegisterO"
+- "10LHPPWallet21UserAuthAPIParametersO8ResponseO0C0O"
+provides-member:
+- ["10LHPPWallet21UserAuthAPIParametersO", ""]
+- ["10LHPPWallet21UserAuthAPIParametersO7RequestO", ""]
+- ["10LHPPWallet21UserAuthAPIParametersO7RequestO4InitO", ""]
+- ["10LHPPWallet21UserAuthAPIParametersO7RequestO9ChallengeO", ""]
+- ["10LHPPWallet21UserAuthAPIParametersO7RequestO8RegisterO", ""]
+- ["10LHPPWallet21UserAuthAPIParametersO7RequestO0C0O", ""]
+- ["10LHPPWallet21UserAuthAPIParametersO7RequestO16UpdateCredentialO", ""]
+- ["10LHPPWallet21UserAuthAPIParametersO8ResponseO", ""]
+- ["10LHPPWallet21UserAuthAPIParametersO8ResponseO4InitO", ""]
+- ["10LHPPWallet21UserAuthAPIParametersO8ResponseO9ChallengeO", ""]
+- ["10LHPPWallet21UserAuthAPIParametersO8ResponseO8RegisterO", ""]
+- ["10LHPPWallet21UserAuthAPIParametersO8ResponseO0C0O", ""]
+- ["10LHPPWallet21UserAuthAPIParametersO", "Response"]
+provides-dynamic-lookup:
+depends-top-level:
+- "=="
+- !private "Array"
+- !private "FloatLiteralType"
+- !private "IntegerLiteralType"
+- "String"
+- "StringLiteralType"
+- "UserAuthAPIParameters"
+- !private "_findStringSwitchCase"
+- !private "~="
+depends-member:
+- ["10LHPPWallet21UserAuthAPIParametersO7RequestO0C0O", "RawValue"]
+- ["10LHPPWallet21UserAuthAPIParametersO8ResponseO0C0O", "RawValue"]
+- ["10LHPPWallet21UserAuthAPIParametersO7RequestO0C0O", "_Default_RawValue"]
+- ["10LHPPWallet21UserAuthAPIParametersO8ResponseO0C0O", "_Default_RawValue"]
+- !private ["10LHPPWallet21UserAuthAPIParametersO7RequestO0C0O", "_findStringSwitchCase"]
+- !private ["10LHPPWallet21UserAuthAPIParametersO8ResponseO0C0O", "_findStringSwitchCase"]
+- ["10LHPPWallet21UserAuthAPIParametersO8ResponseO0C0O", "acNo"]
+- ["10LHPPWallet21UserAuthAPIParametersO8ResponseO0C0O", "account"]
+- ["10LHPPWallet21UserAuthAPIParametersO8ResponseO0C0O", "accounts"]
+- ["10LHPPWallet21UserAuthAPIParametersO8ResponseO0C0O", "active"]
+- ["10LHPPWallet21UserAuthAPIParametersO8ResponseO0C0O", "ageNsex"]
+- ["10LHPPWallet21UserAuthAPIParametersO8ResponseO0C0O", "authBy"]
+- ["10LHPPWallet21UserAuthAPIParametersO8ResponseO0C0O", "available"]
+- ["10LHPPWallet21UserAuthAPIParametersO8ResponseO0C0O", "avatar"]
+- ["10LHPPWallet21UserAuthAPIParametersO8ResponseO0C0O", "balance"]
+- ["10LHPPWallet21UserAuthAPIParametersO8ResponseO0C0O", "balances"]
+- ["10LHPPWallet21UserAuthAPIParametersO8ResponseO0C0O", "blocked"]
+- ["10LHPPWallet21UserAuthAPIParametersO8ResponseO0C0O", "byCard"]
+- ["10LHPPWallet21UserAuthAPIParametersO8ResponseO0C0O", "cards"]
+- ["10LHPPWallet21UserAuthAPIParametersO8ResponseO0C0O", "contact"]
+- ["10LHPPWallet21UserAuthAPIParametersO8ResponseO0C0O", "countryCode"]
+- ["10LHPPWallet21UserAuthAPIParametersO8ResponseO0C0O", "currency"]
+- ["10LHPPWallet21UserAuthAPIParametersO8ResponseO0C0O", "decimal"]
+- ["10LHPPWallet21UserAuthAPIParametersO7RequestO0C0O", "deinit"]
+- ["10LHPPWallet21UserAuthAPIParametersO8ResponseO0C0O", "deinit"]
+- ["10LHPPWallet21UserAuthAPIParametersO7RequestO0C0O", "deviceId"]
+- ["10LHPPWallet21UserAuthAPIParametersO8ResponseO0C0O", "dob"]
+- ["10LHPPWallet21UserAuthAPIParametersO8ResponseO0C0O", "favorite"]
+- ["10LHPPWallet21UserAuthAPIParametersO8ResponseO0C0O", "firstName"]
+- ["10LHPPWallet21UserAuthAPIParametersO8ResponseO0C0O", "gender"]
+- ["10LHPPWallet21UserAuthAPIParametersO7RequestO0C0O", "handle"]
+- ["10LHPPWallet21UserAuthAPIParametersO8ResponseO0C0O", "handle"]
+- ["10LHPPWallet21UserAuthAPIParametersO7RequestO0C0O", "hash"]
+- ["10LHPPWallet21UserAuthAPIParametersO8ResponseO0C0O", "hash"]
+- ["10LHPPWallet21UserAuthAPIParametersO7RequestO0C0O", "hashValue"]
+- ["10LHPPWallet21UserAuthAPIParametersO8ResponseO0C0O", "hashValue"]
+- ["10LHPPWallet21UserAuthAPIParametersO8ResponseO0C0O", "id"]
+- ["10LHPPWallet21UserAuthAPIParametersO7RequestO0C0O", "init"]
+- ["10LHPPWallet21UserAuthAPIParametersO8ResponseO0C0O", "init"]
+- ["10LHPPWallet21UserAuthAPIParametersO8ResponseO0C0O", "isDefault"]
+- ["10LHPPWallet21UserAuthAPIParametersO8ResponseO0C0O", "kyc"]
+- ["10LHPPWallet21UserAuthAPIParametersO7RequestO0C0O", "lang"]
+- ["10LHPPWallet21UserAuthAPIParametersO8ResponseO0C0O", "lang"]
+- ["10LHPPWallet21UserAuthAPIParametersO8ResponseO0C0O", "lastName"]
+- ["10LHPPWallet21UserAuthAPIParametersO8ResponseO0C0O", "ledger"]
+- ["10LHPPWallet21UserAuthAPIParametersO8ResponseO0C0O", "loyalty"]
+- ["10LHPPWallet21UserAuthAPIParametersO8ResponseO0C0O", "mailId"]
+- ["10LHPPWallet21UserAuthAPIParametersO8ResponseO0C0O", "mobile"]
+- ["10LHPPWallet21UserAuthAPIParametersO8ResponseO0C0O", "name"]
+- ["10LHPPWallet21UserAuthAPIParametersO8ResponseO0C0O", "ofWallet"]
+- ["10LHPPWallet21UserAuthAPIParametersO8ResponseO0C0O", "on"]
+- ["10LHPPWallet21UserAuthAPIParametersO7RequestO0C0O", "onlyAuth"]
+- ["10LHPPWallet21UserAuthAPIParametersO8ResponseO0C0O", "others"]
+- ["10LHPPWallet21UserAuthAPIParametersO8ResponseO0C0O", "otp"]
+- ["10LHPPWallet21UserAuthAPIParametersO7RequestO0C0O", "pin"]
+- ["10LHPPWallet21UserAuthAPIParametersO8ResponseO0C0O", "preferredName"]
+- ["10LHPPWallet21UserAuthAPIParametersO8ResponseO0C0O", "proxy"]
+- ["10LHPPWallet21UserAuthAPIParametersO7RequestO0C0O", "rawValue"]
+- ["10LHPPWallet21UserAuthAPIParametersO8ResponseO0C0O", "rawValue"]
+- ["10LHPPWallet21UserAuthAPIParametersO8ResponseO0C0O", "rec"]
+- ["10LHPPWallet21UserAuthAPIParametersO8ResponseO0C0O", "referral"]
+- ["10LHPPWallet21UserAuthAPIParametersO8ResponseO0C0O", "role"]
+- ["10LHPPWallet21UserAuthAPIParametersO8ResponseO0C0O", "shortCode"]
+- ["10LHPPWallet21UserAuthAPIParametersO7RequestO0C0O", "signature"]
+- ["10LHPPWallet21UserAuthAPIParametersO8ResponseO0C0O", "signature"]
+- ["10LHPPWallet21UserAuthAPIParametersO8ResponseO0C0O", "sk"]
+- ["10LHPPWallet21UserAuthAPIParametersO8ResponseO0C0O", "state"]
+- ["10LHPPWallet21UserAuthAPIParametersO8ResponseO0C0O", "tPIN"]
+- ["10LHPPWallet21UserAuthAPIParametersO7RequestO0C0O", "timeStamp"]
+- ["10LHPPWallet21UserAuthAPIParametersO8ResponseO0C0O", "timeStamp"]
+- ["10LHPPWallet21UserAuthAPIParametersO8ResponseO0C0O", "txn"]
+- ["10LHPPWallet21UserAuthAPIParametersO8ResponseO0C0O", "txnRule"]
+- ["10LHPPWallet21UserAuthAPIParametersO8ResponseO0C0O", "uid"]
+- ["10LHPPWallet21UserAuthAPIParametersO8ResponseO0C0O", "user"]
+- ["10LHPPWallet21UserAuthAPIParametersO7RequestO0C0O", "userName"]
+- ["10LHPPWallet21UserAuthAPIParametersO7RequestO0C0O", "userPass"]
+- ["10LHPPWallet21UserAuthAPIParametersO8ResponseO0C0O", "value"]
+- ["10LHPPWallet21UserAuthAPIParametersO8ResponseO0C0O", "walletFamily"]
+- ["10LHPPWallet21UserAuthAPIParametersO8ResponseO0C0O", "walletType"]
+- ["SK", "init"]
+- ["SK", "init"]
+- !private ["Sb", "_getBuiltinLogicValue"]
+- !private ["s7CVarArgP", "_getBuiltinLogicValue"]
+- ["s7CVarArgP", "init"]
+- ["s7CVarArgP", "init"]
+- ["10LHPPWallet21UserAuthAPIParametersO7RequestO9ChallengeO", "RawValue"]
+- ["10LHPPWallet21UserAuthAPIParametersO8ResponseO9ChallengeO", "RawValue"]
+- ["10LHPPWallet21UserAuthAPIParametersO7RequestO9ChallengeO", "_Default_RawValue"]
+- ["10LHPPWallet21UserAuthAPIParametersO8ResponseO9ChallengeO", "_Default_RawValue"]
+- !private ["10LHPPWallet21UserAuthAPIParametersO7RequestO9ChallengeO", "_findStringSwitchCase"]
+- !private ["10LHPPWallet21UserAuthAPIParametersO8ResponseO9ChallengeO", "_findStringSwitchCase"]
+- ["10LHPPWallet21UserAuthAPIParametersO7RequestO9ChallengeO", "crv"]
+- ["10LHPPWallet21UserAuthAPIParametersO7RequestO9ChallengeO", "deinit"]
+- ["10LHPPWallet21UserAuthAPIParametersO8ResponseO9ChallengeO", "deinit"]
+- ["10LHPPWallet21UserAuthAPIParametersO7RequestO9ChallengeO", "deviceId"]
+- ["10LHPPWallet21UserAuthAPIParametersO8ResponseO9ChallengeO", "fk"]
+- ["10LHPPWallet21UserAuthAPIParametersO7RequestO9ChallengeO", "handle"]
+- ["10LHPPWallet21UserAuthAPIParametersO8ResponseO9ChallengeO", "handle"]
+- ["10LHPPWallet21UserAuthAPIParametersO7RequestO9ChallengeO", "hash"]
+- ["10LHPPWallet21UserAuthAPIParametersO8ResponseO9ChallengeO", "hash"]
+- ["10LHPPWallet21UserAuthAPIParametersO7RequestO9ChallengeO", "hashValue"]
+- ["10LHPPWallet21UserAuthAPIParametersO8ResponseO9ChallengeO", "hashValue"]
+- ["10LHPPWallet21UserAuthAPIParametersO7RequestO9ChallengeO", "init"]
+- ["10LHPPWallet21UserAuthAPIParametersO8ResponseO9ChallengeO", "init"]
+- ["10LHPPWallet21UserAuthAPIParametersO7RequestO9ChallengeO", "lang"]
+- ["10LHPPWallet21UserAuthAPIParametersO8ResponseO9ChallengeO", "lang"]
+- ["10LHPPWallet21UserAuthAPIParametersO7RequestO9ChallengeO", "rawValue"]
+- ["10LHPPWallet21UserAuthAPIParametersO8ResponseO9ChallengeO", "rawValue"]
+- ["10LHPPWallet21UserAuthAPIParametersO7RequestO9ChallengeO", "signature"]
+- ["10LHPPWallet21UserAuthAPIParametersO8ResponseO9ChallengeO", "signature"]
+- ["10LHPPWallet21UserAuthAPIParametersO8ResponseO9ChallengeO", "sk"]
+- ["10LHPPWallet21UserAuthAPIParametersO7RequestO9ChallengeO", "timeStamp"]
+- ["10LHPPWallet21UserAuthAPIParametersO8ResponseO9ChallengeO", "timeStamp"]
+- ["Sl", "init"]
+- ["Sl", "init"]
+- ["SL", "init"]
+- ["SL", "init"]
+- ["s28CustomDebugStringConvertibleP", "init"]
+- ["s28CustomDebugStringConvertibleP", "init"]
+- !private ["s29CustomPlaygroundQuickLookableP", "_getBuiltinLogicValue"]
+- ["s29CustomPlaygroundQuickLookableP", "init"]
+- ["s29CustomPlaygroundQuickLookableP", "init"]
+- !private ["s17CustomReflectableP", "_getBuiltinLogicValue"]
+- ["s17CustomReflectableP", "init"]
+- ["s17CustomReflectableP", "init"]
+- !private ["s23CustomStringConvertibleP", "_getBuiltinLogicValue"]
+- ["s23CustomStringConvertibleP", "init"]
+- ["s23CustomStringConvertibleP", "init"]
+- !private ["Se", "_getBuiltinLogicValue"]
+- ["Se", "init"]
+- ["Se", "init"]
+- !private ["SE", "_getBuiltinLogicValue"]
+- ["SE", "init"]
+- ["SE", "init"]
+- ["SQ", "RawValue"]
+- ["SQ", ""]
+- ["SQ", "_Default_RawValue"]
+- !private ["SQ", "_findStringSwitchCase"]
+- !private ["SQ", "_getBuiltinLogicValue"]
+- ["SQ", "hash"]
+- ["SQ", "hashValue"]
+- ["SQ", "init"]
+- ["SQ", "init"]
+- ["SQ", "rawValue"]
+- !private ["s27ExpressibleByBooleanLiteralP", "_getBuiltinLogicValue"]
+- ["s43ExpressibleByExtendedGraphemeClusterLiteralP", "init"]
+- ["s43ExpressibleByExtendedGraphemeClusterLiteralP", "init"]
+- ["s26ExpressibleByStringLiteralP", "init"]
+- ["s26ExpressibleByStringLiteralP", "init"]
+- ["s33ExpressibleByUnicodeScalarLiteralP", "init"]
+- ["s33ExpressibleByUnicodeScalarLiteralP", "init"]
+- ["SH", "RawValue"]
+- ["SH", ""]
+- ["SH", "_Default_RawValue"]
+- !private ["SH", "_findStringSwitchCase"]
+- !private ["SH", "_getBuiltinLogicValue"]
+- ["SH", "hash"]
+- ["SH", "hashValue"]
+- ["SH", "init"]
+- ["SH", "init"]
+- ["SH", "rawValue"]
+- !private ["s6HasherV", "combine"]
+- ["10LHPPWallet21UserAuthAPIParametersO7RequestO4InitO", "RawValue"]
+- ["10LHPPWallet21UserAuthAPIParametersO8ResponseO4InitO", "RawValue"]
+- ["10LHPPWallet21UserAuthAPIParametersO7RequestO4InitO", "_Default_RawValue"]
+- ["10LHPPWallet21UserAuthAPIParametersO8ResponseO4InitO", "_Default_RawValue"]
+- !private ["10LHPPWallet21UserAuthAPIParametersO7RequestO4InitO", "_findStringSwitchCase"]
+- !private ["10LHPPWallet21UserAuthAPIParametersO8ResponseO4InitO", "_findStringSwitchCase"]
+- ["10LHPPWallet21UserAuthAPIParametersO8ResponseO4InitO", "additional"]
+- ["10LHPPWallet21UserAuthAPIParametersO7RequestO4InitO", "countryCode"]
+- ["10LHPPWallet21UserAuthAPIParametersO8ResponseO4InitO", "crp"]
+- ["10LHPPWallet21UserAuthAPIParametersO7RequestO4InitO", "deinit"]
+- ["10LHPPWallet21UserAuthAPIParametersO8ResponseO4InitO", "deinit"]
+- ["10LHPPWallet21UserAuthAPIParametersO7RequestO4InitO", "deviceId"]
+- ["10LHPPWallet21UserAuthAPIParametersO8ResponseO4InitO", "handle"]
+- ["10LHPPWallet21UserAuthAPIParametersO7RequestO4InitO", "hash"]
+- ["10LHPPWallet21UserAuthAPIParametersO8ResponseO4InitO", "hash"]
+- ["10LHPPWallet21UserAuthAPIParametersO7RequestO4InitO", "hashValue"]
+- ["10LHPPWallet21UserAuthAPIParametersO8ResponseO4InitO", "hashValue"]
+- ["10LHPPWallet21UserAuthAPIParametersO8ResponseO4InitO", "ik"]
+- ["10LHPPWallet21UserAuthAPIParametersO7RequestO4InitO", "init"]
+- ["10LHPPWallet21UserAuthAPIParametersO8ResponseO4InitO", "init"]
+- ["10LHPPWallet21UserAuthAPIParametersO7RequestO4InitO", "lang"]
+- ["10LHPPWallet21UserAuthAPIParametersO8ResponseO4InitO", "lang"]
+- ["10LHPPWallet21UserAuthAPIParametersO7RequestO4InitO", "mobile"]
+- ["10LHPPWallet21UserAuthAPIParametersO7RequestO4InitO", "program"]
+- ["10LHPPWallet21UserAuthAPIParametersO7RequestO4InitO", "rawValue"]
+- ["10LHPPWallet21UserAuthAPIParametersO8ResponseO4InitO", "rawValue"]
+- ["10LHPPWallet21UserAuthAPIParametersO7RequestO4InitO", "signature"]
+- ["10LHPPWallet21UserAuthAPIParametersO8ResponseO4InitO", "signature"]
+- ["10LHPPWallet21UserAuthAPIParametersO7RequestO4InitO", "timeStamp"]
+- ["10LHPPWallet21UserAuthAPIParametersO8ResponseO4InitO", "timeStamp"]
+- ["10LHPPWallet21UserAuthAPIParametersO7RequestO4InitO", "userName"]
+- ["10SwiftyJSON17JSONSubscriptTypeP", "init"]
+- ["10SwiftyJSON17JSONSubscriptTypeP", "init"]
+- !private ["s25LosslessStringConvertibleP", "_getBuiltinLogicValue"]
+- ["s25LosslessStringConvertibleP", "init"]
+- ["s25LosslessStringConvertibleP", "init"]
+- ["s10MirrorPathP", "init"]
+- ["s10MirrorPathP", "init"]
+- ["Sm", "init"]
+- ["Sm", "init"]
+- ["SY", "RawValue"]
+- ["SY", ""]
+- ["SY", "_Default_RawValue"]
+- !private ["SY", "_findStringSwitchCase"]
+- ["SY", "hash"]
+- ["SY", "hashValue"]
+- ["SY", "init"]
+- ["SY", "rawValue"]
+- ["10LHPPWallet21UserAuthAPIParametersO7RequestO8RegisterO", "RawValue"]
+- ["10LHPPWallet21UserAuthAPIParametersO8ResponseO8RegisterO", "RawValue"]
+- ["10LHPPWallet21UserAuthAPIParametersO7RequestO8RegisterO", "_Default_RawValue"]
+- ["10LHPPWallet21UserAuthAPIParametersO8ResponseO8RegisterO", "_Default_RawValue"]
+- !private ["10LHPPWallet21UserAuthAPIParametersO7RequestO8RegisterO", "_findStringSwitchCase"]
+- !private ["10LHPPWallet21UserAuthAPIParametersO8ResponseO8RegisterO", "_findStringSwitchCase"]
+- ["10LHPPWallet21UserAuthAPIParametersO7RequestO8RegisterO", "deinit"]
+- ["10LHPPWallet21UserAuthAPIParametersO8ResponseO8RegisterO", "deinit"]
+- ["10LHPPWallet21UserAuthAPIParametersO7RequestO8RegisterO", "deviceId"]
+- ["10LHPPWallet21UserAuthAPIParametersO7RequestO8RegisterO", "dob"]
+- ["10LHPPWallet21UserAuthAPIParametersO7RequestO8RegisterO", "firstName"]
+- ["10LHPPWallet21UserAuthAPIParametersO7RequestO8RegisterO", "gender"]
+- ["10LHPPWallet21UserAuthAPIParametersO7RequestO8RegisterO", "handle"]
+- ["10LHPPWallet21UserAuthAPIParametersO8ResponseO8RegisterO", "handle"]
+- ["10LHPPWallet21UserAuthAPIParametersO7RequestO8RegisterO", "hash"]
+- ["10LHPPWallet21UserAuthAPIParametersO8ResponseO8RegisterO", "hash"]
+- ["10LHPPWallet21UserAuthAPIParametersO7RequestO8RegisterO", "hashValue"]
+- ["10LHPPWallet21UserAuthAPIParametersO8ResponseO8RegisterO", "hashValue"]
+- ["10LHPPWallet21UserAuthAPIParametersO8ResponseO8RegisterO", "id"]
+- ["10LHPPWallet21UserAuthAPIParametersO7RequestO8RegisterO", "init"]
+- ["10LHPPWallet21UserAuthAPIParametersO8ResponseO8RegisterO", "init"]
+- ["10LHPPWallet21UserAuthAPIParametersO7RequestO8RegisterO", "lang"]
+- ["10LHPPWallet21UserAuthAPIParametersO8ResponseO8RegisterO", "lang"]
+- ["10LHPPWallet21UserAuthAPIParametersO7RequestO8RegisterO", "lastName"]
+- ["10LHPPWallet21UserAuthAPIParametersO7RequestO8RegisterO", "middleName"]
+- ["10LHPPWallet21UserAuthAPIParametersO7RequestO8RegisterO", "preferredName"]
+- ["10LHPPWallet21UserAuthAPIParametersO7RequestO8RegisterO", "rawValue"]
+- ["10LHPPWallet21UserAuthAPIParametersO8ResponseO8RegisterO", "rawValue"]
+- ["10LHPPWallet21UserAuthAPIParametersO7RequestO8RegisterO", "signature"]
+- ["10LHPPWallet21UserAuthAPIParametersO8ResponseO8RegisterO", "sk"]
+- ["10LHPPWallet21UserAuthAPIParametersO7RequestO8RegisterO", "timeStamp"]
+- ["10LHPPWallet21UserAuthAPIParametersO8ResponseO8RegisterO", "timeStamp"]
+- ["10LHPPWallet21UserAuthAPIParametersO7RequestO8RegisterO", "type"]
+- ["10LHPPWallet21UserAuthAPIParametersO8ResponseO8RegisterO", "uid"]
+- ["10LHPPWallet21UserAuthAPIParametersO7RequestO8RegisterO", "userPass"]
+- ["10LHPPWallet21UserAuthAPIParametersO7RequestO8RegisterO", "username"]
+- ["10LHPPWallet21UserAuthAPIParametersO7RequestO", "Auth"]
+- ["10LHPPWallet21UserAuthAPIParametersO7RequestO", "Challenge"]
+- ["10LHPPWallet21UserAuthAPIParametersO7RequestO", "Init"]
+- ["10LHPPWallet21UserAuthAPIParametersO7RequestO", "Register"]
+- ["10LHPPWallet21UserAuthAPIParametersO7RequestO", "String"]
+- ["10LHPPWallet21UserAuthAPIParametersO7RequestO", "UpdateCredential"]
+- !private ["10LHPPWallet21UserAuthAPIParametersO7RequestO", "_findStringSwitchCase"]
+- ["10LHPPWallet21UserAuthAPIParametersO8ResponseO", "Auth"]
+- ["10LHPPWallet21UserAuthAPIParametersO8ResponseO", "Challenge"]
+- ["10LHPPWallet21UserAuthAPIParametersO8ResponseO", "Init"]
+- ["10LHPPWallet21UserAuthAPIParametersO8ResponseO", "Register"]
+- ["10LHPPWallet21UserAuthAPIParametersO8ResponseO", "String"]
+- !private ["10LHPPWallet21UserAuthAPIParametersO8ResponseO", "_findStringSwitchCase"]
+- ["ST", "init"]
+- ["ST", "init"]
+- !private ["s12StaticStringV", "init"]
+- !private ["s12StaticStringV", "init"]
+- ["SS", "init"]
+- ["SS", "init"]
+- ["Sy", "init"]
+- ["Sy", "init"]
+- ["s16TextOutputStreamP", "init"]
+- ["s16TextOutputStreamP", "init"]
+- ["s20TextOutputStreamableP", "init"]
+- ["s20TextOutputStreamableP", "init"]
+- ["9Alamofire14URLConvertibleP", "init"]
+- ["9Alamofire14URLConvertibleP", "init"]
+- ["10LHPPWallet21UserAuthAPIParametersO7RequestO16UpdateCredentialO", "RawValue"]
+- ["10LHPPWallet21UserAuthAPIParametersO7RequestO16UpdateCredentialO", "_Default_RawValue"]
+- !private ["10LHPPWallet21UserAuthAPIParametersO7RequestO16UpdateCredentialO", "_findStringSwitchCase"]
+- ["10LHPPWallet21UserAuthAPIParametersO7RequestO16UpdateCredentialO", "authByOTP"]
+- ["10LHPPWallet21UserAuthAPIParametersO7RequestO16UpdateCredentialO", "deinit"]
+- ["10LHPPWallet21UserAuthAPIParametersO7RequestO16UpdateCredentialO", "deviceId"]
+- ["10LHPPWallet21UserAuthAPIParametersO7RequestO16UpdateCredentialO", "handle"]
+- ["10LHPPWallet21UserAuthAPIParametersO7RequestO16UpdateCredentialO", "hash"]
+- ["10LHPPWallet21UserAuthAPIParametersO7RequestO16UpdateCredentialO", "hashValue"]
+- ["10LHPPWallet21UserAuthAPIParametersO7RequestO16UpdateCredentialO", "init"]
+- ["10LHPPWallet21UserAuthAPIParametersO7RequestO16UpdateCredentialO", "lang"]
+- ["10LHPPWallet21UserAuthAPIParametersO7RequestO16UpdateCredentialO", "pin"]
+- ["10LHPPWallet21UserAuthAPIParametersO7RequestO16UpdateCredentialO", "rawValue"]
+- ["10LHPPWallet21UserAuthAPIParametersO7RequestO16UpdateCredentialO", "signature"]
+- ["10LHPPWallet21UserAuthAPIParametersO7RequestO16UpdateCredentialO", "timeStamp"]
+- ["10LHPPWallet21UserAuthAPIParametersO7RequestO16UpdateCredentialO", "tpin"]
+- ["10LHPPWallet21UserAuthAPIParametersO7RequestO16UpdateCredentialO", "userPass"]
+- ["10LHPPWallet21UserAuthAPIParametersO", "Request"]
+- ["10LHPPWallet21UserAuthAPIParametersO", "Response"]
+- ["10LHPPWallet21UserAuthAPIParametersO", "String"]
+- !private ["10LHPPWallet21UserAuthAPIParametersO", "_findStringSwitchCase"]
+- !private ["s35_ExpressibleByBuiltinBooleanLiteralP", "_getBuiltinLogicValue"]
+- ["s51_ExpressibleByBuiltinExtendedGraphemeClusterLiteralP", "init"]
+- ["s51_ExpressibleByBuiltinExtendedGraphemeClusterLiteralP", "init"]
+- ["s34_ExpressibleByBuiltinStringLiteralP", "init"]
+- ["s34_ExpressibleByBuiltinStringLiteralP", "init"]
+- ["s39_ExpressibleByBuiltinUTF16StringLiteralP", "init"]
+- ["s39_ExpressibleByBuiltinUTF16StringLiteralP", "init"]
+- ["s41_ExpressibleByBuiltinUnicodeScalarLiteralP", "init"]
+- ["s41_ExpressibleByBuiltinUnicodeScalarLiteralP", "init"]
+- ["s33_ExpressibleByStringInterpolationP", "init"]
+- ["s33_ExpressibleByStringInterpolationP", "init"]
+- !private ["s21_ObjectiveCBridgeableP", "_getBuiltinLogicValue"]
+- ["s21_ObjectiveCBridgeableP", "init"]
+- ["s21_ObjectiveCBridgeableP", "init"]
+- ["s16_SwiftStringViewP", "init"]
+- ["s16_SwiftStringViewP", "init"]
+depends-nominal:
+- "10LHPPWallet21UserAuthAPIParametersO7RequestO0C0O"
+- "10LHPPWallet21UserAuthAPIParametersO8ResponseO0C0O"
+- "10LHPPWallet21UserAuthAPIParametersO7RequestO0C0O"
+- "10LHPPWallet21UserAuthAPIParametersO8ResponseO0C0O"
+- !private "10LHPPWallet21UserAuthAPIParametersO7RequestO0C0O"
+- "10LHPPWallet21UserAuthAPIParametersO8ResponseO0C0O"
+- "10LHPPWallet21UserAuthAPIParametersO7RequestO0C0O"
+- "10LHPPWallet21UserAuthAPIParametersO8ResponseO0C0O"
+- "10LHPPWallet21UserAuthAPIParametersO7RequestO0C0O"
+- "10LHPPWallet21UserAuthAPIParametersO8ResponseO0C0O"
+- "10LHPPWallet21UserAuthAPIParametersO7RequestO0C0O"
+- "10LHPPWallet21UserAuthAPIParametersO8ResponseO0C0O"
+- "10LHPPWallet21UserAuthAPIParametersO7RequestO0C0O"
+- "10LHPPWallet21UserAuthAPIParametersO8ResponseO0C0O"
+- "10LHPPWallet21UserAuthAPIParametersO7RequestO0C0O"
+- "10LHPPWallet21UserAuthAPIParametersO8ResponseO0C0O"
+- "10LHPPWallet21UserAuthAPIParametersO7RequestO0C0O"
+- "10LHPPWallet21UserAuthAPIParametersO8ResponseO0C0O"
+- "10LHPPWallet21UserAuthAPIParametersO7RequestO0C0O"
+- "10LHPPWallet21UserAuthAPIParametersO8ResponseO0C0O"
+- "10LHPPWallet21UserAuthAPIParametersO7RequestO0C0O"
+- "10LHPPWallet21UserAuthAPIParametersO8ResponseO0C0O"
+- "10LHPPWallet21UserAuthAPIParametersO7RequestO0C0O"
+- "10LHPPWallet21UserAuthAPIParametersO8ResponseO0C0O"
+- "10LHPPWallet21UserAuthAPIParametersO7RequestO0C0O"
+- "10LHPPWallet21UserAuthAPIParametersO8ResponseO0C0O"
+- "10LHPPWallet21UserAuthAPIParametersO7RequestO0C0O"
+- "10LHPPWallet21UserAuthAPIParametersO8ResponseO0C0O"
+- "10LHPPWallet21UserAuthAPIParametersO7RequestO0C0O"
+- "10LHPPWallet21UserAuthAPIParametersO8ResponseO0C0O"
+- "10LHPPWallet21UserAuthAPIParametersO7RequestO0C0O"
+- "10LHPPWallet21UserAuthAPIParametersO8ResponseO0C0O"
+- "SK"
+- !private "Sb"
+- "s7CVarArgP"
+- "10LHPPWallet21UserAuthAPIParametersO7RequestO9ChallengeO"
+- "10LHPPWallet21UserAuthAPIParametersO8ResponseO9ChallengeO"
+- "10LHPPWallet21UserAuthAPIParametersO7RequestO9ChallengeO"
+- "10LHPPWallet21UserAuthAPIParametersO8ResponseO9ChallengeO"
+- !private "10LHPPWallet21UserAuthAPIParametersO7RequestO9ChallengeO"
+- !private "10LHPPWallet21UserAuthAPIParametersO8ResponseO9ChallengeO"
+- "10LHPPWallet21UserAuthAPIParametersO7RequestO9ChallengeO"
+- "10LHPPWallet21UserAuthAPIParametersO8ResponseO9ChallengeO"
+- "10LHPPWallet21UserAuthAPIParametersO7RequestO9ChallengeO"
+- "10LHPPWallet21UserAuthAPIParametersO8ResponseO9ChallengeO"
+- "10LHPPWallet21UserAuthAPIParametersO7RequestO9ChallengeO"
+- "10LHPPWallet21UserAuthAPIParametersO8ResponseO9ChallengeO"
+- "10LHPPWallet21UserAuthAPIParametersO7RequestO9ChallengeO"
+- "10LHPPWallet21UserAuthAPIParametersO8ResponseO9ChallengeO"
+- "10LHPPWallet21UserAuthAPIParametersO7RequestO9ChallengeO"
+- "10LHPPWallet21UserAuthAPIParametersO8ResponseO9ChallengeO"
+- "10LHPPWallet21UserAuthAPIParametersO7RequestO9ChallengeO"
+- "10LHPPWallet21UserAuthAPIParametersO8ResponseO9ChallengeO"
+- "10LHPPWallet21UserAuthAPIParametersO7RequestO9ChallengeO"
+- "10LHPPWallet21UserAuthAPIParametersO8ResponseO9ChallengeO"
+- "10LHPPWallet21UserAuthAPIParametersO7RequestO9ChallengeO"
+- "10LHPPWallet21UserAuthAPIParametersO8ResponseO9ChallengeO"
+- "10LHPPWallet21UserAuthAPIParametersO7RequestO9ChallengeO"
+- "10LHPPWallet21UserAuthAPIParametersO8ResponseO9ChallengeO"
+- "10LHPPWallet21UserAuthAPIParametersO7RequestO9ChallengeO"
+- "10LHPPWallet21UserAuthAPIParametersO8ResponseO9ChallengeO"
+- "Sl"
+- "SL"
+- "s28CustomDebugStringConvertibleP"
+- "s29CustomPlaygroundQuickLookableP"
+- "s17CustomReflectableP"
+- "s23CustomStringConvertibleP"
+- "Se"
+- "SE"
+- "SQ"
+- !private "s27ExpressibleByBooleanLiteralP"
+- "s43ExpressibleByExtendedGraphemeClusterLiteralP"
+- "s26ExpressibleByStringLiteralP"
+- "s33ExpressibleByUnicodeScalarLiteralP"
+- "SH"
+- !private "s6HasherV"
+- "10LHPPWallet21UserAuthAPIParametersO7RequestO4InitO"
+- "10LHPPWallet21UserAuthAPIParametersO8ResponseO4InitO"
+- "10LHPPWallet21UserAuthAPIParametersO7RequestO4InitO"
+- "10LHPPWallet21UserAuthAPIParametersO8ResponseO4InitO"
+- !private "10LHPPWallet21UserAuthAPIParametersO7RequestO4InitO"
+- "10LHPPWallet21UserAuthAPIParametersO8ResponseO4InitO"
+- "10LHPPWallet21UserAuthAPIParametersO7RequestO4InitO"
+- "10LHPPWallet21UserAuthAPIParametersO8ResponseO4InitO"
+- "10LHPPWallet21UserAuthAPIParametersO7RequestO4InitO"
+- "10LHPPWallet21UserAuthAPIParametersO8ResponseO4InitO"
+- "10LHPPWallet21UserAuthAPIParametersO7RequestO4InitO"
+- "10LHPPWallet21UserAuthAPIParametersO8ResponseO4InitO"
+- "10LHPPWallet21UserAuthAPIParametersO7RequestO4InitO"
+- "10LHPPWallet21UserAuthAPIParametersO8ResponseO4InitO"
+- "10LHPPWallet21UserAuthAPIParametersO7RequestO4InitO"
+- "10LHPPWallet21UserAuthAPIParametersO8ResponseO4InitO"
+- "10LHPPWallet21UserAuthAPIParametersO7RequestO4InitO"
+- "10LHPPWallet21UserAuthAPIParametersO8ResponseO4InitO"
+- "10LHPPWallet21UserAuthAPIParametersO7RequestO4InitO"
+- "10LHPPWallet21UserAuthAPIParametersO8ResponseO4InitO"
+- "10LHPPWallet21UserAuthAPIParametersO7RequestO4InitO"
+- "10LHPPWallet21UserAuthAPIParametersO8ResponseO4InitO"
+- "10LHPPWallet21UserAuthAPIParametersO7RequestO4InitO"
+- "10LHPPWallet21UserAuthAPIParametersO8ResponseO4InitO"
+- "10LHPPWallet21UserAuthAPIParametersO7RequestO4InitO"
+- "10LHPPWallet21UserAuthAPIParametersO8ResponseO4InitO"
+- "10LHPPWallet21UserAuthAPIParametersO7RequestO4InitO"
+- "10SwiftyJSON17JSONSubscriptTypeP"
+- "s25LosslessStringConvertibleP"
+- "s10MirrorPathP"
+- "Sm"
+- "SY"
+- "10LHPPWallet21UserAuthAPIParametersO7RequestO8RegisterO"
+- "10LHPPWallet21UserAuthAPIParametersO8ResponseO8RegisterO"
+- "10LHPPWallet21UserAuthAPIParametersO7RequestO8RegisterO"
+- "10LHPPWallet21UserAuthAPIParametersO8ResponseO8RegisterO"
+- !private "10LHPPWallet21UserAuthAPIParametersO7RequestO8RegisterO"
+- !private "10LHPPWallet21UserAuthAPIParametersO8ResponseO8RegisterO"
+- "10LHPPWallet21UserAuthAPIParametersO7RequestO8RegisterO"
+- "10LHPPWallet21UserAuthAPIParametersO8ResponseO8RegisterO"
+- "10LHPPWallet21UserAuthAPIParametersO7RequestO8RegisterO"
+- "10LHPPWallet21UserAuthAPIParametersO8ResponseO8RegisterO"
+- "10LHPPWallet21UserAuthAPIParametersO7RequestO8RegisterO"
+- "10LHPPWallet21UserAuthAPIParametersO8ResponseO8RegisterO"
+- "10LHPPWallet21UserAuthAPIParametersO7RequestO8RegisterO"
+- "10LHPPWallet21UserAuthAPIParametersO8ResponseO8RegisterO"
+- "10LHPPWallet21UserAuthAPIParametersO7RequestO8RegisterO"
+- "10LHPPWallet21UserAuthAPIParametersO8ResponseO8RegisterO"
+- "10LHPPWallet21UserAuthAPIParametersO7RequestO8RegisterO"
+- "10LHPPWallet21UserAuthAPIParametersO8ResponseO8RegisterO"
+- "10LHPPWallet21UserAuthAPIParametersO7RequestO8RegisterO"
+- "10LHPPWallet21UserAuthAPIParametersO8ResponseO8RegisterO"
+- "10LHPPWallet21UserAuthAPIParametersO7RequestO8RegisterO"
+- "10LHPPWallet21UserAuthAPIParametersO8ResponseO8RegisterO"
+- "10LHPPWallet21UserAuthAPIParametersO7RequestO8RegisterO"
+- "10LHPPWallet21UserAuthAPIParametersO8ResponseO8RegisterO"
+- "10LHPPWallet21UserAuthAPIParametersO7RequestO8RegisterO"
+- "10LHPPWallet21UserAuthAPIParametersO8ResponseO8RegisterO"
+- "10LHPPWallet21UserAuthAPIParametersO7RequestO8RegisterO"
+- "10LHPPWallet21UserAuthAPIParametersO7RequestO"
+- "10LHPPWallet21UserAuthAPIParametersO8ResponseO"
+- "ST"
+- !private "s12StaticStringV"
+- "SS"
+- "Sy"
+- "s16TextOutputStreamP"
+- "s20TextOutputStreamableP"
+- "9Alamofire14URLConvertibleP"
+- "10LHPPWallet21UserAuthAPIParametersO7RequestO16UpdateCredentialO"
+- "10LHPPWallet21UserAuthAPIParametersO"
+- !private "s35_ExpressibleByBuiltinBooleanLiteralP"
+- "s51_ExpressibleByBuiltinExtendedGraphemeClusterLiteralP"
+- "s34_ExpressibleByBuiltinStringLiteralP"
+- "s39_ExpressibleByBuiltinUTF16StringLiteralP"
+- "s41_ExpressibleByBuiltinUnicodeScalarLiteralP"
+- "s33_ExpressibleByStringInterpolationP"
+- "s21_ObjectiveCBridgeableP"
+- "s16_SwiftStringViewP"
+depends-dynamic-lookup:
+depends-external:
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Dispatch.apinotesc"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/os.apinotesc"
+- "/Users/user/Desktop/Lyhour project/lyhour/Build/Products/Debug-iphonesimulator/SwiftyJSON/SwiftyJSON.framework/Modules/SwiftyJSON.swiftmodule/x86_64.swiftmodule"
+- "/Users/user/Desktop/Lyhour project/lyhour/Build/Products/Debug-iphonesimulator/SwinjectStoryboard/SwinjectStoryboard.framework/Modules/SwinjectStoryboard.swiftmodule/x86_64.swiftmodule"
+- "/Users/user/Desktop/Lyhour project/lyhour/Build/Products/Debug-iphonesimulator/Alamofire/Alamofire.framework/Modules/Alamofire.swiftmodule/x86_64.swiftmodule"
+- "/Users/user/Desktop/Lyhour project/lyhour/Build/Products/Debug-iphonesimulator/Material/Material.framework/Modules/Material.swiftmodule/x86_64.swiftmodule"
+- "/Users/user/Desktop/Lyhour project/lyhour/Build/Products/Debug-iphonesimulator/Motion/Motion.framework/Modules/Motion.swiftmodule/x86_64.swiftmodule"
+- "/Users/user/Desktop/Lyhour project/lyhour/Build/Products/Debug-iphonesimulator/Swinject/Swinject.framework/Modules/Swinject.swiftmodule/x86_64.swiftmodule"
+- "/Users/user/Desktop/Lyhour project/lyhour/Build/Products/Debug-iphonesimulator/CryptoSwift/CryptoSwift.framework/Modules/CryptoSwift.swiftmodule/x86_64.swiftmodule"
+- "/Users/user/Desktop/Lyhour project/lyhour/Build/Products/Debug-iphonesimulator/DeviceKit/DeviceKit.framework/Modules/DeviceKit.swiftmodule/x86_64.swiftmodule"
+- "/Users/user/Desktop/Lyhour project/lyhour/Build/Products/Debug-iphonesimulator/PhoneNumberKit/PhoneNumberKit.framework/Modules/PhoneNumberKit.swiftmodule/x86_64.swiftmodule"
+- "/Users/user/Desktop/Lyhour project/lyhour/Build/Products/Debug-iphonesimulator/SideMenu/SideMenu.framework/Modules/SideMenu.swiftmodule/x86_64.swiftmodule"
+- "/Users/user/Desktop/Lyhour project/lyhour/Build/Products/Debug-iphonesimulator/NVActivityIndicatorView/NVActivityIndicatorView.framework/Modules/NVActivityIndicatorView.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/ObjectiveC.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/ModelIO.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreMedia.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/simd.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreImage.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/QuartzCore.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Accelerate.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Dispatch.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Metal.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Darwin.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreLocation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Foundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/AVFoundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreFoundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreAudio.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreGraphics.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/os.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Contacts.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Swift.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/UIKit.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/MetalKit.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/SwiftOnoneSupport.swiftmodule"
+- "/Users/user/Desktop/Lyhour project/lyhour/Build/Products/Debug-iphonesimulator/SwiftyJSON/SwiftyJSON.framework/Headers/SwiftyJSON-umbrella.h"
+- "/Users/user/Desktop/Lyhour project/lyhour/Build/Products/Debug-iphonesimulator/SwinjectStoryboard/SwinjectStoryboard.framework/Headers/SwinjectStoryboard-umbrella.h"
+- "/Users/user/Desktop/Lyhour project/lyhour/Build/Products/Debug-iphonesimulator/Alamofire/Alamofire.framework/Headers/Alamofire-umbrella.h"
+- "/Users/user/Desktop/Lyhour project/lyhour/Build/Products/Debug-iphonesimulator/Material/Material.framework/Headers/Material-umbrella.h"
+- "/Users/user/Desktop/Lyhour project/lyhour/Build/Products/Debug-iphonesimulator/HMSegmentedControl/HMSegmentedControl.framework/Headers/HMSegmentedControl-umbrella.h"
+- "/Users/user/Desktop/Lyhour project/lyhour/Build/Products/Debug-iphonesimulator/Motion/Motion.framework/Headers/Motion-umbrella.h"
+- "/Users/user/Desktop/Lyhour project/lyhour/Build/Products/Debug-iphonesimulator/MXParallaxHeader/MXParallaxHeader.framework/Headers/MXParallaxHeader-umbrella.h"
+- "/Users/user/Desktop/Lyhour project/lyhour/Build/Products/Debug-iphonesimulator/MXSegmentedPager/MXSegmentedPager.framework/Headers/MXSegmentedPager-umbrella.h"
+- "/Users/user/Desktop/Lyhour project/lyhour/Build/Products/Debug-iphonesimulator/Swinject/Swinject.framework/Headers/Swinject-umbrella.h"
+- "/Users/user/Desktop/Lyhour project/lyhour/Build/Products/Debug-iphonesimulator/CryptoSwift/CryptoSwift.framework/Headers/CryptoSwift-umbrella.h"
+- "/Users/user/Desktop/Lyhour project/lyhour/Build/Products/Debug-iphonesimulator/DeviceKit/DeviceKit.framework/Headers/DeviceKit-umbrella.h"
+- "/Users/user/Desktop/Lyhour project/lyhour/Build/Products/Debug-iphonesimulator/PhoneNumberKit/PhoneNumberKit.framework/Headers/PhoneNumberKit-umbrella.h"
+- "/Users/user/Desktop/Lyhour project/lyhour/Build/Products/Debug-iphonesimulator/SideMenu/SideMenu.framework/Headers/SideMenu-umbrella.h"
+- "/Users/user/Desktop/Lyhour project/lyhour/Build/Products/Debug-iphonesimulator/MXPagerView/MXPagerView.framework/Headers/MXPagerView-umbrella.h"
+- "/Users/user/Desktop/Lyhour project/lyhour/Build/Products/Debug-iphonesimulator/NVActivityIndicatorView/NVActivityIndicatorView.framework/Headers/NVActivityIndicatorView-umbrella.h"
+- "/Users/user/Desktop/Lyhour project/lyhour/Pods/GoogleMaps/Maps/Frameworks/GoogleMaps.framework/Headers/GMSPanorama.h"
+- "/Users/user/Desktop/Lyhour project/lyhour/Pods/GoogleMaps/Maps/Frameworks/GoogleMaps.framework/Headers/GMSPanoramaCamera.h"
+- "/Users/user/Desktop/Lyhour project/lyhour/Pods/GooglePlaces/Frameworks/GooglePlaces.framework/Headers/GMSPlacePhotoMetadata.h"
+- "/Users/user/Desktop/Lyhour project/lyhour/Pods/GooglePlaces/Frameworks/GooglePlaces.framework/Headers/GMSPlaceLikelihood.h"
+- "/Users/user/Desktop/Lyhour project/lyhour/Build/Products/Debug-iphonesimulator/SwinjectStoryboard/SwinjectStoryboard.framework/Headers/SwinjectStoryboard.h"
+- "/Users/user/Desktop/Lyhour project/lyhour/Pods/GooglePlaces/Frameworks/GooglePlaces.framework/Headers/GMSPlace.h"
+- "/Users/user/Desktop/Lyhour project/lyhour/Pods/GooglePlaces/Frameworks/GooglePlaces.framework/Headers/GMSUserAddedPlace.h"
+- "/Users/user/Desktop/Lyhour project/lyhour/Pods/GoogleMaps/Maps/Frameworks/GoogleMaps.framework/Headers/GMSPanoramaService.h"
+- "/Users/user/Desktop/Lyhour project/lyhour/Pods/GoogleMaps/Maps/Frameworks/GoogleMaps.framework/Headers/GMSPanoramaSource.h"
+- "/Users/user/Desktop/Lyhour project/lyhour/Pods/GooglePlaces/Frameworks/GooglePlaces.framework/Headers/GMSAutocompleteTableDataSource.h"
+- "/Users/user/Desktop/Lyhour project/lyhour/Pods/GooglePlaces/Frameworks/GooglePlaces.framework/Headers/GMSAutocompleteBoundsMode.h"
+- "/Users/user/Desktop/Lyhour project/lyhour/Pods/GoogleMaps/Maps/Frameworks/GoogleMaps.framework/Headers/GMSCircle.h"
+- "/Users/user/Desktop/Lyhour project/lyhour/Pods/GoogleMaps/Maps/Frameworks/GoogleMaps.framework/Headers/GMSMapStyle.h"
+- "/Users/user/Desktop/Lyhour project/lyhour/Pods/GoogleMaps/Maps/Frameworks/GoogleMaps.framework/Headers/GMSPolyline.h"
+- "/Users/user/Desktop/Lyhour project/lyhour/Build/Products/Debug-iphonesimulator/SwinjectStoryboard/SwinjectStoryboard.framework/Headers/_SwinjectStoryboardBase.h"
+- "/Users/user/Desktop/Lyhour project/lyhour/Pods/GoogleMaps/Base/Frameworks/GoogleMapsBase.framework/Headers/GoogleMapsBase.h"
+- "/Users/user/Desktop/Lyhour project/lyhour/Pods/GoogleMaps/Maps/Frameworks/GoogleMaps.framework/Headers/GMSCameraUpdate.h"
+- "/Users/user/Desktop/Lyhour project/lyhour/Pods/GoogleMaps/Maps/Frameworks/GoogleMaps.framework/Headers/GMSPanoramaCameraUpdate.h"
+- "/Users/user/Desktop/Lyhour project/lyhour/Pods/GoogleMaps/Maps/Frameworks/GoogleMaps.framework/Headers/GMSIndoorBuilding.h"
+- "/Users/user/Desktop/Lyhour project/lyhour/Build/Products/Debug-iphonesimulator/SwinjectStoryboard/SwinjectStoryboard.framework/Headers/UIStoryboard+Swizzling.h"
+- "/Users/user/Desktop/Lyhour project/lyhour/Pods/GoogleMaps/Maps/Frameworks/GoogleMaps.framework/Headers/GMSPath.h"
+- "/Users/user/Desktop/Lyhour project/lyhour/Pods/GoogleMaps/Maps/Frameworks/GoogleMaps.framework/Headers/GMSMutablePath.h"
+- "/Users/user/Desktop/Lyhour project/lyhour/Pods/GoogleMaps/Maps/Frameworks/GoogleMaps.framework/Headers/GMSPanoramaLink.h"
+- "/Users/user/Desktop/Lyhour project/lyhour/Pods/GoogleMaps/Maps/Frameworks/GoogleMaps.framework/Headers/GMSIndoorLevel.h"
+- "/Users/user/Desktop/Lyhour project/lyhour/Build/Products/Debug-iphonesimulator/SwinjectStoryboard/SwinjectStoryboard.framework/Headers/SwinjectStoryboardProtocol.h"
+- "/Users/user/Desktop/Lyhour project/lyhour/Build/Products/Debug-iphonesimulator/HMSegmentedControl/HMSegmentedControl.framework/Headers/HMSegmentedControl.h"
+- "/Users/user/Desktop/Lyhour project/lyhour/Pods/GoogleMaps/Maps/Frameworks/GoogleMaps.framework/Headers/GMSPolygon.h"
+- "/Users/user/Desktop/Lyhour project/lyhour/Pods/GoogleMaps/Maps/Frameworks/GoogleMaps.framework/Headers/GMSMapView+Animation.h"
+- "/Users/user/Desktop/Lyhour project/lyhour/Pods/GoogleMaps/Maps/Frameworks/GoogleMaps.framework/Headers/GMSOrientation.h"
+- "/Users/user/Desktop/Lyhour project/lyhour/Pods/GoogleMaps/Maps/Frameworks/GoogleMaps.framework/Headers/GMSProjection.h"
+- "/Users/user/Desktop/Lyhour project/lyhour/Pods/GooglePlaces/Frameworks/GooglePlaces.framework/Headers/GMSAutocompletePrediction.h"
+- "/Users/user/Desktop/Lyhour project/lyhour/Pods/GoogleMaps/Maps/Frameworks/GoogleMaps.framework/Headers/GMSCameraPosition.h"
+- "/Users/user/Desktop/Lyhour project/lyhour/Build/Products/Debug-iphonesimulator/MXParallaxHeader/MXParallaxHeader.framework/Headers/MXParallaxHeader.h"
+- "/Users/user/Desktop/Lyhour project/lyhour/Pods/GoogleMaps/Maps/Frameworks/GoogleMaps.framework/Headers/GMSGeocoder.h"
+- "/Users/user/Desktop/Lyhour project/lyhour/Build/Products/Debug-iphonesimulator/MXSegmentedPager/MXSegmentedPager.framework/Headers/MXSegmentedPager.h"
+- "/Users/user/Desktop/Lyhour project/lyhour/Pods/GooglePlaces/Frameworks/GooglePlaces.framework/Headers/GMSAutocompleteFetcher.h"
+- "/Users/user/Desktop/Lyhour project/lyhour/Pods/GoogleMaps/Maps/Frameworks/GoogleMaps.framework/Headers/GMSMarker.h"
+- "/Users/user/Desktop/Lyhour project/lyhour/Build/Products/Debug-iphonesimulator/MXSegmentedPager/MXSegmentedPager.framework/Headers/MXSegmentedPagerController.h"
+- "/Users/user/Desktop/Lyhour project/lyhour/Pods/GooglePlaces/Frameworks/GooglePlaces.framework/Headers/GMSAutocompleteViewController.h"
+- "/Users/user/Desktop/Lyhour project/lyhour/Build/Products/Debug-iphonesimulator/MXParallaxHeader/MXParallaxHeader.framework/Headers/MXScrollViewController.h"
+- "/Users/user/Desktop/Lyhour project/lyhour/Build/Products/Debug-iphonesimulator/MXPagerView/MXPagerView.framework/Headers/MXPagerViewController.h"
+- "/Users/user/Desktop/Lyhour project/lyhour/Pods/GooglePlaces/Frameworks/GooglePlaces.framework/Headers/GMSAutocompleteResultsViewController.h"
+- "/Users/user/Desktop/Lyhour project/lyhour/Pods/GooglePlaces/Frameworks/GooglePlaces.framework/Headers/GMSAutocompleteFilter.h"
+- "/Users/user/Desktop/Lyhour project/lyhour/Pods/GoogleMaps/Maps/Frameworks/GoogleMaps.framework/Headers/GMSCALayer.h"
+- "/Users/user/Desktop/Lyhour project/lyhour/Pods/GoogleMaps/Maps/Frameworks/GoogleMaps.framework/Headers/GMSPanoramaLayer.h"
+- "/Users/user/Desktop/Lyhour project/lyhour/Pods/GoogleMaps/Maps/Frameworks/GoogleMaps.framework/Headers/GMSURLTileLayer.h"
+- "/Users/user/Desktop/Lyhour project/lyhour/Pods/GoogleMaps/Maps/Frameworks/GoogleMaps.framework/Headers/GMSTileLayer.h"
+- "/Users/user/Desktop/Lyhour project/lyhour/Pods/GoogleMaps/Maps/Frameworks/GoogleMaps.framework/Headers/GMSSyncTileLayer.h"
+- "/Users/user/Desktop/Lyhour project/lyhour/Pods/GoogleMaps/Maps/Frameworks/GoogleMaps.framework/Headers/GMSMapLayer.h"
+- "/Users/user/Desktop/Lyhour project/lyhour/Pods/GoogleMaps/Maps/Frameworks/GoogleMaps.framework/Headers/GMSMarkerLayer.h"
+- "/Users/user/Desktop/Lyhour project/lyhour/Pods/GoogleMaps/Maps/Frameworks/GoogleMaps.framework/Headers/GMSOverlayLayer.h"
+- "/Users/user/Desktop/Lyhour project/lyhour/Pods/GoogleMaps/Base/Frameworks/GoogleMapsBase.framework/Headers/GMSCoordinateBounds.h"
+- "/Users/user/Desktop/Lyhour project/lyhour/Pods/GooglePlaces/Frameworks/GooglePlaces.framework/Headers/GooglePlaces.h"
+- "/Users/user/Desktop/Lyhour project/lyhour/Pods/GoogleMaps/Maps/Frameworks/GoogleMaps.framework/Headers/GMSServices.h"
+- "/Users/user/Desktop/Lyhour project/lyhour/Pods/GooglePlaces/Frameworks/GooglePlaces.framework/Headers/GMSPlaceTypes.h"
+- "/Users/user/Desktop/Lyhour project/lyhour/Pods/GoogleMaps/Maps/Frameworks/GoogleMaps.framework/Headers/GMSUISettings.h"
+- "/Users/user/Desktop/Lyhour project/lyhour/Pods/GoogleMaps/Maps/Frameworks/GoogleMaps.framework/Headers/GMSGeometryUtils.h"
+- "/Users/user/Desktop/Lyhour project/lyhour/Pods/GoogleMaps/Base/Frameworks/GoogleMapsBase.framework/Headers/GMSDeprecationMacros.h"
+- "/Users/user/Desktop/Lyhour project/lyhour/Pods/GoogleMaps/Base/Frameworks/GoogleMapsBase.framework/Headers/GMSCompatabilityMacros.h"
+- "/Users/user/Desktop/Lyhour project/lyhour/Pods/GoogleMaps/Maps/Frameworks/GoogleMaps.framework/Headers/GMSCoordinateBounds+GoogleMaps.h"
+- "/Users/user/Desktop/Lyhour project/lyhour/Pods/GoogleMaps/Maps/Frameworks/GoogleMaps.framework/Headers/GoogleMaps.h"
+- "/Users/user/Desktop/Lyhour project/lyhour/Pods/GooglePlaces/Frameworks/GooglePlaces.framework/Headers/GMSPlacesErrors.h"
+- "/Users/user/Desktop/Lyhour project/lyhour/Pods/GoogleMaps/Maps/Frameworks/GoogleMaps.framework/Headers/GMSAddress.h"
+- "/Users/user/Desktop/Lyhour project/lyhour/Build/Products/Debug-iphonesimulator/Swinject/Swinject.framework/Headers/Swinject.h"
+- "/Users/user/Desktop/Lyhour project/lyhour/Build/Products/Debug-iphonesimulator/SwiftyJSON/SwiftyJSON.framework/Headers/SwiftyJSON-Swift.h"
+- "/Users/user/Desktop/Lyhour project/lyhour/Build/Products/Debug-iphonesimulator/SwinjectStoryboard/SwinjectStoryboard.framework/Headers/SwinjectStoryboard-Swift.h"
+- "/Users/user/Desktop/Lyhour project/lyhour/Build/Products/Debug-iphonesimulator/Alamofire/Alamofire.framework/Headers/Alamofire-Swift.h"
+- "/Users/user/Desktop/Lyhour project/lyhour/Build/Products/Debug-iphonesimulator/Material/Material.framework/Headers/Material-Swift.h"
+- "/Users/user/Desktop/Lyhour project/lyhour/Build/Products/Debug-iphonesimulator/Motion/Motion.framework/Headers/Motion-Swift.h"
+- "/Users/user/Desktop/Lyhour project/lyhour/Build/Products/Debug-iphonesimulator/Swinject/Swinject.framework/Headers/Swinject-Swift.h"
+- "/Users/user/Desktop/Lyhour project/lyhour/Build/Products/Debug-iphonesimulator/CryptoSwift/CryptoSwift.framework/Headers/CryptoSwift-Swift.h"
+- "/Users/user/Desktop/Lyhour project/lyhour/Build/Products/Debug-iphonesimulator/DeviceKit/DeviceKit.framework/Headers/DeviceKit-Swift.h"
+- "/Users/user/Desktop/Lyhour project/lyhour/Build/Products/Debug-iphonesimulator/PhoneNumberKit/PhoneNumberKit.framework/Headers/PhoneNumberKit-Swift.h"
+- "/Users/user/Desktop/Lyhour project/lyhour/Build/Products/Debug-iphonesimulator/SideMenu/SideMenu.framework/Headers/SideMenu-Swift.h"
+- "/Users/user/Desktop/Lyhour project/lyhour/Build/Products/Debug-iphonesimulator/NVActivityIndicatorView/NVActivityIndicatorView.framework/Headers/NVActivityIndicatorView-Swift.h"
+- "/Users/user/Desktop/Lyhour project/lyhour/Pods/GooglePlaces/Frameworks/GooglePlaces.framework/Headers/GMSPlacesClient.h"
+- "/Users/user/Desktop/Lyhour project/lyhour/Pods/GooglePlaces/Frameworks/GooglePlaces.framework/Headers/GMSAutocompleteMatchFragment.h"
+- "/Users/user/Desktop/Lyhour project/lyhour/Pods/GooglePlaces/Frameworks/GooglePlaces.framework/Headers/GMSAddressComponent.h"
+- "/Users/user/Desktop/Lyhour project/lyhour/Pods/GooglePlaces/Frameworks/GooglePlaces.framework/Headers/GMSPlacePhotoMetadataList.h"
+- "/Users/user/Desktop/Lyhour project/lyhour/Pods/GooglePlaces/Frameworks/GooglePlaces.framework/Headers/GMSPlaceLikelihoodList.h"
+- "/Users/user/Desktop/Lyhour project/lyhour/Pods/GoogleMaps/Maps/Frameworks/GoogleMaps.framework/Headers/GMSPanoramaView.h"
+- "/Users/user/Desktop/Lyhour project/lyhour/Build/Products/Debug-iphonesimulator/MXParallaxHeader/MXParallaxHeader.framework/Headers/MXScrollView.h"
+- "/Users/user/Desktop/Lyhour project/lyhour/Pods/GoogleMaps/Maps/Frameworks/GoogleMaps.framework/Headers/GMSMapView.h"
+- "/Users/user/Desktop/Lyhour project/lyhour/Build/Products/Debug-iphonesimulator/MXPagerView/MXPagerView.framework/Headers/MXPagerView.h"
+- "/Users/user/Desktop/Lyhour project/lyhour/Pods/GoogleMaps/Maps/Frameworks/GoogleMaps.framework/Headers/GMSIndoorDisplay.h"
+- "/Users/user/Desktop/Lyhour project/lyhour/Pods/GoogleMaps/Maps/Frameworks/GoogleMaps.framework/Headers/GMSOverlay.h"
+- "/Users/user/Desktop/Lyhour project/lyhour/Pods/GoogleMaps/Maps/Frameworks/GoogleMaps.framework/Headers/GMSGroundOverlay.h"
+- "/Users/user/Desktop/Lyhour project/lyhour/Build/Products/Debug-iphonesimulator/SwiftyJSON/SwiftyJSON.framework/Modules/module.modulemap"
+- "/Users/user/Desktop/Lyhour project/lyhour/Build/Products/Debug-iphonesimulator/SwinjectStoryboard/SwinjectStoryboard.framework/Modules/module.modulemap"
+- "/Users/user/Desktop/Lyhour project/lyhour/Build/Products/Debug-iphonesimulator/Alamofire/Alamofire.framework/Modules/module.modulemap"
+- "/Users/user/Desktop/Lyhour project/lyhour/Pods/GoogleMaps/Base/Frameworks/GoogleMapsBase.framework/Modules/module.modulemap"
+- "/Users/user/Desktop/Lyhour project/lyhour/Build/Products/Debug-iphonesimulator/Material/Material.framework/Modules/module.modulemap"
+- "/Users/user/Desktop/Lyhour project/lyhour/Build/Products/Debug-iphonesimulator/HMSegmentedControl/HMSegmentedControl.framework/Modules/module.modulemap"
+- "/Users/user/Desktop/Lyhour project/lyhour/Build/Products/Debug-iphonesimulator/Motion/Motion.framework/Modules/module.modulemap"
+- "/Users/user/Desktop/Lyhour project/lyhour/Build/Products/Debug-iphonesimulator/MXParallaxHeader/MXParallaxHeader.framework/Modules/module.modulemap"
+- "/Users/user/Desktop/Lyhour project/lyhour/Build/Products/Debug-iphonesimulator/MXSegmentedPager/MXSegmentedPager.framework/Modules/module.modulemap"
+- "/Users/user/Desktop/Lyhour project/lyhour/Pods/GooglePlaces/Frameworks/GooglePlaces.framework/Modules/module.modulemap"
+- "/Users/user/Desktop/Lyhour project/lyhour/Pods/GoogleMaps/Maps/Frameworks/GoogleMaps.framework/Modules/module.modulemap"
+- "/Users/user/Desktop/Lyhour project/lyhour/Build/Products/Debug-iphonesimulator/Swinject/Swinject.framework/Modules/module.modulemap"
+- "/Users/user/Desktop/Lyhour project/lyhour/Build/Products/Debug-iphonesimulator/CryptoSwift/CryptoSwift.framework/Modules/module.modulemap"
+- "/Users/user/Desktop/Lyhour project/lyhour/Build/Products/Debug-iphonesimulator/DeviceKit/DeviceKit.framework/Modules/module.modulemap"
+- "/Users/user/Desktop/Lyhour project/lyhour/Build/Products/Debug-iphonesimulator/PhoneNumberKit/PhoneNumberKit.framework/Modules/module.modulemap"
+- "/Users/user/Desktop/Lyhour project/lyhour/Build/Products/Debug-iphonesimulator/SideMenu/SideMenu.framework/Modules/module.modulemap"
+- "/Users/user/Desktop/Lyhour project/lyhour/Build/Products/Debug-iphonesimulator/MXPagerView/MXPagerView.framework/Modules/module.modulemap"
+- "/Users/user/Desktop/Lyhour project/lyhour/Build/Products/Debug-iphonesimulator/NVActivityIndicatorView/NVActivityIndicatorView.framework/Modules/module.modulemap"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.0.sdk/usr/include/objc/ObjectiveC.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.0.sdk/System/Library/Frameworks/ModelIO.framework/Headers/ModelIO.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.0.sdk/System/Library/Frameworks/OpenGLES.framework/Headers/OpenGLES.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.0.sdk/System/Library/Frameworks/CoreMedia.framework/Headers/CoreMedia.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.0.sdk/System/Library/Frameworks/CoreImage.framework/Headers/CoreImage.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.0.sdk/System/Library/Frameworks/QuartzCore.framework/Headers/QuartzCore.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.0.sdk/System/Library/Frameworks/Accelerate.framework/Headers/Accelerate.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.0.sdk/System/Library/Frameworks/Metal.framework/Headers/Metal.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.0.sdk/usr/include/Darwin.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.0.sdk/System/Library/Frameworks/CoreLocation.framework/Headers/CoreLocation.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.0.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.0.sdk/System/Library/Frameworks/AVFoundation.framework/Headers/AVFoundation.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.0.sdk/System/Library/Frameworks/CoreGraphics.framework/Headers/CoreGraphics.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.0.sdk/System/Library/Frameworks/Contacts.framework/Headers/Contacts.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.0.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.0.sdk/System/Library/Frameworks/MetalKit.framework/Headers/MetalKit.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.0.sdk/System/Library/Frameworks/CoreText.framework/Headers/CoreText.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.0.sdk/System/Library/Frameworks/MediaToolbox.framework/Headers/MediaToolbox.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.0.sdk/System/Library/Frameworks/AudioToolbox.framework/Headers/AudioToolbox.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.0.sdk/System/Library/Frameworks/Security.framework/Headers/Security.apinotes"
+interface-hash: "713a13ca8cc7fdcdd1a64919002a2a6d"

@@ -1,0 +1,5 @@
+version: "Apple Swift version 4.2 (swiftlang-1000.11.37.1 clang-1000.11.45.1)"
+options: "3a910387ead12c1b08e24121444404b8"
+build_time: [1540552183, 60404000]
+inputs:
+  "/Users/user/Desktop/Lyhour project/lyhour/Pods/SwiftyJSON/Source/SwiftyJSON.swift": [1540179202, 0]
